@@ -1,0 +1,233 @@
+{
+ "fetched_at": "2026-09-06T07:16:21Z",
+ "source_id": "bbba",
+ "strategies": [
+  {
+   "login": 37328492,
+   "name": "XaurusQuant",
+   "strategy": "AGGRESSIVE SETTINGS",
+   "strategy_desc": "🚀 Xaurus: Агрессор\n\n• Цель: до 1000% прибыли за 6 месяцев.\n• Настройки: Максимальная агрессия.\n• Риск: Критически высокий. Вероятна полная потеря депозита!\n• Для тех, кто готов рискнуть малым ради огромной прибыли.\n\n👇 Подключить CopyFX (на свой страх и риск):\nhttps://t.me/+YC8sLPokRbdlY2Zi",
+   "symbols": [
+    {
+     "symbol": "XAUUSD",
+     "count": 1051
+    }
+   ],
+   "profit_percent": 802.71,
+   "profit_usd": 4333.57,
+   "dd_max": -26.97,
+   "balance_usd": 2163.51,
+   "subscriber_count": 43,
+   "leverage": 2000,
+   "is_cent": true,
+   "platform": "mt5",
+   "min_equity_usd": 100.0,
+   "commission_rate": 30.0,
+   "payout_period_days": 14,
+   "registration_time": "2026-04-09T09:32:37.000Z",
+   "deal_count": 1051,
+   "current_dd_pct": 0.0,
+   "nontrade_ops": [
+    {
+     "date": "2026-06-30",
+     "usd": -3169.43
+    }
+   ],
+   "withdrawn_usd": 3169.43,
+   "deposited_usd": 0,
+   "listed": true,
+   "public_url": "https://roboforex.com/copy-trading/rating/bbba/37328492/"
+  },
+  {
+   "login": 37305372,
+   "name": "XaurusQuant",
+   "strategy": "AGGRESSIVE SETTINGS",
+   "strategy_desc": "🚀 Xaurus: Агрессор\n\n• Цель: до 1000% прибыли за 6 месяцев.\n• Настройки: Максимальная агрессия.\n• Риск: Критически высокий. Вероятна полная потеря депозита!\n• Для тех, кто готов рискнуть малым ради огромной прибыли.\n\n👇 Подключить CopyFX (на свой страх и риск):\nhttps://t.me/+YC8sLPokRbdlY2Zi",
+   "symbols": [
+    {
+     "symbol": "XAUUSD",
+     "count": 1395
+    }
+   ],
+   "profit_percent": 1523.44,
+   "profit_usd": 1512.88,
+   "dd_max": -43.0,
+   "balance_usd": 1571.88,
+   "subscriber_count": 12,
+   "leverage": 2000,
+   "is_cent": true,
+   "platform": "mt5",
+   "min_equity_usd": 100.0,
+   "commission_rate": 30.0,
+   "payout_period_days": 28,
+   "registration_time": "2026-02-24T14:46:16.000Z",
+   "deal_count": 1395,
+   "current_dd_pct": 1.83,
+   "nontrade_ops": [],
+   "withdrawn_usd": 0,
+   "deposited_usd": 0,
+   "listed": true,
+   "public_url": "https://roboforex.com/copy-trading/rating/bbba/37305372/"
+  },
+  {
+   "login": 37315468,
+   "name": "XaurusQuant",
+   "strategy": "AGGRESSIVE SETTINGS",
+   "strategy_desc": "🚀 Xaurus: Агрессор\n\n• Цель: до 1000% прибыли за 6 месяцев.\n• Настройки: Максимальная агрессия.\n• Риск: Критически высокий. Вероятна полная потеря депозита!\n• Для тех, кто готов рискнуть малым ради огромной прибыли.\n\n👇 Подключить CopyFX (на свой страх и риск):\nhttps://t.me/+YC8sLPokRbdlY2Zi",
+   "symbols": [
+    {
+     "symbol": "XAUUSD",
+     "count": 2001
+    }
+   ],
+   "profit_percent": 765.9,
+   "profit_usd": 765.99,
+   "dd_max": -42.48,
+   "balance_usd": 814.26,
+   "subscriber_count": 7,
+   "leverage": 2000,
+   "is_cent": true,
+   "platform": "mt5",
+   "min_equity_usd": 100.0,
+   "commission_rate": 30.0,
+   "payout_period_days": 28,
+   "registration_time": "2026-03-15T07:15:59.000Z",
+   "deal_count": 2001,
+   "current_dd_pct": 2.67,
+   "nontrade_ops": [],
+   "withdrawn_usd": 0,
+   "deposited_usd": 0,
+   "listed": true,
+   "public_url": "https://roboforex.com/copy-trading/rating/bbba/37315468/"
+  },
+  {
+   "login": 37367883,
+   "name": "XaurusQuant",
+   "strategy": "BTCUSD Aggressive",
+   "strategy_desc": "⚡ Very aggressive settings for the XAURUS AI PRO100 robot, designed for trading BTCUSD.\n\n🎯 Target: to attempt to achieve +1000% growth\n\nThese settings are focused on high growth potential and involve an extremely high level of risk. Significant drawdowns are possible, including the risk of losing the entire trading deposit.\n\n📲 Follow our results and updates:\n👉 Xaurus Quant\n\n⚠️ The target is not guaranteed. Past or backtested results do not guarantee future performance. Use only funds you can afford to lose.",
+   "symbols": [
+    {
+     "symbol": "BTCUSD",
+     "count": 791
+    }
+   ],
+   "profit_percent": 103.74,
+   "profit_usd": 51.87,
+   "dd_max": -5.44,
+   "balance_usd": 101.89,
+   "subscriber_count": 5,
+   "leverage": 1000,
+   "is_cent": true,
+   "platform": "mt5",
+   "min_equity_usd": 100.0,
+   "commission_rate": 30.0,
+   "payout_period_days": 14,
+   "registration_time": "2026-06-30T13:53:37.000Z",
+   "deal_count": 791,
+   "current_dd_pct": 2.13,
+   "nontrade_ops": [],
+   "withdrawn_usd": 0,
+   "deposited_usd": 0,
+   "listed": true,
+   "public_url": "https://roboforex.com/copy-trading/rating/bbba/37367883/"
+  },
+  {
+   "login": 37346579,
+   "name": "XaurusQuant",
+   "strategy": "CONSERVATIVE",
+   "strategy_desc": "🛡 Xaurus: Консерватор\n\n• Настройки: Консервативные.\n• Риск: Max DD до 20%.\n• Цель: ~10% прибыли в месяц.\n• Идеально для стабильного роста и крупных депозитов.\n\n👇 Подключить CopyFX и следить за отчетами:\nhttps://t.me/+YC8sLPokRbdlY2Zi",
+   "symbols": [
+    {
+     "symbol": "XAUUSD",
+     "count": 551
+    }
+   ],
+   "profit_percent": 386.01,
+   "profit_usd": 386.01,
+   "dd_max": -48.57,
+   "balance_usd": 488.53,
+   "subscriber_count": 3,
+   "leverage": 2000,
+   "is_cent": true,
+   "platform": "mt5",
+   "min_equity_usd": 100.0,
+   "commission_rate": 30.0,
+   "payout_period_days": 14,
+   "registration_time": "2026-05-17T08:09:09.000Z",
+   "deal_count": 551,
+   "current_dd_pct": 2.2,
+   "nontrade_ops": [],
+   "withdrawn_usd": 0,
+   "deposited_usd": 0,
+   "listed": true,
+   "public_url": "https://roboforex.com/copy-trading/rating/bbba/37346579/"
+  },
+  {
+   "login": 37346581,
+   "name": "XaurusQuant",
+   "strategy": "AGGRESSIVE SETTINGS",
+   "strategy_desc": "🚀 Xaurus: Агрессор\n\n• Цель: до 1000% прибыли за 6 месяцев.\n• Настройки: Максимальная агрессия.\n• Риск: Критически высокий. Вероятна полная потеря депозита!\n• Для тех, кто готов рискнуть малым ради огромной прибыли.\n\n👇 Подключить CopyFX (на свой страх и риск):\nhttps://t.me/+YC8sLPokRbdlY2Zi",
+   "symbols": [
+    {
+     "symbol": "XAUUSD",
+     "count": 1227
+    }
+   ],
+   "profit_percent": 738.05,
+   "profit_usd": 479.75,
+   "dd_max": -47.13,
+   "balance_usd": 525.98,
+   "subscriber_count": 3,
+   "leverage": 2000,
+   "is_cent": true,
+   "platform": "mt5",
+   "min_equity_usd": 100.0,
+   "commission_rate": 30.0,
+   "payout_period_days": 14,
+   "registration_time": "2026-05-17T08:10:30.000Z",
+   "deal_count": 1227,
+   "current_dd_pct": 7.58,
+   "nontrade_ops": [],
+   "withdrawn_usd": 0,
+   "deposited_usd": 0,
+   "listed": true,
+   "public_url": "https://roboforex.com/copy-trading/rating/bbba/37346581/"
+  },
+  {
+   "login": 37328491,
+   "name": "XaurusQuant",
+   "strategy": "AVERAGE MODERATE",
+   "strategy_desc": "• Настройки: Среднеумеренные.\n• Риск: Max DD до 50%.\n• Цель: 30–50% прибыли в месяц.\n• Оптимальное сочетание риска и высокой доходности.\n\n👇 Подключить CopyFX и отчеты здесь:\nhttps://t.me/+YC8sLPokRbdlY2Zi",
+   "symbols": [
+    {
+     "symbol": "XAUUSD",
+     "count": 695
+    }
+   ],
+   "profit_percent": 234.87,
+   "profit_usd": 1703.9,
+   "dd_max": -37.38,
+   "balance_usd": 1711.39,
+   "subscriber_count": 0,
+   "leverage": 2000,
+   "is_cent": true,
+   "platform": "mt5",
+   "min_equity_usd": 1000.0,
+   "commission_rate": 30.0,
+   "payout_period_days": 14,
+   "registration_time": "2026-04-09T09:31:23.000Z",
+   "deal_count": 695,
+   "current_dd_pct": 1.61,
+   "nontrade_ops": [
+    {
+     "date": "2026-06-30",
+     "usd": -997.31
+    }
+   ],
+   "withdrawn_usd": 997.31,
+   "deposited_usd": 0,
+   "listed": true,
+   "public_url": "https://roboforex.com/copy-trading/rating/bbba/37328491/"
+  }
+ ]
+}

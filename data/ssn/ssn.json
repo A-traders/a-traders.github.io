@@ -1,0 +1,114 @@
+{
+ "source": "https://www.mql5.com/ru/blogs/post/775371",
+ "date": "5 сентября 2026, 06:24",
+ "checked_at": "2026-09-06T13:52:23Z",
+ "robots": [
+  {
+   "robot": "Xaurus AI Pro100",
+   "dir": "xaurus",
+   "groups": [
+    {
+     "t": "XAUUSD 2026.01.01 — 2026.08.31",
+     "c": "депозит 10 000, плечо 1:1000 · Xaurus, RoboForex Pro",
+     "codes": [
+      "xu6dG2N4E5mCbAVR8xjEbb",
+      "xu66CSdHT4wUk4UtYh3ovv",
+      "xu6dFveHrBKRqvqR1cemhh"
+     ]
+    },
+    {
+     "t": "XAUUSD 2024.01.01 — 2026.08.31",
+     "c": "депозит 10 000, плечо 1:1000 · Xaurus, RoboForex Pro",
+     "codes": [
+      "xu61AJPFAn0ML7gTJaBuhDD",
+      "xu61WLjWVXSp2FrCgXyFuJJ",
+      "xu6To88SfiGGRP0QxFbJhcdd"
+     ]
+    },
+    {
+     "t": "BTCUSD 2026.02.01 — 2026.08.31",
+     "c": "депозит 10 000, плечо 1:500 · Xaurus, RoboForex Pro",
+     "codes": [
+      "xu6wTLCn182ruAlBkCn50O33",
+      "xu61rEDQzNyNLMOTB8CS2i6tt",
+      "xu6x2swZqiY0hP3eWvbiGC77"
+     ]
+    }
+   ]
+  },
+  {
+   "robot": "Swinger AI Pro100",
+   "dir": "swinger",
+   "groups": [
+    {
+     "t": "XAUUSD 2026.01.01 — 2026.08.31",
+     "c": "депозит 10 000, плечо 1:1000 · Swinger, RoboForex Pro",
+     "codes": [
+      "sw6FcNyXLA9tGJaxRtoXv2EKhff",
+      "sw6FcNyXLC0uiOT4xCDE8RdOgJJ",
+      "sw61FIzZgCNiQtAJSCbCFwqqK4bVV"
+     ]
+    },
+    {
+     "t": "XAUUSD 2024.01.01 — 2026.08.31",
+     "c": "депозит 10 000, плечо 1:1000 · Swinger, RoboForex Pro",
+     "codes": [
+      "sw6ibTGlkRt9ivU1tJmNQkSqPP",
+      "sw6YpMHAXuSmaRsrGQyPj41JRR",
+      "sw61BviFSbXt3HBieLvsnsyJSXX"
+     ]
+    },
+    {
+     "t": "BTCUSD 2026.02.01 — 2026.08.31",
+     "c": "депозит 10 000, плечо 1:500 · Swinger, RoboForex Pro",
+     "codes": [
+      "sw610v6a2tXjYSIRoBvEHEPWWs11",
+      "sw6VO0b96WHzSEWjTao2XVkQhLL",
+      "sw6VO0fUqWlNvaSV4P7PB8naqPP"
+     ]
+    }
+   ]
+  }
+ ],
+ "images": {
+  "xu6dG2N4E5mCbAVR8xjEbb": "https://c.mql5.com/6/1027/xu6dG2N4E5mCbAVR8xjEbb.jpg",
+  "xu66CSdHT4wUk4UtYh3ovv": "https://c.mql5.com/6/1027/xu66CSdHT4wUk4UtYh3ovv.jpg",
+  "xu6dFveHrBKRqvqR1cemhh": "https://c.mql5.com/6/1027/xu6dFveHrBKRqvqR1cemhh.jpg",
+  "xu61AJPFAn0ML7gTJaBuhDD": "https://c.mql5.com/6/1027/xu61AJPFAn0ML7gTJaBuhDD.jpg",
+  "xu61WLjWVXSp2FrCgXyFuJJ": "https://c.mql5.com/6/1027/xu61WLjWVXSp2FrCgXyFuJJ.jpg",
+  "xu6To88SfiGGRP0QxFbJhcdd": "https://c.mql5.com/6/1027/xu6To88SfiGGRP0QxFbJhcdd.jpg",
+  "xu6wTLCn182ruAlBkCn50O33": "https://c.mql5.com/6/1027/xu6wTLCn182ruAlBkCn50O33.jpg",
+  "xu61rEDQzNyNLMOTB8CS2i6tt": "https://c.mql5.com/6/1027/xu61rEDQzNyNLMOTB8CS2i6tt.jpg",
+  "xu6x2swZqiY0hP3eWvbiGC77": "https://c.mql5.com/6/1027/xu6x2swZqiY0hP3eWvbiGC77.jpg",
+  "sw6FcNyXLA9tGJaxRtoXv2EKhff": "https://c.mql5.com/6/1027/sw6FcNyXLA9tGJaxRtoXv2EKhff.jpg",
+  "sw6FcNyXLC0uiOT4xCDE8RdOgJJ": "https://c.mql5.com/6/1027/sw6FcNyXLC0uiOT4xCDE8RdOgJJ.jpg",
+  "sw61FIzZgCNiQtAJSCbCFwqqK4bVV": "https://c.mql5.com/6/1027/sw61FIzZgCNiQtAJSCbCFwqqK4bVV.jpg",
+  "sw6ibTGlkRt9ivU1tJmNQkSqPP": "https://c.mql5.com/6/1027/sw6ibTGlkRt9ivU1tJmNQkSqPP.jpg",
+  "sw6YpMHAXuSmaRsrGQyPj41JRR": "https://c.mql5.com/6/1027/sw6YpMHAXuSmaRsrGQyPj41JRR.jpg",
+  "sw61BviFSbXt3HBieLvsnsyJSXX": "https://c.mql5.com/6/1027/sw61BviFSbXt3HBieLvsnsyJSXX.jpg",
+  "sw610v6a2tXjYSIRoBvEHEPWWs11": "https://c.mql5.com/6/1027/sw610v6a2tXjYSIRoBvEHEPWWs11.jpg",
+  "sw6VO0b96WHzSEWjTao2XVkQhLL": "https://c.mql5.com/6/1027/sw6VO0b96WHzSEWjTao2XVkQhLL.jpg",
+  "sw6VO0fUqWlNvaSV4P7PB8naqPP": "https://c.mql5.com/6/1027/sw6VO0fUqWlNvaSV4P7PB8naqPP.jpg"
+ },
+ "local": [
+  "sw610v6a2tXjYSIRoBvEHEPWWs11",
+  "sw61BviFSbXt3HBieLvsnsyJSXX",
+  "sw61FIzZgCNiQtAJSCbCFwqqK4bVV",
+  "sw6FcNyXLA9tGJaxRtoXv2EKhff",
+  "sw6FcNyXLC0uiOT4xCDE8RdOgJJ",
+  "sw6VO0b96WHzSEWjTao2XVkQhLL",
+  "sw6VO0fUqWlNvaSV4P7PB8naqPP",
+  "sw6YpMHAXuSmaRsrGQyPj41JRR",
+  "sw6ibTGlkRt9ivU1tJmNQkSqPP",
+  "xu61AJPFAn0ML7gTJaBuhDD",
+  "xu61WLjWVXSp2FrCgXyFuJJ",
+  "xu61rEDQzNyNLMOTB8CS2i6tt",
+  "xu66CSdHT4wUk4UtYh3ovv",
+  "xu6To88SfiGGRP0QxFbJhcdd",
+  "xu6dFveHrBKRqvqR1cemhh",
+  "xu6dG2N4E5mCbAVR8xjEbb",
+  "xu6wTLCn182ruAlBkCn50O33",
+  "xu6x2swZqiY0hP3eWvbiGC77"
+ ],
+ "failed": []
+}
