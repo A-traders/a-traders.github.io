@@ -25,36 +25,92 @@
   .err{display:none;color:#ff8f6b;font-size:13px;margin-top:12px;text-align:center}
   .err.on{display:block}
   .foot{color:#5d5d68;font-size:12px;text-align:center;margin-top:18px}
+  .langs{text-align:center;font-size:12.5px;color:var(--mut);margin-top:10px;letter-spacing:.3px}
+  .langs a{color:var(--mut);cursor:pointer;text-decoration:none;padding:0 5px}
+  .langs a.on{color:var(--gold);font-weight:600}
+  .langs a:hover{color:var(--txt)}
   #busy{display:none;text-align:center;color:var(--mut);font-size:14px;padding:40px 0}
   #busy.on{display:block}
   #busy.on ~ form{display:none}
 </style>
 </head>
 <body>
-<div class="uc">🚧 UNDER CONSTRUCTION — сайт в разработке 🚧</div>
+<div class="uc" id="uc">🚧 UNDER CONSTRUCTION — сайт в разработке 🚧</div>
 <div class="wrap">
   <div class="box">
     <img class="logo" src="logo/v4a_top.svg" alt="XAURUS.PRO">
     <div id="busy">Загрузка…</div>
     <form id="f" autocomplete="on">
-      <h1>Закрытый предпросмотр</h1>
-      <p class="sub">Сайт готовится к запуску. Введите логин и пароль, выданные разработчиком.</p>
-      <label for="u">Логин</label>
+      <h1 id="t1">Закрытый предпросмотр</h1>
+      <p class="sub" id="t2">Сайт готовится к запуску. Введите логин и пароль, выданные разработчиком.</p>
+      <label for="u" id="lu">Логин</label>
       <input id="u" name="username" type="text" autocomplete="username" required autofocus>
-      <label for="p">Пароль</label>
+      <label for="p" id="lp">Пароль</label>
       <input id="p" name="password" type="password" autocomplete="current-password" required>
       <button id="b" type="submit">Войти</button>
       <div class="err" id="e">Неверный логин или пароль.</div>
+      <div class="langs" id="langs"><a data-l="ru">RU</a>·<a data-l="en">EN</a>·<a data-l="kz">KZ</a></div>
       <div class="foot">xaurus.pro · AI Pro100</div>
     </form>
   </div>
 </div>
 <script>
 (function(){
-  /* Содержимое сайта лежит в site.enc: "XPRO1" + соль(16) + IV(12) + AES-256-GCM(HTML).
-     Ключ = PBKDF2-SHA256(логин + "\n" + пароль, соль, 300 000 итераций). Успешный ключ
-     запоминается в localStorage — повторные визиты открывают сайт без формы. */
-  var KEY = "xaurus_gate_key", ENC = "site.enc";
+  /* Сайт лежит в site.enc (RU), site_en.enc, site_kz.enc: "XPRO1" + соль(16) + IV(12) + AES-256-GCM(HTML).
+     Ключ = PBKDF2-SHA256(логин + "\n" + пароль, соль, 300 000 итераций); соль одна для всех файлов,
+     поэтому ключ, запомненный в localStorage, открывает любой язык и любой выпуск без формы.
+     Язык: куки xlang (выбор пользователя на сайте) → язык браузера (kk → KZ, ru → RU, иначе EN). */
+  var KEY = "xaurus_gate_key";
+  var FILES = {ru:"site.enc", en:"site_en.enc", kz:"site_kz.enc"};
+  var UI = {
+    ru:{uc:"🚧 UNDER CONSTRUCTION — сайт в разработке 🚧", title:"XAURUS.PRO — вход", t1:"Закрытый предпросмотр",
+        t2:"Сайт готовится к запуску. Введите логин и пароль, выданные разработчиком.", lu:"Логин", lp:"Пароль",
+        b:"Войти", e:"Неверный логин или пароль.", busy:"Загрузка…"},
+    en:{uc:"🚧 UNDER CONSTRUCTION 🚧", title:"XAURUS.PRO — sign in", t1:"Private preview",
+        t2:"The site is being prepared for launch. Enter the login and password issued by the developer.", lu:"Login", lp:"Password",
+        b:"Sign in", e:"Wrong login or password.", busy:"Loading…"},
+    kz:{uc:"🚧 UNDER CONSTRUCTION — сайт әзірленуде 🚧", title:"XAURUS.PRO — кіру", t1:"Жабық алдын ала қарау",
+        t2:"Сайт іске қосуға дайындалуда. Әзірлеуші берген логин мен құпиясөзді енгізіңіз.", lu:"Логин", lp:"Құпиясөз",
+        b:"Кіру", e:"Логин немесе құпиясөз қате.", busy:"Жүктелуде…"}
+  };
+  function cookieLang(){ var m = document.cookie.match(/(?:^|; )xlang=(ru|en|kz)/); return m ? m[1] : null; }
+  function detect(){
+    var ls = navigator.languages || [navigator.language || ""];
+    for (var i = 0; i < ls.length; i++){
+      var l = String(ls[i]).toLowerCase();
+      if (l.indexOf("kk") === 0) return "kz";
+      if (l.indexOf("ru") === 0) return "ru";
+      if (l.indexOf("en") === 0) return "en";
+    }
+    return "en";
+  }
+  var lang = cookieLang() || detect();
+  function applyUI(){
+    var s = UI[lang];
+    document.documentElement.lang = (lang === "kz" ? "kk" : lang);
+    document.title = s.title;
+    document.getElementById("uc").textContent = s.uc;
+    document.getElementById("t1").textContent = s.t1;
+    document.getElementById("t2").textContent = s.t2;
+    document.getElementById("lu").textContent = s.lu;
+    document.getElementById("lp").textContent = s.lp;
+    document.getElementById("b").textContent = s.b;
+    document.getElementById("e").textContent = s.e;
+    document.getElementById("busy").textContent = s.busy;
+    Array.prototype.forEach.call(document.querySelectorAll("#langs a"), function(a){
+      a.classList.toggle("on", a.getAttribute("data-l") === lang);
+    });
+  }
+  applyUI();
+  document.getElementById("langs").addEventListener("click", function(ev){
+    var l = ev.target.getAttribute && ev.target.getAttribute("data-l");
+    if (!l || !FILES[l]) return;
+    lang = l;
+    document.cookie = "xlang=" + l + ";path=/;max-age=31536000;SameSite=Lax";
+    blob = null;
+    applyUI();
+  });
+
   var f = document.getElementById("f"), u = document.getElementById("u"), p = document.getElementById("p"),
       b = document.getElementById("b"), e = document.getElementById("e"), busy = document.getElementById("busy");
   var te = new TextEncoder(), td = new TextDecoder();
@@ -65,8 +121,8 @@
 
   function load(){
     if (blob) return Promise.resolve(blob);
-    return fetch(ENC, {cache:"no-store"}).then(function(r){
-      if (!r.ok) throw new Error("no site.enc");
+    return fetch(FILES[lang], {cache:"no-store"}).then(function(r){
+      if (!r.ok) throw new Error("no " + FILES[lang]);
       return r.arrayBuffer();
     }).then(function(ab){
       var a = new Uint8Array(ab);
@@ -86,7 +142,8 @@
     return load().then(function(bl){
       return crypto.subtle.decrypt({name:"AES-GCM", iv:bl.iv}, key, bl.data);
     }).then(function(plain){
-      var html = td.decode(plain);
+      /* data-gate: сайт узнаёт, что открыт через gate (смена языка = перезагрузка gate, а не переход на en.html) */
+      var html = td.decode(plain).replace(/<html\b/, '<html data-gate="1"');
       document.open(); document.write(html); document.close();
     });
   }
