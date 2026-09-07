@@ -1,0 +1,149 @@
+# Регулярное обновление данных CopyFX и публикация сайта.
+#
+# ПОЧЕМУ РАСПИСАНИЕ ЖИВЁТ ЗДЕСЬ, А НЕ В ИСХОДНОМ РЕПО A-traders/xaurus.pro:
+# минуты GitHub Actions в публичных репо бесплатны и безлимитны, а в приватных
+# списываются из квоты аккаунта (Free 2000 мин/мес, каждый прогон округляется вверх
+# до целой минуты). Часовой cron в приватном репо стоил ~540 мин/мес и при этом
+# срабатывал лишь в 37 % случаев — дыры между обновлениями доходили до 4 часов.
+#
+# ИСХОДНИК САЙТА — В ПРИВАТНОМ РЕПО. Он клонируется сюда по SSH deploy key
+# (секрет SRC_DEPLOY_KEY, право записи только на xaurus.pro), вся работа — в
+# tools/pipeline.sh того репо. Здесь остаётся только расписание и решение «работать или нет».
+#
+# РАСПИСАНИЕ (UTC; машина оператора — UTC+3):
+#   :07 — основной прогон, работает всегда;
+#   :27 и :47 — сторожевые: проверяют, отработал ли предыдущий, и делают пропущенную
+#               работу, если снимок CopyFX старше FRESH_MIN минут. Если предыдущий
+#               прогон был — сторож выходит за секунды.
+# Минуты некруглые намеренно: на «0» приходится пик нагрузки планировщика GitHub,
+# там события задерживаются и теряются чаще всего.
+#
+# Суточная сверка «Примеры SSN» с блогом mql5 — в 02:xx UTC (05:xx МСК), с догоном:
+# если весь час 02 планировщик пропустил, сверку сделает первый прогон после 26 часов.
+name: refresh
+
+on:
+  schedule:
+    - cron: "7 * * * *"
+    - cron: "27 * * * *"
+    - cron: "47 * * * *"
+  workflow_dispatch:
+    inputs:
+      ssn:
+        description: "Сверить «Примеры SSN» с блогом mql5"
+        type: boolean
+        default: false
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  FRESH_MIN: "45"     # снимок свежее этого числа минут — сторожу делать нечего
+  MAIN_CRON: "7 * * * *"
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Публичный репо (сюда публикуем)
+        uses: actions/checkout@v4
+        with:
+          path: site
+
+      - name: Ключ доступа к исходному репо
+        env:
+          SRC_DEPLOY_KEY: ${{ secrets.SRC_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "$SRC_DEPLOY_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -t ed25519 github.com >> ~/.ssh/known_hosts 2>/dev/null
+
+      - name: Клон исходного репо
+        run: git clone --quiet git@github.com:A-traders/xaurus.pro.git src
+
+      # Основной прогон работает всегда. Сторожевой — только если предыдущий не отработал,
+      # то есть снимок CopyFX старше FRESH_MIN минут. Признак «отработал» — поле fetched_at
+      # в data/copyfx/strategies.json: его пишет каждый успешный прогон конвейера.
+      - name: Решение — работать или предыдущий уже отработал
+        id: decide
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import datetime as dt, json, os
+
+          def age_min(path, key):
+              """Возраст отметки времени в минутах; None — если отметки нет."""
+              try:
+                  with open(path, encoding="utf-8") as f:
+                      at = json.load(f)[key]
+              except Exception:
+                  return None
+              t = dt.datetime.fromisoformat(at.replace("Z", "+00:00"))
+              return (dt.datetime.now(dt.timezone.utc) - t).total_seconds() / 60
+
+          event = os.environ["GITHUB_EVENT_NAME"]
+          cron = os.environ.get("CRON", "")
+          fresh = float(os.environ["FRESH_MIN"])
+          now = dt.datetime.now(dt.timezone.utc)
+
+          data_age = age_min("src/data/copyfx/strategies.json", "fetched_at")
+          ssn_age = age_min("src/data/ssn/last_sync.json", "at")
+
+          if event != "schedule":
+              run, why = True, "ручной запуск"
+          elif cron == os.environ["MAIN_CRON"]:
+              run, why = True, "основной прогон"
+          elif data_age is None:
+              run, why = True, "снимка нет"
+          elif data_age >= fresh:
+              run, why = True, "сторож: предыдущий прогон пропущен, снимку %.0f мин" % data_age
+          else:
+              run, why = False, "сторож: предыдущий отработал %.0f мин назад" % data_age
+
+          # Суточная сверка с блогом: обычно в час 02 UTC, но не чаще раза в 12 ч;
+          # если весь этот час планировщик пропустил — догон по порогу 26 ч.
+          if event != "schedule":
+              ssn = os.environ.get("INPUT_SSN") == "true"
+          elif ssn_age is None:
+              ssn = True
+          else:
+              ssn = (now.hour == 2 and ssn_age >= 12 * 60) or ssn_age >= 26 * 60
+
+          print("run=%s" % str(run).lower())
+          print("ssn=%d" % int(bool(ssn)))
+          print("why=%s" % why)
+          PY
+        env:
+          CRON: ${{ github.event.schedule }}
+          INPUT_SSN: ${{ inputs.ssn }}
+
+      - name: Что решено
+        run: echo "${{ steps.decide.outputs.why }}${{ steps.decide.outputs.run == 'true' && format(' — работаем (SSN={0})', steps.decide.outputs.ssn) || ' — пропуск' }}"
+
+      - uses: actions/setup-python@v5
+        if: steps.decide.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Зависимости
+        if: steps.decide.outputs.run == 'true'
+        run: pip install --quiet cryptography
+
+      - name: Обновить данные, собрать и опубликовать
+        if: steps.decide.outputs.run == 'true'
+        working-directory: src
+        env:
+          SITE_DIR: ${{ github.workspace }}/site
+          RUN_SSN: ${{ steps.decide.outputs.ssn }}
+          PUSH_DATA: "1"
+          BASE_URL: https://a-traders.github.io
+          EVENT: ${{ github.event_name }}
+          SITE_LOGIN: ${{ secrets.SITE_LOGIN }}
+          SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
+        run: bash tools/pipeline.sh
