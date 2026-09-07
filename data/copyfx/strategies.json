@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-07T12:34:31Z",
+ "fetched_at": "2026-09-07T12:36:00Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 1057
     }
    ],
-   "profit_percent": 706.07,
-   "profit_usd": 4101.59,
+   "profit_percent": 706.1,
+   "profit_usd": 4101.66,
    "dd_max": -26.97,
    "balance_usd": 2030.57,
    "subscriber_count": 43,
@@ -26,7 +26,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-04-09T09:32:37.000Z",
    "deal_count": 1057,
-   "current_dd_pct": 15.08,
+   "current_dd_pct": 13.87,
    "nontrade_ops": [
     {
      "date": "2026-06-30",
@@ -49,8 +49,8 @@
      "count": 1399
     }
    ],
-   "profit_percent": 1520.27,
-   "profit_usd": 1509.83,
+   "profit_percent": 1522.5,
+   "profit_usd": 1511.98,
    "dd_max": -43.0,
    "balance_usd": 1546.8,
    "subscriber_count": 12,
@@ -62,7 +62,7 @@
    "payout_period_days": 28,
    "registration_time": "2026-02-24T14:46:16.000Z",
    "deal_count": 1399,
-   "current_dd_pct": 0.63,
+   "current_dd_pct": 0.36,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -142,8 +142,8 @@
      "count": 553
     }
    ],
-   "profit_percent": 382.77,
-   "profit_usd": 382.77,
+   "profit_percent": 382.54,
+   "profit_usd": 382.54,
    "dd_max": -48.57,
    "balance_usd": 486.7,
    "subscriber_count": 3,
@@ -155,7 +155,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 553,
-   "current_dd_pct": 3.14,
+   "current_dd_pct": 3.23,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -204,8 +204,8 @@
      "count": 699
     }
    ],
-   "profit_percent": 230.95,
-   "profit_usd": 1683.99,
+   "profit_percent": 231.14,
+   "profit_usd": 1684.94,
    "dd_max": -37.38,
    "balance_usd": 1691.93,
    "subscriber_count": 0,
@@ -217,7 +217,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-04-09T09:31:23.000Z",
    "deal_count": 699,
-   "current_dd_pct": 2.8,
+   "current_dd_pct": 2.68,
    "nontrade_ops": [
     {
      "date": "2026-06-30",
