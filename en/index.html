@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<title>XAURUS.PRO</title>
+<script>
+  /* Жёсткая ссылка на язык: /ru /en /kz (шаблон, подставляет tools/build_public.py).
+     Язык запоминается в куки xlang ДО входа, поэтому ссылка «переживает» форму логина:
+     gate прочитает куки и откроет site_xx.enc нужного языка, а после входа — сайт на нём. */
+  document.cookie = "xlang=en;path=/;max-age=31536000;SameSite=Lax";
+  location.replace("../" + location.hash);
+</script>
+<meta http-equiv="refresh" content="0; url=../">
+</head>
+<body></body>
+</html>
