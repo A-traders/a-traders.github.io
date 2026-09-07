@@ -15,7 +15,7 @@
     "profit_usd": -60.99,
     "dd_max": -86.59,
     "deal_count": 2006,
-    "balance_usd": 39.12,
+    "balance_usd": 0,
     "offer_id": 4294997328,
     "name": "XaurusQuant",
     "avatar": "/files/avatar-cache/c0/1e/e6/c6e1bb76eb4eceb6e40ee0f5f1/286x233.jpg",
@@ -782,7 +782,7 @@
      ],
      [
       "2026-09-07",
-      39.12
+      0
      ]
     ],
     "equity": [
@@ -1388,7 +1388,7 @@
      ],
      [
       "2026-09-07",
-      39.12
+      0
      ]
     ]
    }
