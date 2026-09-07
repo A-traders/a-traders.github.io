@@ -1,10 +1,28 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
-<title>XAURUS.PRO — вход</title>
+<title>XAURUS.PRO — sign in</title>
+<!-- OG-START -->
+<meta name="description" content="Two trading systems — trend-following and counter-trend — with the same AI self-optimization mechanism. Optimize for your market and broker before you buy: the demo version from MQL5 Market already contains everything you need.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="XAURUS.PRO">
+<meta property="og:title" content="Xaurus and Swinger — trading robots for MetaTrader 5 with AI Pro100 self-optimization">
+<meta property="og:description" content="Two trading systems — trend-following and counter-trend — with the same AI self-optimization mechanism. Optimize for your market and broker before you buy: the demo version from MQL5 Market already contains everything you need.">
+<meta property="og:url" content="https://a-traders.github.io/">
+<meta property="og:image" content="https://a-traders.github.io/logo/x_emblem_256.png">
+<meta property="og:image:width" content="256">
+<meta property="og:image:height" content="256">
+<meta property="og:locale" content="en_US">
+<meta property="og:locale:alternate" content="ru_RU">
+<meta property="og:locale:alternate" content="kk_KZ">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Xaurus and Swinger — trading robots for MetaTrader 5 with AI Pro100 self-optimization">
+<meta name="twitter:description" content="Two trading systems — trend-following and counter-trend — with the same AI self-optimization mechanism. Optimize for your market and broker before you buy: the demo version from MQL5 Market already contains everything you need.">
+<meta name="twitter:image" content="https://a-traders.github.io/logo/x_emblem_256.png">
+<!-- OG-END -->
 <link rel="icon" href="logo/x_emblem_64.png">
 <style>
   :root{--bg:#0b0b0f;--panel:#15151c;--line:#26262f;--txt:#ececf1;--mut:#8b8b98;--gold:#ffb13d;--gold2:#ff7a00}
@@ -35,20 +53,20 @@
 </style>
 </head>
 <body>
-<div class="uc" id="uc">🚧 UNDER CONSTRUCTION — сайт в разработке 🚧</div>
+<div class="uc" id="uc">🚧 UNDER CONSTRUCTION 🚧</div>
 <div class="wrap">
   <div class="box">
     <img class="logo" src="logo/v4a_top.svg" alt="XAURUS.PRO">
-    <div id="busy">Загрузка…</div>
+    <div id="busy">Loading…</div>
     <form id="f" autocomplete="on">
-      <h1 id="t1">Закрытый предпросмотр</h1>
-      <p class="sub" id="t2">Сайт готовится к запуску. Введите логин и пароль, выданные разработчиком.</p>
-      <label for="u" id="lu">Логин</label>
+      <h1 id="t1">Private preview</h1>
+      <p class="sub" id="t2">The site is being prepared for launch. Enter the login and password issued by the developer.</p>
+      <label for="u" id="lu">Login</label>
       <input id="u" name="username" type="text" autocomplete="username" required autofocus>
-      <label for="p" id="lp">Пароль</label>
+      <label for="p" id="lp">Password</label>
       <input id="p" name="password" type="password" autocomplete="current-password" required>
-      <button id="b" type="submit">Войти</button>
-      <div class="err" id="e">Неверный логин или пароль.</div>
+      <button id="b" type="submit">Sign in</button>
+      <div class="err" id="e">Wrong login or password.</div>
       <div class="langs" id="langs"><a data-l="ru" href="/ru">RU</a>·<a data-l="en" href="/en">EN</a>·<a data-l="kz" href="/kz">KZ</a></div>
       <div class="foot">xaurus.pro · AI Pro100</div>
     </form>
@@ -59,7 +77,8 @@
   /* Сайт лежит в site.enc (RU), site_en.enc, site_kz.enc: "XPRO1" + соль(16) + IV(12) + AES-256-GCM(HTML).
      Ключ = PBKDF2-SHA256(логин + "\n" + пароль, соль, 300 000 итераций); соль одна для всех файлов,
      поэтому ключ, запомненный в localStorage, открывает любой язык и любой выпуск без формы.
-     Язык: куки xlang (выбор пользователя на сайте) → язык браузера (kk → KZ, ru → RU, иначе EN). */
+     Язык: куки xlang (выбор пользователя на сайте) → язык браузера (kk → KZ, ru → RU, иначе EN);
+     статичный дефолт страницы — EN (applyUI перерисует форму, если язык другой). */
   var KEY = "xaurus_gate_key";
   var FILES = {ru:"site.enc", en:"site_en.enc", kz:"site_kz.enc"};
   var UI = {
