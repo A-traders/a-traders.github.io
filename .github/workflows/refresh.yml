@@ -129,7 +129,6 @@ jobs:
         if: steps.decide.outputs.run == 'true'
         with:
           python-version: "3.12"
-          cache: pip
 
       - name: Зависимости
         if: steps.decide.outputs.run == 'true'
