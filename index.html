@@ -49,7 +49,7 @@
       <input id="p" name="password" type="password" autocomplete="current-password" required>
       <button id="b" type="submit">Войти</button>
       <div class="err" id="e">Неверный логин или пароль.</div>
-      <div class="langs" id="langs"><a data-l="ru">RU</a>·<a data-l="en">EN</a>·<a data-l="kz">KZ</a></div>
+      <div class="langs" id="langs"><a data-l="ru" href="/ru">RU</a>·<a data-l="en" href="/en">EN</a>·<a data-l="kz" href="/kz">KZ</a></div>
       <div class="foot">xaurus.pro · AI Pro100</div>
     </form>
   </div>
@@ -105,6 +105,7 @@
   document.getElementById("langs").addEventListener("click", function(ev){
     var l = ev.target.getAttribute && ev.target.getAttribute("data-l");
     if (!l || !FILES[l]) return;
+    ev.preventDefault();          /* href="/ru|/en|/kz" — чтобы ссылку можно было скопировать; клик меняет язык на месте */
     lang = l;
     document.cookie = "xlang=" + l + ";path=/;max-age=31536000;SameSite=Lax";
     blob = null;
