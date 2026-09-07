@@ -29,6 +29,10 @@ on:
     - cron: "47 * * * *"
   workflow_dispatch:
     inputs:
+      force:
+        description: "Работать, даже если снимок свежий (иначе ручной запуск ведёт себя как сторожевой: свежие данные — выход)"
+        type: boolean
+        default: false
       ssn:
         description: "Сверить «Примеры SSN» с блогом mql5"
         type: boolean
@@ -94,8 +98,16 @@ jobs:
           data_age = age_min("src/data/copyfx/strategies.json", "fetched_at")
           ssn_age = age_min("src/data/ssn/last_sync.json", "at")
 
-          if event != "schedule":
-              run, why = True, "ручной запуск"
+          # Ручной запуск без галки «принудительно» ведёт себя как сторожевой: так внешний
+          # пинок (задача на ПК, если планировщик GitHub снова замолчит) можно слать часто,
+          # не публикуя сайт заново на каждый пинок.
+          if event != "schedule" and os.environ.get("INPUT_FORCE") == "true":
+              run, why = True, "ручной запуск (принудительно)"
+          elif event != "schedule" and (data_age is None or data_age >= fresh):
+              run, why = True, ("ручной запуск: снимка нет" if data_age is None
+                                else "ручной запуск: снимку %.0f мин" % data_age)
+          elif event != "schedule":
+              run, why = False, "ручной запуск: предыдущий отработал %.0f мин назад" % data_age
           elif cron == os.environ["MAIN_CRON"]:
               run, why = True, "основной прогон"
           elif data_age is None:
@@ -121,6 +133,7 @@ jobs:
         env:
           CRON: ${{ github.event.schedule }}
           INPUT_SSN: ${{ inputs.ssn }}
+          INPUT_FORCE: ${{ inputs.force }}
 
       - name: Что решено
         run: echo "${{ steps.decide.outputs.why }}${{ steps.decide.outputs.run == 'true' && format(' — работаем (SSN={0})', steps.decide.outputs.ssn) || ' — пропуск' }}"
