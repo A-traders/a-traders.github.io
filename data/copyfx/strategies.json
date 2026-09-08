@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-08T04:52:01Z",
+ "fetched_at": "2026-09-08T04:54:32Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 1059
     }
    ],
-   "profit_percent": 691.74,
-   "profit_usd": 4067.19,
+   "profit_percent": 689.69,
+   "profit_usd": 4062.27,
    "dd_max": -26.97,
    "balance_usd": 1731.17,
    "subscriber_count": 36,
@@ -26,7 +26,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-04-09T09:32:37.000Z",
    "deal_count": 1059,
-   "current_dd_pct": 3.72,
+   "current_dd_pct": 4.22,
    "nontrade_ops": [
     {
      "date": "2026-06-30",
@@ -49,8 +49,8 @@
      "count": 1401
     }
    ],
-   "profit_percent": 1526.73,
-   "profit_usd": 1516.05,
+   "profit_percent": 1525.98,
+   "profit_usd": 1515.33,
    "dd_max": -43.0,
    "balance_usd": 1529.52,
    "subscriber_count": 12,
@@ -111,8 +111,8 @@
      "count": 801
     }
    ],
-   "profit_percent": 122.36,
-   "profit_usd": 61.18,
+   "profit_percent": 122.37,
+   "profit_usd": 61.19,
    "dd_max": -5.54,
    "balance_usd": 111.17,
    "subscriber_count": 5,
@@ -142,8 +142,8 @@
      "count": 553
     }
    ],
-   "profit_percent": 388.18,
-   "profit_usd": 388.18,
+   "profit_percent": 388.14,
+   "profit_usd": 388.14,
    "dd_max": -48.57,
    "balance_usd": 486.7,
    "subscriber_count": 3,
@@ -155,7 +155,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 553,
-   "current_dd_pct": 0.95,
+   "current_dd_pct": 0.97,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -204,8 +204,8 @@
      "count": 701
     }
    ],
-   "profit_percent": 231.97,
-   "profit_usd": 1689.17,
+   "profit_percent": 231.94,
+   "profit_usd": 1689.0,
    "dd_max": -37.38,
    "balance_usd": 1673.16,
    "subscriber_count": 0,
@@ -217,7 +217,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-04-09T09:31:23.000Z",
    "deal_count": 701,
-   "current_dd_pct": 1.1,
+   "current_dd_pct": 1.12,
    "nontrade_ops": [
     {
      "date": "2026-06-30",
