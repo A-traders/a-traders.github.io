@@ -49,6 +49,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: site
+          fetch-depth: 0     # полная история: pipeline.sh делает pull --rebase перед push
 
       - name: Ключ доступа к исходному репо
         env:
