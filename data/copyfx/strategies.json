@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-08T19:08:42Z",
+ "fetched_at": "2026-09-08T20:08:45Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 1063
     }
    ],
-   "profit_percent": 857.34,
-   "profit_usd": 4464.72,
+   "profit_percent": 864.45,
+   "profit_usd": 4481.77,
    "dd_max": -26.97,
    "balance_usd": 2276.32,
    "subscriber_count": 36,
@@ -46,13 +46,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1443
+     "count": 1445
     }
    ],
-   "profit_percent": 1489.67,
-   "profit_usd": 1480.37,
+   "profit_percent": 1498.76,
+   "profit_usd": 1489.12,
    "dd_max": -43.0,
-   "balance_usd": 1532.43,
+   "balance_usd": 1539.31,
    "subscriber_count": 11,
    "leverage": 2000,
    "is_cent": true,
@@ -61,8 +61,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 28,
    "registration_time": "2026-02-24T14:46:16.000Z",
-   "deal_count": 1443,
-   "current_dd_pct": 3.45,
+   "deal_count": 1445,
+   "current_dd_pct": 2.79,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -84,7 +84,7 @@
    "profit_usd": -60.99,
    "dd_max": -86.59,
    "balance_usd": 0.0,
-   "subscriber_count": 4,
+   "subscriber_count": 3,
    "leverage": 2000,
    "is_cent": true,
    "platform": "mt5",
@@ -111,8 +111,8 @@
      "count": 815
     }
    ],
-   "profit_percent": 119.53,
-   "profit_usd": 59.77,
+   "profit_percent": 119.1,
+   "profit_usd": 59.55,
    "dd_max": -5.54,
    "balance_usd": 111.17,
    "subscriber_count": 5,
@@ -124,7 +124,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-06-30T13:53:37.000Z",
    "deal_count": 815,
-   "current_dd_pct": 2.45,
+   "current_dd_pct": 2.83,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -142,8 +142,8 @@
      "count": 555
     }
    ],
-   "profit_percent": 390.67,
-   "profit_usd": 390.67,
+   "profit_percent": 393.49,
+   "profit_usd": 393.49,
    "dd_max": -48.57,
    "balance_usd": 484.1,
    "subscriber_count": 2,
@@ -177,7 +177,7 @@
    "profit_usd": -54.7,
    "dd_max": -97.07,
    "balance_usd": 0.0,
-   "subscriber_count": 1,
+   "subscriber_count": 0,
    "leverage": 2000,
    "is_cent": true,
    "platform": "mt5",
