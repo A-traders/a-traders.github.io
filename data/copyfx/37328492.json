@@ -10,16 +10,16 @@
    "data": {
     "source_id": "bbba",
     "login": 37328492,
-    "profit_percent": 569.96,
+    "profit_percent": 580.58,
     "profit_money": 3897.72,
-    "profit_usd": 3774.84,
+    "profit_usd": 3800.33,
     "dd_max": -26.97,
     "deal_count": 1059,
     "balance_usd": 1731.17,
     "offer_id": 4294991977,
     "name": "XaurusQuant",
     "avatar": "/files/avatar-cache/c0/1e/e6/c6e1bb76eb4eceb6e40ee0f5f1/286x233.jpg",
-    "subscriber_count": 41,
+    "subscriber_count": 36,
     "portfolio_usd": "$",
     "registration_time": "2026-04-09T09:32:37.000Z",
     "strategy": "AGGRESSIVE SETTINGS",
@@ -167,7 +167,7 @@
      ],
      [
       "2026-09-08",
-      569.96
+      580.58
      ]
     ],
     "platform": "mt5"
@@ -1236,7 +1236,7 @@
      ],
      [
       "2026-09-08",
-      1608.28
+      1633.77
      ]
     ]
    }
@@ -1773,7 +1773,7 @@
     ],
     [
      "2026-09-08",
-     569.96
+     580.58
     ]
    ]
   },
