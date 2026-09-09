@@ -1,7 +1,7 @@
 {
  "source": "https://www.mql5.com/ru/blogs/post/775371",
  "date": "5 сентября 2026, 06:24",
- "checked_at": "2026-09-06T14:32:57Z",
+ "checked_at": "2026-09-09T02:37:55Z",
  "robots": [
   {
    "robot": "Xaurus AI Pro100",
@@ -11,9 +11,9 @@
      "t": "XAUUSD 2026.01.01 — 2026.08.31",
      "c": "депозит 10 000, плечо 1:1000 · Xaurus, RoboForex Pro",
      "codes": [
-      "xu6dG2N4E5mCbAVR8xjEbb",
       "xu66CSdHT4wUk4UtYh3ovv",
-      "xu6dFveHrBKRqvqR1cemhh"
+      "xu6dFveHrBKRqvqR1cemhh",
+      "xu61iStNTnqt2Umqaw1nWOxx"
      ]
     },
     {
@@ -71,9 +71,9 @@
   }
  ],
  "images": {
-  "xu6dG2N4E5mCbAVR8xjEbb": "https://c.mql5.com/6/1027/xu6dG2N4E5mCbAVR8xjEbb.jpg",
   "xu66CSdHT4wUk4UtYh3ovv": "https://c.mql5.com/6/1027/xu66CSdHT4wUk4UtYh3ovv.jpg",
   "xu6dFveHrBKRqvqR1cemhh": "https://c.mql5.com/6/1027/xu6dFveHrBKRqvqR1cemhh.jpg",
+  "xu61iStNTnqt2Umqaw1nWOxx": "https://c.mql5.com/6/1028/xu61iStNTnqt2Umqaw1nWOxx.jpg",
   "xu61AJPFAn0ML7gTJaBuhDD": "https://c.mql5.com/6/1027/xu61AJPFAn0ML7gTJaBuhDD.jpg",
   "xu61WLjWVXSp2FrCgXyFuJJ": "https://c.mql5.com/6/1027/xu61WLjWVXSp2FrCgXyFuJJ.jpg",
   "xu6To88SfiGGRP0QxFbJhcdd": "https://c.mql5.com/6/1027/xu6To88SfiGGRP0QxFbJhcdd.jpg",
@@ -102,11 +102,11 @@
   "sw6ibTGlkRt9ivU1tJmNQkSqPP",
   "xu61AJPFAn0ML7gTJaBuhDD",
   "xu61WLjWVXSp2FrCgXyFuJJ",
+  "xu61iStNTnqt2Umqaw1nWOxx",
   "xu61rEDQzNyNLMOTB8CS2i6tt",
   "xu66CSdHT4wUk4UtYh3ovv",
   "xu6To88SfiGGRP0QxFbJhcdd",
   "xu6dFveHrBKRqvqR1cemhh",
-  "xu6dG2N4E5mCbAVR8xjEbb",
   "xu6wTLCn182ruAlBkCn50O33",
   "xu6x2swZqiY0hP3eWvbiGC77"
  ],
@@ -123,11 +123,11 @@
   "sw6ibTGlkRt9ivU1tJmNQkSqPP",
   "xu61AJPFAn0ML7gTJaBuhDD",
   "xu61WLjWVXSp2FrCgXyFuJJ",
+  "xu61iStNTnqt2Umqaw1nWOxx",
   "xu61rEDQzNyNLMOTB8CS2i6tt",
   "xu66CSdHT4wUk4UtYh3ovv",
   "xu6To88SfiGGRP0QxFbJhcdd",
   "xu6dFveHrBKRqvqR1cemhh",
-  "xu6dG2N4E5mCbAVR8xjEbb",
   "xu6wTLCn182ruAlBkCn50O33",
   "xu6x2swZqiY0hP3eWvbiGC77"
  ]
