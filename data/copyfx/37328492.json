@@ -28,7 +28,7 @@
     "group": "real-cent-HPro\\ru-cent-pro-U",
     "currency": "USD",
     "subs_mode": 0,
-    "leverage": 2000,
+    "leverage": 1000,
     "is_cent": true,
     "offer": {
      "id": 4294991977,
