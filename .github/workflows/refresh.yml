@@ -30,9 +30,10 @@ on:
         type: boolean
         default: false
 
-concurrency:
-  group: refresh
-  cancel-in-progress: false
+# Блока concurrency здесь нет намеренно (13.09.2026): прогон от 04:07Z завис в очереди GitHub
+# без раннера, и группа concurrency заперла все следующие часовые запуски на 10 часов
+# (timeout-minutes на ожидание раннера не действует, GitHub снимает такие только через 24 ч).
+# Наложение двух прогонов безопасно: pipeline.sh делает pull --rebase -X theirs в обоих клонах.
 
 permissions:
   contents: write
