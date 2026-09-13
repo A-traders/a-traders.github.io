@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T14:25:55Z",
+ "fetched_at": "2026-09-13T14:30:49Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -115,7 +115,7 @@
    "profit_usd": 14.9,
    "dd_max": -28.52,
    "balance_usd": 64.9,
-   "subscriber_count": 3,
+   "subscriber_count": 2,
    "leverage": 1000,
    "is_cent": true,
    "platform": "mt5",
