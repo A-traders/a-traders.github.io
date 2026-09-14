@@ -14,7 +14,7 @@
     "profit_money": 15.44,
     "profit_usd": 15.84,
     "dd_max": -28.52,
-    "deal_count": 863,
+    "deal_count": 874,
     "balance_usd": 65.44,
     "offer_id": 4295003755,
     "name": "XaurusQuant",
@@ -773,7 +773,7 @@
    "data": [
     {
      "symbol": "BTCUSD",
-     "count": 863
+     "count": 874
     }
    ]
   },
