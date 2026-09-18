@@ -10,9 +10,9 @@
    "data": {
     "source_id": "bbbb",
     "login": 77056845,
-    "profit_percent": 1.58,
+    "profit_percent": 3,
     "profit_money": 1.48,
-    "profit_usd": 7.9,
+    "profit_usd": 14.98,
     "dd_max": -5.29,
     "deal_count": 41,
     "balance_usd": 501.48,
@@ -91,7 +91,7 @@
      ],
      [
       "2026-09-18",
-      1.58
+      3
      ]
     ],
     "platform": "mt5"
@@ -200,7 +200,7 @@
      ],
      [
       "2026-09-18",
-      507.9
+      514.98
      ]
     ]
    }
@@ -257,7 +257,7 @@
     ],
     [
      "2026-09-18",
-     1.58
+     3
     ]
    ]
   },
