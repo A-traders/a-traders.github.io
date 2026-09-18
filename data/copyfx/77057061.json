@@ -1,0 +1,199 @@
+{
+ "login": 77057061,
+ "source_id": "bbbb",
+ "raw": {
+  "ratingCard/getAccountStats": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": {
+    "source_id": "bbbb",
+    "login": 77057061,
+    "profit_percent": 0.7,
+    "profit_money": 5.99,
+    "profit_usd": 3.48,
+    "dd_max": -0.6,
+    "deal_count": 9,
+    "balance_usd": 505.99,
+    "offer_id": 4295004489,
+    "name": "XaurusQuant",
+    "avatar": "/files/avatar-cache/c0/1e/e6/c6e1bb76eb4eceb6e40ee0f5f1/286x233.jpg",
+    "subscriber_count": 0,
+    "portfolio_usd": "$",
+    "registration_time": "2026-09-08T08:06:44.000Z",
+    "strategy": "Goal 100 percent",
+    "strategy_desc": "The goal of this account is to achieve a 100% return. Once the target is reached, the account will be stopped.",
+    "min_equity_usd": 500,
+    "group": "real-stan-HEcn\\ru-stan-ecn-U",
+    "currency": "USD",
+    "subs_mode": 0,
+    "leverage": 500,
+    "is_cent": false,
+    "offer": {
+     "id": 4295004489,
+     "scheme": 1,
+     "commission": {
+      "type": 1,
+      "rate": 30
+     },
+     "duration": {
+      "from": "2026-09-12T05:40:36.158Z",
+      "to": null
+     },
+     "affiliate_program": false,
+     "period": 1209600
+    },
+    "profit_percent_chart": [
+     [
+      "2026-09-08",
+      0
+     ],
+     [
+      "2026-09-11",
+      0.88
+     ],
+     [
+      "2026-09-14",
+      1.21
+     ],
+     [
+      "2026-09-18",
+      0.7
+     ]
+    ],
+    "platform": "mt5"
+   }
+  },
+  "account/chart/balance_equity": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": {
+    "balance": [
+     [
+      "2026-09-08",
+      500
+     ],
+     [
+      "2026-09-11",
+      504.42
+     ],
+     [
+      "2026-09-14",
+      506.07
+     ],
+     [
+      "2026-09-18",
+      505.99
+     ]
+    ],
+    "equity": [
+     [
+      "2026-09-08",
+      500
+     ],
+     [
+      "2026-09-11",
+      504.42
+     ],
+     [
+      "2026-09-14",
+      506.07
+     ],
+     [
+      "2026-09-18",
+      503.48
+     ]
+    ]
+   }
+  },
+  "account/chart/profit_percent": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    [
+     "2026-09-08",
+     0
+    ],
+    [
+     "2026-09-11",
+     0.88
+    ],
+    [
+     "2026-09-14",
+     1.21
+    ],
+    [
+     "2026-09-18",
+     0.7
+    ]
+   ]
+  },
+  "account/chart/symbols": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    {
+     "symbol": "BTCUSD",
+     "count": 9
+    }
+   ]
+  },
+  "ratingCard/getOfferList": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    {
+     "id": 4295004489,
+     "scheme": 1,
+     "commission": {
+      "type": 1,
+      "rate": 30
+     },
+     "affiliate_program": false,
+     "affiliate_commission": 0,
+     "modified": "2026-09-12T05:40:36.158Z",
+     "status": 1,
+     "period": 1209600,
+     "duration": {
+      "from": "2026-09-12T05:40:36.158Z"
+     },
+     "is_tech": false,
+     "activated": "2026-09-12T05:40:36.158Z"
+    }
+   ]
+  },
+  "ratingCard/getDdMax": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    [
+     "2026-09-08",
+     0
+    ],
+    [
+     "2026-09-11",
+     -0.04
+    ],
+    [
+     "2026-09-14",
+     -0.2
+    ],
+    [
+     "2026-09-18",
+     -0.6
+    ]
+   ]
+  }
+ }
+}

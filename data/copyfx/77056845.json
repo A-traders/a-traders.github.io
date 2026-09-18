@@ -1,0 +1,359 @@
+{
+ "login": 77056845,
+ "source_id": "bbbb",
+ "raw": {
+  "ratingCard/getAccountStats": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": {
+    "source_id": "bbbb",
+    "login": 77056845,
+    "profit_percent": 0.49,
+    "profit_money": 1.48,
+    "profit_usd": 2.47,
+    "dd_max": -5.29,
+    "deal_count": 41,
+    "balance_usd": 501.48,
+    "offer_id": 4295004488,
+    "name": "XaurusQuant",
+    "avatar": "/files/avatar-cache/c0/1e/e6/c6e1bb76eb4eceb6e40ee0f5f1/286x233.jpg",
+    "subscriber_count": 0,
+    "portfolio_usd": "$",
+    "registration_time": "2026-09-05T17:00:16.000Z",
+    "strategy": " XAURUS AI PRO100",
+    "strategy_desc": "XAURUS AI PRO100 is an automated trading strategy designed for trading XAUUSD (Gold).\n\nThe target of this account is to achieve a 1,000% return.\nThe minimum required balance to connect to the copy-trading service is $500.\n\nPlease carefully assess the potential risks before connecting and make sure the strategy matches your financial goals and risk tolerance",
+    "min_equity_usd": 500,
+    "group": "real-stan-HEcn\\ru-stan-ecn-U",
+    "currency": "USD",
+    "subs_mode": 0,
+    "leverage": 500,
+    "is_cent": false,
+    "offer": {
+     "id": 4295004488,
+     "scheme": 1,
+     "commission": {
+      "type": 1,
+      "rate": 30
+     },
+     "duration": {
+      "from": "2026-09-12T05:32:43.024Z",
+      "to": null
+     },
+     "affiliate_program": false,
+     "period": 1209600
+    },
+    "profit_percent_chart": [
+     [
+      "2026-09-05",
+      0
+     ],
+     [
+      "2026-09-08",
+      0
+     ],
+     [
+      "2026-09-09",
+      -0.46
+     ],
+     [
+      "2026-09-10",
+      1.19
+     ],
+     [
+      "2026-09-11",
+      2.97
+     ],
+     [
+      "2026-09-12",
+      3.23
+     ],
+     [
+      "2026-09-13",
+      2.68
+     ],
+     [
+      "2026-09-14",
+      3.64
+     ],
+     [
+      "2026-09-15",
+      3.25
+     ],
+     [
+      "2026-09-16",
+      2.63
+     ],
+     [
+      "2026-09-17",
+      1.89
+     ],
+     [
+      "2026-09-18",
+      0.49
+     ]
+    ],
+    "platform": "mt5"
+   }
+  },
+  "account/chart/balance_equity": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": {
+    "balance": [
+     [
+      "2026-09-05",
+      0
+     ],
+     [
+      "2026-09-08",
+      500
+     ],
+     [
+      "2026-09-09",
+      499.92
+     ],
+     [
+      "2026-09-10",
+      509.02
+     ],
+     [
+      "2026-09-11",
+      517.33
+     ],
+     [
+      "2026-09-12",
+      517.33
+     ],
+     [
+      "2026-09-13",
+      519.88
+     ],
+     [
+      "2026-09-14",
+      522.16
+     ],
+     [
+      "2026-09-15",
+      517.4
+     ],
+     [
+      "2026-09-16",
+      522.84
+     ],
+     [
+      "2026-09-17",
+      522.84
+     ],
+     [
+      "2026-09-18",
+      501.48
+     ]
+    ],
+    "equity": [
+     [
+      "2026-09-05",
+      0
+     ],
+     [
+      "2026-09-08",
+      500
+     ],
+     [
+      "2026-09-09",
+      497.68
+     ],
+     [
+      "2026-09-10",
+      505.93
+     ],
+     [
+      "2026-09-11",
+      514.83
+     ],
+     [
+      "2026-09-12",
+      516.16
+     ],
+     [
+      "2026-09-13",
+      513.38
+     ],
+     [
+      "2026-09-14",
+      518.19
+     ],
+     [
+      "2026-09-15",
+      516.27
+     ],
+     [
+      "2026-09-16",
+      513.17
+     ],
+     [
+      "2026-09-17",
+      509.47
+     ],
+     [
+      "2026-09-18",
+      502.47
+     ]
+    ]
+   }
+  },
+  "account/chart/profit_percent": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    [
+     "2026-09-05",
+     0
+    ],
+    [
+     "2026-09-08",
+     0
+    ],
+    [
+     "2026-09-09",
+     -0.46
+    ],
+    [
+     "2026-09-10",
+     1.19
+    ],
+    [
+     "2026-09-11",
+     2.97
+    ],
+    [
+     "2026-09-12",
+     3.23
+    ],
+    [
+     "2026-09-13",
+     2.68
+    ],
+    [
+     "2026-09-14",
+     3.64
+    ],
+    [
+     "2026-09-15",
+     3.25
+    ],
+    [
+     "2026-09-16",
+     2.63
+    ],
+    [
+     "2026-09-17",
+     1.89
+    ],
+    [
+     "2026-09-18",
+     0.49
+    ]
+   ]
+  },
+  "account/chart/symbols": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    {
+     "symbol": "BTCUSD",
+     "count": 41
+    }
+   ]
+  },
+  "ratingCard/getOfferList": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    {
+     "id": 4295004488,
+     "scheme": 1,
+     "commission": {
+      "type": 1,
+      "rate": 30
+     },
+     "affiliate_program": false,
+     "affiliate_commission": 0,
+     "modified": "2026-09-12T05:32:43.024Z",
+     "status": 1,
+     "period": 1209600,
+     "duration": {
+      "from": "2026-09-12T05:32:43.024Z"
+     },
+     "is_tech": false,
+     "activated": "2026-09-12T05:32:43.024Z"
+    }
+   ]
+  },
+  "ratingCard/getDdMax": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    [
+     "2026-09-05",
+     0
+    ],
+    [
+     "2026-09-08",
+     0
+    ],
+    [
+     "2026-09-09",
+     -0.45
+    ],
+    [
+     "2026-09-10",
+     -1.13
+    ],
+    [
+     "2026-09-11",
+     -4.06
+    ],
+    [
+     "2026-09-12",
+     -0.87
+    ],
+    [
+     "2026-09-13",
+     -1.38
+    ],
+    [
+     "2026-09-14",
+     -1.45
+    ],
+    [
+     "2026-09-15",
+     -5.29
+    ],
+    [
+     "2026-09-16",
+     -2.33
+    ],
+    [
+     "2026-09-17",
+     -3.69
+    ],
+    [
+     "2026-09-18",
+     -4.03
+    ]
+   ]
+  }
+ }
+}
