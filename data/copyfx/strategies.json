@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-21T14:08:44Z",
+ "fetched_at": "2026-09-21T15:08:44Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 1107
     }
    ],
-   "profit_percent": 921.92,
-   "profit_usd": 4619.76,
+   "profit_percent": 915.99,
+   "profit_usd": 4605.51,
    "dd_max": -26.97,
    "balance_usd": 2453.89,
    "subscriber_count": 38,
@@ -27,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-04-09T09:32:37.000Z",
    "deal_count": 1107,
-   "current_dd_pct": 0.61,
+   "current_dd_pct": 1.76,
    "nontrade_ops": [
     {
      "date": "2026-06-30",
@@ -50,8 +50,8 @@
      "count": 1573
     }
    ],
-   "profit_percent": 1351.62,
-   "profit_usd": 1347.46,
+   "profit_percent": 1333.8,
+   "profit_usd": 1330.31,
    "dd_max": -43.0,
    "balance_usd": 1406.22,
    "subscriber_count": 8,
@@ -64,7 +64,7 @@
    "payout_period_days": 28,
    "registration_time": "2026-02-24T14:46:16.000Z",
    "deal_count": 1573,
-   "current_dd_pct": 14.06,
+   "current_dd_pct": 16.15,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -82,8 +82,8 @@
      "count": 927
     }
    ],
-   "profit_percent": 26.58,
-   "profit_usd": 13.29,
+   "profit_percent": 27.7,
+   "profit_usd": 13.85,
    "dd_max": -28.52,
    "balance_usd": 58.1,
    "subscriber_count": 0,
@@ -96,7 +96,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-06-30T13:53:37.000Z",
    "deal_count": 927,
-   "current_dd_pct": 37.94,
+   "current_dd_pct": 36.84,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -114,8 +114,8 @@
      "count": 591
     }
    ],
-   "profit_percent": 403.97,
-   "profit_usd": 403.97,
+   "profit_percent": 393.9,
+   "profit_usd": 393.9,
    "dd_max": -48.57,
    "balance_usd": 504.37,
    "subscriber_count": 0,
@@ -128,7 +128,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 591,
-   "current_dd_pct": 5.05,
+   "current_dd_pct": 8.81,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -143,13 +143,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 10815
+     "count": 10816
     }
    ],
-   "profit_percent": 172.8,
-   "profit_usd": 121.0,
+   "profit_percent": 173.33,
+   "profit_usd": 121.37,
    "dd_max": -55.31,
-   "balance_usd": 191.17,
+   "balance_usd": 191.54,
    "subscriber_count": 0,
    "leverage": 2000,
    "is_cent": true,
@@ -159,8 +159,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:25:11.000Z",
-   "deal_count": 10815,
-   "current_dd_pct": 0.14,
+   "deal_count": 10816,
+   "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -175,13 +175,13 @@
    "symbols": [
     {
      "symbol": "BTCUSD",
-     "count": 69
+     "count": 74
     }
    ],
-   "profit_percent": 8.75,
-   "profit_usd": 43.75,
+   "profit_percent": 10.91,
+   "profit_usd": 54.55,
    "dd_max": -5.29,
-   "balance_usd": 546.84,
+   "balance_usd": 554.55,
    "subscriber_count": 0,
    "leverage": 500,
    "is_cent": false,
@@ -191,8 +191,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-09-05T17:00:16.000Z",
-   "deal_count": 69,
-   "current_dd_pct": 0.57,
+   "deal_count": 74,
+   "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -207,13 +207,13 @@
    "symbols": [
     {
      "symbol": "BTCUSD",
-     "count": 22
+     "count": 24
     }
    ],
-   "profit_percent": 2.29,
-   "profit_usd": 11.47,
-   "dd_max": -0.73,
-   "balance_usd": 511.47,
+   "profit_percent": 2.41,
+   "profit_usd": 12.06,
+   "dd_max": -0.77,
+   "balance_usd": 512.06,
    "subscriber_count": 0,
    "leverage": 500,
    "is_cent": false,
@@ -223,7 +223,7 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-09-08T08:06:44.000Z",
-   "deal_count": 22,
+   "deal_count": 24,
    "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
