@@ -133,7 +133,7 @@ jobs:
           # синхронно с publish.yml приватного репо (см. там же seo_plan.md, этап 0).
           BASE_URL: https://a-traders.github.io
           OPEN: "0"
-          YM_ID: ""
+          YM_ID: "112953564"
           EVENT: ${{ github.event_name }}
           SITE_LOGIN: ${{ secrets.SITE_LOGIN }}
           SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
