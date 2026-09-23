@@ -129,7 +129,11 @@ jobs:
           SITE_DIR: ${{ github.workspace }}/site
           RUN_SSN: ${{ steps.decide.outputs.ssn }}
           PUSH_DATA: "1"
+          # Переключатель запуска сайта: при открытии OPEN "1", BASE_URL https://xaurus.pro, YM_ID —
+          # синхронно с publish.yml приватного репо (см. там же seo_plan.md, этап 0).
           BASE_URL: https://a-traders.github.io
+          OPEN: "0"
+          YM_ID: ""
           EVENT: ${{ github.event_name }}
           SITE_LOGIN: ${{ secrets.SITE_LOGIN }}
           SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
