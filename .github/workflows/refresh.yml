@@ -132,7 +132,7 @@ jobs:
           # Переключатель запуска сайта: при открытии OPEN "1", BASE_URL https://xaurus.pro, YM_ID —
           # синхронно с publish.yml приватного репо (см. там же seo_plan.md, этап 0).
           BASE_URL: https://xaurus.pro
-          OPEN: "0"
+          OPEN: "1"
           YM_ID: "112953564"
           EVENT: ${{ github.event_name }}
           SITE_LOGIN: ${{ secrets.SITE_LOGIN }}
