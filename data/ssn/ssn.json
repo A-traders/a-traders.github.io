@@ -1,7 +1,7 @@
 {
  "source": "https://www.mql5.com/ru/blogs/post/775371",
  "date": "5 сентября 2026, 06:24",
- "checked_at": "2026-09-23T07:02:58Z",
+ "checked_at": "2026-09-25T00:09:39Z",
  "robots": [
   {
    "robot": "Xaurus AI Pro100",
@@ -53,9 +53,9 @@
      "t": "XAUUSD 2024.01.01 — 2026.08.31",
      "c": "депозит 10 000, плечо 1:1000 · Swinger, RoboForex Pro",
      "codes": [
-      "sw6ibTGlkRt9ivU1tJmNQkSqPP",
       "sw6YpMHAXuSmaRsrGQyPj41JRR",
-      "sw61BviFSbXt3HBieLvsnsyJSXX"
+      "sw61BviFSbXt3HBieLvsnsyJSXX",
+      "sw6VNvxrNKtU0WwOZB9WeWwjgbb"
      ]
     },
     {
@@ -83,9 +83,9 @@
   "sw61FIzZgCNiQtAJSCbCFwqqK4bVV": "https://c.mql5.com/6/1027/sw61FIzZgCNiQtAJSCbCFwqqK4bVV.jpg",
   "sw61EnSTcNyExBWjupQb7lIYaeENN": "https://c.mql5.com/6/1028/sw61EnSTcNyExBWjupQb7lIYaeENN.jpg",
   "sw6Pw4mZKOylD2vhwpWuKPu3VyTT": "https://c.mql5.com/6/1028/sw6Pw4mZKOylD2vhwpWuKPu3VyTT.jpg",
-  "sw6ibTGlkRt9ivU1tJmNQkSqPP": "https://c.mql5.com/6/1027/sw6ibTGlkRt9ivU1tJmNQkSqPP.jpg",
   "sw6YpMHAXuSmaRsrGQyPj41JRR": "https://c.mql5.com/6/1027/sw6YpMHAXuSmaRsrGQyPj41JRR.jpg",
   "sw61BviFSbXt3HBieLvsnsyJSXX": "https://c.mql5.com/6/1027/sw61BviFSbXt3HBieLvsnsyJSXX.jpg",
+  "sw6VNvxrNKtU0WwOZB9WeWwjgbb": "https://c.mql5.com/6/1031/sw6VNvxrNKtU0WwOZB9WeWwjgbb.jpg",
   "sw610v6a2tXjYSIRoBvEHEPWWs11": "https://c.mql5.com/6/1027/sw610v6a2tXjYSIRoBvEHEPWWs11.jpg",
   "sw6VO0b96WHzSEWjTao2XVkQhLL": "https://c.mql5.com/6/1027/sw6VO0b96WHzSEWjTao2XVkQhLL.jpg",
   "sw6QRbx9K5yW4qULmwc8mnlABgff": "https://c.mql5.com/6/1029/sw6QRbx9K5yW4qULmwc8mnlABgff.jpg"
@@ -97,9 +97,9 @@
   "sw61FIzZgCNiQtAJSCbCFwqqK4bVV",
   "sw6Pw4mZKOylD2vhwpWuKPu3VyTT",
   "sw6QRbx9K5yW4qULmwc8mnlABgff",
+  "sw6VNvxrNKtU0WwOZB9WeWwjgbb",
   "sw6VO0b96WHzSEWjTao2XVkQhLL",
   "sw6YpMHAXuSmaRsrGQyPj41JRR",
-  "sw6ibTGlkRt9ivU1tJmNQkSqPP",
   "xu61WLjWVXSp2FrCgXyFuJJ",
   "xu61iStNTnqt2Umqaw1nWOxx",
   "xu61rEDQzNyNLMOTB8CS2i6tt",
@@ -118,9 +118,9 @@
   "sw61FIzZgCNiQtAJSCbCFwqqK4bVV",
   "sw6Pw4mZKOylD2vhwpWuKPu3VyTT",
   "sw6QRbx9K5yW4qULmwc8mnlABgff",
+  "sw6VNvxrNKtU0WwOZB9WeWwjgbb",
   "sw6VO0b96WHzSEWjTao2XVkQhLL",
   "sw6YpMHAXuSmaRsrGQyPj41JRR",
-  "sw6ibTGlkRt9ivU1tJmNQkSqPP",
   "xu61WLjWVXSp2FrCgXyFuJJ",
   "xu61iStNTnqt2Umqaw1nWOxx",
   "xu61rEDQzNyNLMOTB8CS2i6tt",
