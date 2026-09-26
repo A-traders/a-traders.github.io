@@ -22,7 +22,7 @@
     "subscriber_count": 0,
     "portfolio_usd": "$",
     "registration_time": "2026-05-17T08:09:09.000Z",
-    "strategy": "CONSERVATIVE",
+    "strategy": "AGGRESSIVE SETTINGS",
     "strategy_desc": "🛡 Xaurus: Консерватор\n\n• Настройки: Консервативные.\n• Риск: Max DD до 20%.\n• Цель: ~10% прибыли в месяц.\n• Идеально для стабильного роста и крупных депозитов.\n\n👇 Подключить CopyFX и следить за отчетами:\nhttps://t.me/+YC8sLPokRbdlY2Zi",
     "min_equity_usd": 100,
     "group": "real-cent-HPro\\ru-cent-pro-U",
