@@ -10,11 +10,11 @@
    "data": {
     "source_id": "bbba",
     "login": 37367883,
-    "profit_percent": 60.9,
+    "profit_percent": 60.82,
     "profit_money": 30.42,
-    "profit_usd": 30.45,
+    "profit_usd": 30.41,
     "dd_max": -28.52,
-    "deal_count": 947,
+    "deal_count": 948,
     "balance_usd": 80.42,
     "offer_id": 4295003755,
     "name": "XaurusQuant",
@@ -163,7 +163,7 @@
      ],
      [
       "2026-09-28",
-      60.9
+      60.82
      ]
     ],
     "platform": "mt5"
@@ -672,7 +672,7 @@
      ],
      [
       "2026-09-28",
-      80.45
+      80.41
      ]
     ]
    }
@@ -929,7 +929,7 @@
     ],
     [
      "2026-09-28",
-     60.9
+     60.82
     ]
    ]
   },
@@ -941,7 +941,7 @@
    "data": [
     {
      "symbol": "BTCUSD",
-     "count": 947
+     "count": 948
     }
    ]
   },
