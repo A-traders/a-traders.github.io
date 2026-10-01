@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-01T17:08:43Z",
+ "fetched_at": "2026-10-01T18:08:49Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -87,8 +87,8 @@
      "count": 959
     }
    ],
-   "profit_percent": 29.23,
-   "profit_usd": 14.62,
+   "profit_percent": 37.54,
+   "profit_usd": 18.77,
    "dd_max": -28.52,
    "balance_usd": 65.12,
    "subscriber_count": 0,
@@ -101,7 +101,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-06-30T13:53:37.000Z",
    "deal_count": 959,
-   "current_dd_pct": 42.29,
+   "current_dd_pct": 34.63,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -119,8 +119,8 @@
      "count": 613
     }
    ],
-   "profit_percent": 549.32,
-   "profit_usd": 549.33,
+   "profit_percent": 548.97,
+   "profit_usd": 548.98,
    "dd_max": -48.57,
    "balance_usd": 650.04,
    "subscriber_count": 0,
@@ -133,7 +133,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 613,
-   "current_dd_pct": 0.1,
+   "current_dd_pct": 0.16,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -183,8 +183,8 @@
      "count": 87
     }
    ],
-   "profit_percent": 11.12,
-   "profit_usd": 55.59,
+   "profit_percent": 11.78,
+   "profit_usd": 58.92,
    "dd_max": -5.29,
    "balance_usd": 567.32,
    "subscriber_count": 0,
@@ -197,7 +197,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-09-05T17:00:16.000Z",
    "deal_count": 87,
-   "current_dd_pct": 3.79,
+   "current_dd_pct": 2.64,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -212,13 +212,13 @@
    "symbols": [
     {
      "symbol": "BTCUSD",
-     "count": 28
+     "count": 30
     }
    ],
-   "profit_percent": 2.84,
-   "profit_usd": 14.19,
+   "profit_percent": 2.87,
+   "profit_usd": 14.37,
    "dd_max": -0.77,
-   "balance_usd": 514.19,
+   "balance_usd": 514.37,
    "subscriber_count": 0,
    "leverage": 500,
    "is_cent": false,
@@ -228,7 +228,7 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-09-08T08:06:44.000Z",
-   "deal_count": 28,
+   "deal_count": 30,
    "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
