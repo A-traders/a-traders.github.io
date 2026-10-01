@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-01T09:08:45Z",
+ "fetched_at": "2026-10-01T10:08:45Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -87,8 +87,8 @@
      "count": 957
     }
    ],
-   "profit_percent": 42.89,
-   "profit_usd": 21.45,
+   "profit_percent": 41.07,
+   "profit_usd": 20.54,
    "dd_max": -28.52,
    "balance_usd": 74.57,
    "subscriber_count": 0,
@@ -101,7 +101,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-06-30T13:53:37.000Z",
    "deal_count": 957,
-   "current_dd_pct": 38.38,
+   "current_dd_pct": 39.94,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -119,8 +119,8 @@
      "count": 613
     }
    ],
-   "profit_percent": 548.48,
-   "profit_usd": 548.49,
+   "profit_percent": 548.05,
+   "profit_usd": 548.06,
    "dd_max": -48.57,
    "balance_usd": 650.04,
    "subscriber_count": 0,
@@ -133,7 +133,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 613,
-   "current_dd_pct": 0.23,
+   "current_dd_pct": 0.31,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -183,8 +183,8 @@
      "count": 87
     }
    ],
-   "profit_percent": 9.5,
-   "profit_usd": 47.49,
+   "profit_percent": 9.51,
+   "profit_usd": 47.55,
    "dd_max": -5.29,
    "balance_usd": 567.32,
    "subscriber_count": 0,
@@ -197,7 +197,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-09-05T17:00:16.000Z",
    "deal_count": 87,
-   "current_dd_pct": 6.58,
+   "current_dd_pct": 6.56,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
