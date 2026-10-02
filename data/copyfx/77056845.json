@@ -10,12 +10,12 @@
    "data": {
     "source_id": "bbbb",
     "login": 77056845,
-    "profit_percent": 13.99,
-    "profit_money": 69.96,
-    "profit_usd": 69.96,
+    "profit_percent": 13.8,
+    "profit_money": 69.87,
+    "profit_usd": 69.02,
     "dd_max": -5.29,
-    "deal_count": 88,
-    "balance_usd": 569.96,
+    "deal_count": 89,
+    "balance_usd": 569.87,
     "offer_id": 4295004488,
     "name": "XaurusQuant",
     "avatar": "/files/avatar-cache/c0/1e/e6/c6e1bb76eb4eceb6e40ee0f5f1/286x233.jpg",
@@ -131,7 +131,7 @@
      ],
      [
       "2026-10-02",
-      13.99
+      13.8
      ]
     ],
     "platform": "mt5"
@@ -230,7 +230,7 @@
      ],
      [
       "2026-10-02",
-      569.96
+      569.87
      ]
     ],
     "equity": [
@@ -320,7 +320,7 @@
      ],
      [
       "2026-10-02",
-      569.96
+      569.02
      ]
     ]
    }
@@ -417,12 +417,143 @@
     ],
     [
      "2026-10-02",
-     13.99
+     13.8
     ]
    ]
   },
-  "account/chart/symbols": null,
-  "ratingCard/getOfferList": null,
-  "ratingCard/getDdMax": null
+  "account/chart/symbols": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    {
+     "symbol": "BTCUSD",
+     "count": 89
+    }
+   ]
+  },
+  "ratingCard/getOfferList": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    {
+     "id": 4295004488,
+     "scheme": 1,
+     "commission": {
+      "type": 1,
+      "rate": 30
+     },
+     "affiliate_program": false,
+     "affiliate_commission": 0,
+     "modified": "2026-09-12T05:32:43.024Z",
+     "status": 1,
+     "period": 1209600,
+     "duration": {
+      "from": "2026-09-12T05:32:43.024Z"
+     },
+     "is_tech": false,
+     "activated": "2026-09-12T05:32:43.024Z"
+    }
+   ]
+  },
+  "ratingCard/getDdMax": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    [
+     "2026-09-05",
+     0
+    ],
+    [
+     "2026-09-08",
+     0
+    ],
+    [
+     "2026-09-09",
+     -0.45
+    ],
+    [
+     "2026-09-10",
+     -1.13
+    ],
+    [
+     "2026-09-11",
+     -4.06
+    ],
+    [
+     "2026-09-12",
+     -0.87
+    ],
+    [
+     "2026-09-13",
+     -1.38
+    ],
+    [
+     "2026-09-14",
+     -1.45
+    ],
+    [
+     "2026-09-15",
+     -5.29
+    ],
+    [
+     "2026-09-16",
+     -2.33
+    ],
+    [
+     "2026-09-17",
+     -3.69
+    ],
+    [
+     "2026-09-18",
+     -4.03
+    ],
+    [
+     "2026-09-19",
+     -1.46
+    ],
+    [
+     "2026-09-20",
+     -3.15
+    ],
+    [
+     "2026-09-21",
+     -2.23
+    ],
+    [
+     "2026-09-22",
+     -3.14
+    ],
+    [
+     "2026-09-23",
+     -1.62
+    ],
+    [
+     "2026-09-28",
+     -2.55
+    ],
+    [
+     "2026-09-29",
+     -2.84
+    ],
+    [
+     "2026-09-30",
+     -3.84
+    ],
+    [
+     "2026-10-01",
+     -4.27
+    ],
+    [
+     "2026-10-02",
+     -1.99
+    ]
+   ]
+  }
  }
 }

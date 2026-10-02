@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-02T11:11:30Z",
+ "fetched_at": "2026-10-02T12:08:44Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 1147
     }
    ],
-   "profit_percent": 998.78,
-   "profit_usd": 4804.26,
+   "profit_percent": 998.29,
+   "profit_usd": 4803.07,
    "dd_max": -26.97,
    "balance_usd": 2640.09,
    "subscriber_count": 44,
@@ -27,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-04-09T09:32:37.000Z",
    "deal_count": 1147,
-   "current_dd_pct": 0.53,
+   "current_dd_pct": 0.63,
    "nontrade_ops": [
     {
      "date": "2026-06-30",
@@ -119,8 +119,8 @@
      "count": 619
     }
    ],
-   "profit_percent": 533.83,
-   "profit_usd": 533.84,
+   "profit_percent": 535.17,
+   "profit_usd": 535.18,
    "dd_max": -48.57,
    "balance_usd": 639.06,
    "subscriber_count": 0,
@@ -133,7 +133,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 619,
-   "current_dd_pct": 3.27,
+   "current_dd_pct": 2.86,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -177,22 +177,27 @@
    "name": "XaurusQuant",
    "strategy": "XAURUS AI PRO100",
    "strategy_desc": "XAURUS AI PRO100 is an automated trading strategy designed for trading XAUUSD (Gold).\n\nThe target of this account is to achieve a 1,000% return.\nThe minimum required balance to connect to the copy-trading service is $500.\n\nPlease carefully assess the potential risks before connecting and make sure the strategy matches your financial goals and risk tolerance",
-   "symbols": [],
-   "profit_percent": 13.99,
-   "profit_usd": 69.96,
+   "symbols": [
+    {
+     "symbol": "BTCUSD",
+     "count": 89
+    }
+   ],
+   "profit_percent": 13.8,
+   "profit_usd": 69.02,
    "dd_max": -5.29,
-   "balance_usd": 569.96,
+   "balance_usd": 569.87,
    "subscriber_count": 0,
    "leverage": 500,
    "is_cent": false,
    "account_type": "ECN",
    "platform": "mt5",
    "min_equity_usd": 500.0,
-   "commission_rate": null,
-   "payout_period_days": null,
+   "commission_rate": 30.0,
+   "payout_period_days": 14,
    "registration_time": "2026-09-05T17:00:16.000Z",
-   "deal_count": 88,
-   "current_dd_pct": 0.0,
+   "deal_count": 89,
+   "current_dd_pct": 0.15,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -201,29 +206,34 @@
   },
   {
    "login": 77057061,
-   "name": null,
-   "strategy": null,
-   "strategy_desc": null,
-   "symbols": [],
-   "profit_percent": null,
-   "profit_usd": null,
-   "dd_max": null,
-   "balance_usd": null,
-   "subscriber_count": null,
-   "leverage": null,
-   "is_cent": null,
-   "account_type": null,
-   "platform": null,
-   "min_equity_usd": null,
-   "commission_rate": null,
-   "payout_period_days": null,
-   "registration_time": null,
-   "deal_count": null,
-   "current_dd_pct": null,
+   "name": "XaurusQuant",
+   "strategy": "Goal 100 percent",
+   "strategy_desc": "The goal of this account is to achieve a 100% return. Once the target is reached, the account will be stopped.",
+   "symbols": [
+    {
+     "symbol": "BTCUSD",
+     "count": 32
+    }
+   ],
+   "profit_percent": 3.55,
+   "profit_usd": 17.75,
+   "dd_max": -0.77,
+   "balance_usd": 517.75,
+   "subscriber_count": 0,
+   "leverage": 500,
+   "is_cent": false,
+   "account_type": "ECN",
+   "platform": "mt5",
+   "min_equity_usd": 500.0,
+   "commission_rate": 30.0,
+   "payout_period_days": 14,
+   "registration_time": "2026-09-08T08:06:44.000Z",
+   "deal_count": 32,
+   "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
-   "listed": false,
+   "listed": true,
    "public_url": "https://roboforex.com/copy-trading/rating/bbbb/77057061/"
   }
  ]
