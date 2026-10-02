@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-02T10:08:52Z",
+ "fetched_at": "2026-10-02T11:11:30Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 1147
     }
    ],
-   "profit_percent": 998.12,
-   "profit_usd": 4802.66,
+   "profit_percent": 998.78,
+   "profit_usd": 4804.26,
    "dd_max": -26.97,
    "balance_usd": 2640.09,
    "subscriber_count": 44,
@@ -27,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-04-09T09:32:37.000Z",
    "deal_count": 1147,
-   "current_dd_pct": 0.66,
+   "current_dd_pct": 0.53,
    "nontrade_ops": [
     {
      "date": "2026-06-30",
@@ -87,8 +87,8 @@
      "count": 961
     }
    ],
-   "profit_percent": 107.53,
-   "profit_usd": 53.77,
+   "profit_percent": 107.52,
+   "profit_usd": 53.76,
    "dd_max": -28.52,
    "balance_usd": 103.91,
    "subscriber_count": 0,
@@ -101,7 +101,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-06-30T13:53:37.000Z",
    "deal_count": 961,
-   "current_dd_pct": 6.73,
+   "current_dd_pct": 6.74,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -116,13 +116,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 617
+     "count": 619
     }
    ],
-   "profit_percent": 541.33,
-   "profit_usd": 541.34,
+   "profit_percent": 533.83,
+   "profit_usd": 533.84,
    "dd_max": -48.57,
-   "balance_usd": 644.07,
+   "balance_usd": 639.06,
    "subscriber_count": 0,
    "leverage": 2000,
    "is_cent": true,
@@ -132,8 +132,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
-   "deal_count": 617,
-   "current_dd_pct": 1.74,
+   "deal_count": 619,
+   "current_dd_pct": 3.27,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -177,12 +177,7 @@
    "name": "XaurusQuant",
    "strategy": "XAURUS AI PRO100",
    "strategy_desc": "XAURUS AI PRO100 is an automated trading strategy designed for trading XAUUSD (Gold).\n\nThe target of this account is to achieve a 1,000% return.\nThe minimum required balance to connect to the copy-trading service is $500.\n\nPlease carefully assess the potential risks before connecting and make sure the strategy matches your financial goals and risk tolerance",
-   "symbols": [
-    {
-     "symbol": "BTCUSD",
-     "count": 88
-    }
-   ],
+   "symbols": [],
    "profit_percent": 13.99,
    "profit_usd": 69.96,
    "dd_max": -5.29,
@@ -193,8 +188,8 @@
    "account_type": "ECN",
    "platform": "mt5",
    "min_equity_usd": 500.0,
-   "commission_rate": 30.0,
-   "payout_period_days": 14,
+   "commission_rate": null,
+   "payout_period_days": null,
    "registration_time": "2026-09-05T17:00:16.000Z",
    "deal_count": 88,
    "current_dd_pct": 0.0,
@@ -206,34 +201,29 @@
   },
   {
    "login": 77057061,
-   "name": "XaurusQuant",
-   "strategy": "Goal 100 percent",
-   "strategy_desc": "The goal of this account is to achieve a 100% return. Once the target is reached, the account will be stopped.",
-   "symbols": [
-    {
-     "symbol": "BTCUSD",
-     "count": 32
-    }
-   ],
-   "profit_percent": 3.55,
-   "profit_usd": 17.75,
-   "dd_max": -0.77,
-   "balance_usd": 517.75,
-   "subscriber_count": 0,
-   "leverage": 500,
-   "is_cent": false,
-   "account_type": "ECN",
-   "platform": "mt5",
-   "min_equity_usd": 500.0,
-   "commission_rate": 30.0,
-   "payout_period_days": 14,
-   "registration_time": "2026-09-08T08:06:44.000Z",
-   "deal_count": 32,
-   "current_dd_pct": 0.0,
+   "name": null,
+   "strategy": null,
+   "strategy_desc": null,
+   "symbols": [],
+   "profit_percent": null,
+   "profit_usd": null,
+   "dd_max": null,
+   "balance_usd": null,
+   "subscriber_count": null,
+   "leverage": null,
+   "is_cent": null,
+   "account_type": null,
+   "platform": null,
+   "min_equity_usd": null,
+   "commission_rate": null,
+   "payout_period_days": null,
+   "registration_time": null,
+   "deal_count": null,
+   "current_dd_pct": null,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
-   "listed": true,
+   "listed": false,
    "public_url": "https://roboforex.com/copy-trading/rating/bbbb/77057061/"
   }
  ]
