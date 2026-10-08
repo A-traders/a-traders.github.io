@@ -10,12 +10,12 @@
    "data": {
     "source_id": "bbbb",
     "login": 77056845,
-    "profit_percent": 17.02,
-    "profit_money": 86.31,
-    "profit_usd": 85.1,
+    "profit_percent": 17.36,
+    "profit_money": 88.23,
+    "profit_usd": 86.79,
     "dd_max": -5.52,
-    "deal_count": 111,
-    "balance_usd": 586.31,
+    "deal_count": 113,
+    "balance_usd": 588.23,
     "offer_id": 4295004488,
     "name": "XaurusQuant",
     "avatar": "/files/avatar-cache/c0/1e/e6/c6e1bb76eb4eceb6e40ee0f5f1/286x233.jpg",
@@ -155,7 +155,7 @@
      ],
      [
       "2026-10-08",
-      17.02
+      17.36
      ]
     ],
     "platform": "mt5"
@@ -278,7 +278,7 @@
      ],
      [
       "2026-10-08",
-      586.31
+      588.23
      ]
     ],
     "equity": [
@@ -392,7 +392,7 @@
      ],
      [
       "2026-10-08",
-      585.1
+      586.79
      ]
     ]
    }
@@ -513,7 +513,7 @@
     ],
     [
      "2026-10-08",
-     17.02
+     17.36
     ]
    ]
   },
@@ -525,7 +525,7 @@
    "data": [
     {
      "symbol": "BTCUSD",
-     "count": 111
+     "count": 113
     }
    ]
   },
