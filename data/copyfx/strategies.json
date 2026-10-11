@@ -1,48 +1,7 @@
 {
- "fetched_at": "2026-10-11T19:08:49Z",
+ "fetched_at": "2026-10-11T19:24:15Z",
  "source_id": "bbba",
  "strategies": [
-  {
-   "login": 37328492,
-   "name": "XaurusQuant",
-   "strategy": "AGGRESSIVE SETTINGS",
-   "strategy_desc": "🚀 Xaurus: Агрессор\n\n• Цель: до 1000% прибыли за 6 месяцев.\n• Настройки: Максимальная агрессия.\n• Риск: Критически высокий. Вероятна полная потеря депозита!\n• Для тех, кто готов рискнуть малым ради огромной прибыли.\n\n👇 Подключить CopyFX (на свой страх и риск):\nhttps://t.me/+YC8sLPokRbdlY2Zi",
-   "symbols": [
-    {
-     "symbol": "XAUUSD",
-     "count": 1170
-    }
-   ],
-   "profit_percent": 1036.32,
-   "profit_usd": 4894.37,
-   "dd_max": -26.97,
-   "balance_usd": 0.0,
-   "subscriber_count": 47,
-   "leverage": 2000,
-   "is_cent": true,
-   "account_type": "ProCent",
-   "platform": "mt5",
-   "min_equity_usd": 100.0,
-   "commission_rate": 30.0,
-   "payout_period_days": 14,
-   "registration_time": "2026-04-09T09:32:37.000Z",
-   "deal_count": 1170,
-   "current_dd_pct": 0.0,
-   "nontrade_ops": [
-    {
-     "date": "2026-06-30",
-     "usd": -3169.43
-    },
-    {
-     "date": "2026-10-10",
-     "usd": -2727.94
-    }
-   ],
-   "withdrawn_usd": 5897.37,
-   "deposited_usd": 0,
-   "listed": true,
-   "public_url": "https://roboforex.com/copy-trading/rating/bbba/37328492/"
-  },
   {
    "login": 37305372,
    "name": "XaurusQuant",
@@ -91,8 +50,8 @@
      "count": 1147
     }
    ],
-   "profit_percent": 224.24,
-   "profit_usd": 112.12,
+   "profit_percent": 224.37,
+   "profit_usd": 112.18,
    "dd_max": -28.52,
    "balance_usd": 161.44,
    "subscriber_count": 0,
@@ -187,8 +146,8 @@
      "count": 129
     }
    ],
-   "profit_percent": 15.04,
-   "profit_usd": 75.19,
+   "profit_percent": 15.47,
+   "profit_usd": 77.37,
    "dd_max": -6.53,
    "balance_usd": 572.33,
    "subscriber_count": 1,
@@ -201,7 +160,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-09-05T17:00:16.000Z",
    "deal_count": 129,
-   "current_dd_pct": 1.98,
+   "current_dd_pct": 1.27,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
