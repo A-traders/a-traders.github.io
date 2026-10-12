@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T09:08:56Z",
+ "fetched_at": "2026-10-12T10:08:53Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -50,8 +50,8 @@
      "count": 1147
     }
    ],
-   "profit_percent": 224.05,
-   "profit_usd": 112.02,
+   "profit_percent": 223.9,
+   "profit_usd": 111.95,
    "dd_max": -28.52,
    "balance_usd": 161.44,
    "subscriber_count": 0,
@@ -82,8 +82,8 @@
      "count": 643
     }
    ],
-   "profit_percent": 725.44,
-   "profit_usd": 725.47,
+   "profit_percent": 726.88,
+   "profit_usd": 726.9,
    "dd_max": -48.57,
    "balance_usd": 825.01,
    "subscriber_count": 0,
@@ -96,7 +96,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 643,
-   "current_dd_pct": 1.38,
+   "current_dd_pct": 1.03,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -138,8 +138,8 @@
   {
    "login": 37373213,
    "name": "XaurusMK3",
-   "strategy": null,
-   "strategy_desc": "",
+   "strategy": "XAURUS PRO AI",
+   "strategy_desc": "This account was created to achieve a 1,000% return on the initial deposit. https://t.me/XaurusQuant",
    "symbols": [
     {
      "symbol": "XAUUSD",
@@ -156,8 +156,8 @@
    "account_type": "ProCent",
    "platform": "mt5",
    "min_equity_usd": 100.0,
-   "commission_rate": null,
-   "payout_period_days": null,
+   "commission_rate": 30.0,
+   "payout_period_days": 14,
    "registration_time": "2026-07-12T04:30:37.000Z",
    "deal_count": 928,
    "current_dd_pct": 0.0,
@@ -239,13 +239,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 5
+     "count": 6
     }
    ],
-   "profit_percent": 0.05,
-   "profit_usd": 0.53,
+   "profit_percent": 0.26,
+   "profit_usd": 2.62,
    "dd_max": -0.42,
-   "balance_usd": 993.56,
+   "balance_usd": 1002.62,
    "subscriber_count": 4,
    "leverage": 2000,
    "is_cent": true,
@@ -255,7 +255,7 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
-   "deal_count": 5,
+   "deal_count": 6,
    "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
