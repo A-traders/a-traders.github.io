@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T03:08:31Z",
+ "fetched_at": "2026-10-12T03:26:24Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -50,8 +50,8 @@
      "count": 1147
     }
    ],
-   "profit_percent": 224.37,
-   "profit_usd": 112.19,
+   "profit_percent": 224.27,
+   "profit_usd": 112.13,
    "dd_max": -28.52,
    "balance_usd": 161.44,
    "subscriber_count": 0,
@@ -82,8 +82,8 @@
      "count": 641
     }
    ],
-   "profit_percent": 731.03,
-   "profit_usd": 731.05,
+   "profit_percent": 730.18,
+   "profit_usd": 730.21,
    "dd_max": -48.57,
    "balance_usd": 830.3,
    "subscriber_count": 0,
@@ -96,7 +96,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 641,
-   "current_dd_pct": 0.67,
+   "current_dd_pct": 0.88,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -136,6 +136,38 @@
    "public_url": "https://roboforex.com/copy-trading/rating/bbba/37373209/"
   },
   {
+   "login": 37373213,
+   "name": "XaurusMK3",
+   "strategy": null,
+   "strategy_desc": "",
+   "symbols": [
+    {
+     "symbol": "XAUUSD",
+     "count": 928
+    }
+   ],
+   "profit_percent": 503.39,
+   "profit_usd": 151.06,
+   "dd_max": -25.8,
+   "balance_usd": 181.1,
+   "subscriber_count": 0,
+   "leverage": 2000,
+   "is_cent": true,
+   "account_type": "ProCent",
+   "platform": "mt5",
+   "min_equity_usd": 100.0,
+   "commission_rate": null,
+   "payout_period_days": null,
+   "registration_time": "2026-07-12T04:30:37.000Z",
+   "deal_count": 928,
+   "current_dd_pct": 0.0,
+   "nontrade_ops": [],
+   "withdrawn_usd": 0,
+   "deposited_usd": 0,
+   "listed": true,
+   "public_url": "https://roboforex.com/copy-trading/rating/bbba/37373213/"
+  },
+  {
    "login": 77056845,
    "name": "XaurusQuant",
    "strategy": "XAURUS AI PRO100",
@@ -146,8 +178,8 @@
      "count": 129
     }
    ],
-   "profit_percent": 15.53,
-   "profit_usd": 77.65,
+   "profit_percent": 15.09,
+   "profit_usd": 75.43,
    "dd_max": -6.53,
    "balance_usd": 572.33,
    "subscriber_count": 1,
@@ -160,7 +192,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-09-05T17:00:16.000Z",
    "deal_count": 129,
-   "current_dd_pct": 1.14,
+   "current_dd_pct": 1.9,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -198,6 +230,38 @@
    "deposited_usd": 0,
    "listed": true,
    "public_url": "https://roboforex.com/copy-trading/rating/bbbb/77057061/"
+  },
+  {
+   "login": 52021825,
+   "name": "XaurusQuant",
+   "strategy": "XAURUS PRO AI",
+   "strategy_desc": "This account was created to achieve a 1,000% return on the initial deposit.\nhttps://t.me/XaurusQuant",
+   "symbols": [
+    {
+     "symbol": "XAUUSD",
+     "count": 3
+    }
+   ],
+   "profit_percent": -0.39,
+   "profit_usd": -3.92,
+   "dd_max": -0.42,
+   "balance_usd": 995.82,
+   "subscriber_count": 4,
+   "leverage": 2000,
+   "is_cent": true,
+   "account_type": "ProCent",
+   "platform": "mt5",
+   "min_equity_usd": 100.0,
+   "commission_rate": 30.0,
+   "payout_period_days": 14,
+   "registration_time": "2026-10-10T14:47:38.000Z",
+   "deal_count": 3,
+   "current_dd_pct": 0.36,
+   "nontrade_ops": [],
+   "withdrawn_usd": 0,
+   "deposited_usd": 0,
+   "listed": true,
+   "public_url": "https://roboforex.com/copy-trading/rating/bbbc/52021825/"
   }
  ]
 }
