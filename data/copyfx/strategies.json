@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T06:08:54Z",
+ "fetched_at": "2026-10-12T07:09:08Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -50,8 +50,8 @@
      "count": 1147
     }
    ],
-   "profit_percent": 224.74,
-   "profit_usd": 112.37,
+   "profit_percent": 225.33,
+   "profit_usd": 112.67,
    "dd_max": -28.52,
    "balance_usd": 161.44,
    "subscriber_count": 0,
@@ -82,8 +82,8 @@
      "count": 643
     }
    ],
-   "profit_percent": 722.46,
-   "profit_usd": 722.49,
+   "profit_percent": 722.41,
+   "profit_usd": 722.43,
    "dd_max": -48.57,
    "balance_usd": 825.01,
    "subscriber_count": 0,
@@ -96,7 +96,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 643,
-   "current_dd_pct": 2.09,
+   "current_dd_pct": 2.1,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -175,13 +175,13 @@
    "symbols": [
     {
      "symbol": "BTCUSD",
-     "count": 129
+     "count": 130
     }
    ],
-   "profit_percent": 16.5,
-   "profit_usd": 82.51,
+   "profit_percent": 18.51,
+   "profit_usd": 92.54,
    "dd_max": -6.53,
-   "balance_usd": 572.33,
+   "balance_usd": 592.54,
    "subscriber_count": 1,
    "leverage": 500,
    "is_cent": false,
@@ -191,7 +191,7 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-09-05T17:00:16.000Z",
-   "deal_count": 129,
+   "deal_count": 130,
    "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
@@ -242,8 +242,8 @@
      "count": 5
     }
    ],
-   "profit_percent": -0.3,
-   "profit_usd": -2.98,
+   "profit_percent": -0.31,
+   "profit_usd": -3.13,
    "dd_max": -0.42,
    "balance_usd": 993.56,
    "subscriber_count": 4,
