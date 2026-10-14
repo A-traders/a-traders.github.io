@@ -10,12 +10,12 @@
    "data": {
     "source_id": "bbbc",
     "login": 52021825,
-    "profit_percent": 0.58,
-    "profit_money": 3.62,
-    "profit_usd": 5.83,
+    "profit_percent": 0.59,
+    "profit_money": 8.13,
+    "profit_usd": 5.94,
     "dd_max": -0.57,
-    "deal_count": 25,
-    "balance_usd": 1003.62,
+    "deal_count": 27,
+    "balance_usd": 1008.13,
     "offer_id": 4295006962,
     "name": "XaurusQuant",
     "avatar": "/files/avatar-cache/c0/1e/e6/c6e1bb76eb4eceb6e40ee0f5f1/286x233.jpg",
@@ -90,7 +90,7 @@
      ],
      [
       "2026-10-15",
-      1003.62
+      1008.13
      ]
     ],
     "equity": [
@@ -112,7 +112,7 @@
      ],
      [
       "2026-10-15",
-      1005.83
+      1005.94
      ]
     ]
    }
@@ -141,7 +141,7 @@
     ],
     [
      "2026-10-15",
-     0.58
+     0.59
     ]
    ]
   },
@@ -153,7 +153,7 @@
    "data": [
     {
      "symbol": "XAUUSD",
-     "count": 25
+     "count": 27
     }
    ]
   },
@@ -207,7 +207,7 @@
     ],
     [
      "2026-10-15",
-     0
+     -0.22
     ]
    ]
   }
