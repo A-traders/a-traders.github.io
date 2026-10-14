@@ -1,7 +1,7 @@
 {
  "source": "https://www.mql5.com/ru/blogs/post/775371",
  "date": "5 сентября 2026, 06:24",
- "checked_at": "2026-10-13T23:09:26Z",
+ "checked_at": "2026-10-14T00:09:01Z",
  "robots": [
   {
    "robot": "Xaurus AI Pro100",
@@ -62,7 +62,6 @@
      "t": "BTCUSD 2026.02.01 — 2026.08.31",
      "c": "депозит 10 000, плечо 1:500 · Swinger, RoboForex Pro",
      "codes": [
-      "sw610v6a2tXjYSIRoBvEHEPWWs11",
       "sw6VO0b96WHzSEWjTao2XVkQhLL",
       "sw6QRbx9K5yW4qULmwc8mnlABgff"
      ]
@@ -85,12 +84,10 @@
   "sw6VNvxrNKtU0WwOZB9WeWwjgbb": "https://c.mql5.com/6/1031/sw6VNvxrNKtU0WwOZB9WeWwjgbb.jpg",
   "sw6VNw6CmZHTROCrmzmpfiFfsLL": "https://c.mql5.com/6/1032/sw6VNw6CmZHTROCrmzmpfiFfsLL.jpg",
   "sw6VNvyYmxKW6uWfm36pEvYhUff": "https://c.mql5.com/6/1035/sw6VNvyYmxKW6uWfm36pEvYhUff.jpg",
-  "sw610v6a2tXjYSIRoBvEHEPWWs11": "https://c.mql5.com/6/1027/sw610v6a2tXjYSIRoBvEHEPWWs11.jpg",
   "sw6VO0b96WHzSEWjTao2XVkQhLL": "https://c.mql5.com/6/1027/sw6VO0b96WHzSEWjTao2XVkQhLL.jpg",
   "sw6QRbx9K5yW4qULmwc8mnlABgff": "https://c.mql5.com/6/1029/sw6QRbx9K5yW4qULmwc8mnlABgff.jpg"
  },
  "local": [
-  "sw610v6a2tXjYSIRoBvEHEPWWs11",
   "sw61EnSTcNyExBWjupQb7lIYaeENN",
   "sw61FIzZgCNiQtAJSCbCFwqqK4bVV",
   "sw6Pw4mZKOylD2vhwpWuKPu3VyTT",
@@ -112,7 +109,6 @@
   "xu6ZNPgnHmdaYC2OxSYqsHH"
  ],
  "files": [
-  "sw610v6a2tXjYSIRoBvEHEPWWs11",
   "sw61EnSTcNyExBWjupQb7lIYaeENN",
   "sw61FIzZgCNiQtAJSCbCFwqqK4bVV",
   "sw6Pw4mZKOylD2vhwpWuKPu3VyTT",
