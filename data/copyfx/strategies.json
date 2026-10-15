@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T15:09:12Z",
+ "fetched_at": "2026-10-15T16:09:03Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -50,8 +50,8 @@
      "count": 1159
     }
    ],
-   "profit_percent": 231.98,
-   "profit_usd": 115.99,
+   "profit_percent": 229.19,
+   "profit_usd": 114.59,
    "dd_max": -28.52,
    "balance_usd": 166.45,
    "subscriber_count": 0,
@@ -64,7 +64,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-06-30T13:53:37.000Z",
    "deal_count": 1159,
-   "current_dd_pct": 0.28,
+   "current_dd_pct": 1.25,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -82,8 +82,8 @@
      "count": 649
     }
    ],
-   "profit_percent": 755.43,
-   "profit_usd": 755.46,
+   "profit_percent": 756.29,
+   "profit_usd": 756.32,
    "dd_max": -48.57,
    "balance_usd": 857.08,
    "subscriber_count": 0,
@@ -96,7 +96,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 649,
-   "current_dd_pct": 0.37,
+   "current_dd_pct": 0.17,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -178,8 +178,8 @@
      "count": 141
     }
    ],
-   "profit_percent": 16.4,
-   "profit_usd": 81.99,
+   "profit_percent": 15.51,
+   "profit_usd": 77.53,
    "dd_max": -6.53,
    "balance_usd": 600.98,
    "subscriber_count": 2,
@@ -192,7 +192,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-09-05T17:00:16.000Z",
    "deal_count": 141,
-   "current_dd_pct": 4.88,
+   "current_dd_pct": 6.33,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -242,8 +242,8 @@
      "count": 33
     }
    ],
-   "profit_percent": 0.43,
-   "profit_usd": 4.26,
+   "profit_percent": 0.25,
+   "profit_usd": 2.47,
    "dd_max": -0.57,
    "balance_usd": 1006.82,
    "subscriber_count": 8,
@@ -256,7 +256,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
    "deal_count": 33,
-   "current_dd_pct": 0.49,
+   "current_dd_pct": 0.85,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
