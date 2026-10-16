@@ -10,12 +10,12 @@
    "data": {
     "source_id": "bbba",
     "login": 37373213,
-    "profit_percent": 521.32,
-    "profit_money": 156.42,
-    "profit_usd": 156.44,
+    "profit_percent": 522.99,
+    "profit_money": 156.94,
+    "profit_usd": 156.94,
     "dd_max": -25.8,
-    "deal_count": 981,
-    "balance_usd": 186.46,
+    "deal_count": 984,
+    "balance_usd": 186.98,
     "offer_id": 4295007080,
     "name": "XaurusMK3",
     "avatar": "/files/avatar-cache/02/55/40/b6acb32be24ae4646f5fb2a6ea/286x233.jpg",
@@ -163,7 +163,7 @@
      ],
      [
       "2026-10-16",
-      521.32
+      522.99
      ]
     ],
     "platform": "mt5"
@@ -530,7 +530,7 @@
      ],
      [
       "2026-10-16",
-      186.46
+      186.98
      ]
     ],
     "equity": [
@@ -888,7 +888,7 @@
      ],
      [
       "2026-10-16",
-      186.48
+      186.98
      ]
     ]
    }
@@ -1253,7 +1253,7 @@
     ],
     [
      "2026-10-16",
-     521.32
+     522.99
     ]
    ]
   },
@@ -1265,7 +1265,7 @@
    "data": [
     {
      "symbol": "XAUUSD",
-     "count": 981
+     "count": 984
     }
    ]
   },
