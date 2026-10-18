@@ -1,39 +1,7 @@
 {
- "fetched_at": "2026-10-18T21:08:59Z",
+ "fetched_at": "2026-10-18T22:09:02Z",
  "source_id": "bbba",
  "strategies": [
-  {
-   "login": 37367883,
-   "name": "XaurusQuant",
-   "strategy": "BTCUSD Aggressive",
-   "strategy_desc": "⚡ Very aggressive settings for the XAURUS AI PRO100 robot, designed for trading BTCUSD.\n\n🎯 Target: to attempt to achieve +1000% growth\n\nThese settings are focused on high growth potential and involve an extremely high level of risk. Significant drawdowns are possible, including the risk of losing the entire trading deposit.\n\n📲 Follow our results and updates:\n👉 Xaurus Quant\n\n⚠️ The target is not guaranteed. Past or backtested results do not guarantee future performance. Use only funds you can afford to lose.",
-   "symbols": [
-    {
-     "symbol": "BTCUSD",
-     "count": 1171
-    }
-   ],
-   "profit_percent": 102.97,
-   "profit_usd": 51.48,
-   "dd_max": -52.92,
-   "balance_usd": 86.83,
-   "subscriber_count": 0,
-   "leverage": 1000,
-   "is_cent": true,
-   "account_type": "ProCent",
-   "platform": "mt5",
-   "min_equity_usd": 100.0,
-   "commission_rate": 30.0,
-   "payout_period_days": 14,
-   "registration_time": "2026-06-30T13:53:37.000Z",
-   "deal_count": 1171,
-   "current_dd_pct": 38.39,
-   "nontrade_ops": [],
-   "withdrawn_usd": 0,
-   "deposited_usd": 0,
-   "listed": true,
-   "public_url": "https://roboforex.com/copy-trading/rating/bbba/37367883/"
-  },
   {
    "login": 37346579,
    "name": "XaurusQuant",
@@ -45,8 +13,8 @@
      "count": 653
     }
    ],
-   "profit_percent": 751.02,
-   "profit_usd": 751.04,
+   "profit_percent": 749.83,
+   "profit_usd": 749.85,
    "dd_max": -48.57,
    "balance_usd": 852.29,
    "subscriber_count": 0,
@@ -59,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 653,
-   "current_dd_pct": 0.7,
+   "current_dd_pct": 0.84,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -109,8 +77,8 @@
      "count": 989
     }
    ],
-   "profit_percent": 515.06,
-   "profit_usd": 154.56,
+   "profit_percent": 517.22,
+   "profit_usd": 155.21,
    "dd_max": -25.8,
    "balance_usd": 184.92,
    "subscriber_count": 0,
@@ -123,7 +91,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:30:37.000Z",
    "deal_count": 989,
-   "current_dd_pct": 0.82,
+   "current_dd_pct": 0.47,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -141,8 +109,8 @@
      "count": 1611
     }
    ],
-   "profit_percent": 78.68,
-   "profit_usd": 15.74,
+   "profit_percent": 80.07,
+   "profit_usd": 16.01,
    "dd_max": -29.02,
    "balance_usd": 35.59,
    "subscriber_count": 0,
@@ -155,7 +123,7 @@
    "payout_period_days": null,
    "registration_time": "2026-07-12T04:33:06.000Z",
    "deal_count": 1611,
-   "current_dd_pct": 60.42,
+   "current_dd_pct": 60.03,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -173,9 +141,9 @@
      "count": 145
     }
    ],
-   "profit_percent": 4.28,
-   "profit_usd": 21.4,
-   "dd_max": -8.88,
+   "profit_percent": -9.05,
+   "profit_usd": -45.26,
+   "dd_max": -15.09,
    "balance_usd": 525.73,
    "subscriber_count": 2,
    "leverage": 500,
@@ -187,7 +155,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-09-05T17:00:16.000Z",
    "deal_count": 145,
-   "current_dd_pct": 13.24,
+   "current_dd_pct": 24.33,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -237,8 +205,8 @@
      "count": 47
     }
    ],
-   "profit_percent": -3.24,
-   "profit_usd": -32.38,
+   "profit_percent": -4.12,
+   "profit_usd": -41.24,
    "dd_max": -1.37,
    "balance_usd": 960.89,
    "subscriber_count": 8,
@@ -251,7 +219,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
    "deal_count": 47,
-   "current_dd_pct": 3.72,
+   "current_dd_pct": 4.6,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
