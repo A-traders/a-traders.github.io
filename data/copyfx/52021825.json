@@ -10,16 +10,16 @@
    "data": {
     "source_id": "bbbc",
     "login": 52021825,
-    "profit_percent": 3.73,
+    "profit_percent": 3.64,
     "profit_money": 35.77,
-    "profit_usd": 37.31,
+    "profit_usd": 36.42,
     "dd_max": -1.65,
     "deal_count": 53,
     "balance_usd": 1035.77,
     "offer_id": 4295006962,
     "name": "XaurusQuant",
     "avatar": "/files/avatar-cache/c0/1e/e6/c6e1bb76eb4eceb6e40ee0f5f1/286x233.jpg",
-    "subscriber_count": 8,
+    "subscriber_count": 7,
     "portfolio_usd": "$",
     "registration_time": "2026-10-10T14:47:38.000Z",
     "strategy": "XAURUS PRO AI",
@@ -79,7 +79,7 @@
      ],
      [
       "2026-10-20",
-      3.73
+      3.64
      ]
     ],
     "platform": "mt5"
@@ -164,7 +164,7 @@
      ],
      [
       "2026-10-20",
-      1037.31
+      1036.42
      ]
     ]
    }
@@ -209,7 +209,7 @@
     ],
     [
      "2026-10-20",
-     3.73
+     3.64
     ]
    ]
   },
