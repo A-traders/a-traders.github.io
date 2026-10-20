@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T22:08:40Z",
+ "fetched_at": "2026-10-20T23:08:38Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 659
     }
    ],
-   "profit_percent": 741.54,
-   "profit_usd": 741.56,
+   "profit_percent": 738.49,
+   "profit_usd": 738.51,
    "dd_max": -48.57,
    "balance_usd": 849.64,
    "subscriber_count": 0,
@@ -27,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 659,
-   "current_dd_pct": 1.81,
+   "current_dd_pct": 2.16,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -74,13 +74,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1031
+     "count": 1033
     }
    ],
-   "profit_percent": 569.53,
-   "profit_usd": 170.91,
+   "profit_percent": 562.04,
+   "profit_usd": 168.66,
    "dd_max": -25.8,
-   "balance_usd": 199.28,
+   "balance_usd": 197.05,
    "subscriber_count": 0,
    "leverage": 2000,
    "is_cent": true,
@@ -90,8 +90,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:30:37.000Z",
-   "deal_count": 1031,
-   "current_dd_pct": 0.79,
+   "deal_count": 1033,
+   "current_dd_pct": 2.16,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -109,8 +109,8 @@
      "count": 1617
     }
    ],
-   "profit_percent": 63.52,
-   "profit_usd": 12.7,
+   "profit_percent": 58.23,
+   "profit_usd": 11.65,
    "dd_max": -29.02,
    "balance_usd": 32.66,
    "subscriber_count": 0,
@@ -123,7 +123,7 @@
    "payout_period_days": null,
    "registration_time": "2026-07-12T04:33:06.000Z",
    "deal_count": 1617,
-   "current_dd_pct": 63.78,
+   "current_dd_pct": 64.95,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -173,8 +173,8 @@
      "count": 65
     }
    ],
-   "profit_percent": 3.33,
-   "profit_usd": 33.32,
+   "profit_percent": 3.53,
+   "profit_usd": 35.31,
    "dd_max": -1.65,
    "balance_usd": 1033.32,
    "subscriber_count": 7,
