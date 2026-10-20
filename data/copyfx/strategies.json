@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T20:08:41Z",
+ "fetched_at": "2026-10-20T21:08:51Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 659
     }
    ],
-   "profit_percent": 739.96,
-   "profit_usd": 739.98,
+   "profit_percent": 740.79,
+   "profit_usd": 740.81,
    "dd_max": -48.57,
    "balance_usd": 849.64,
    "subscriber_count": 0,
@@ -27,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 659,
-   "current_dd_pct": 1.99,
+   "current_dd_pct": 1.89,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -74,13 +74,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1025
+     "count": 1031
     }
    ],
-   "profit_percent": 573.23,
-   "profit_usd": 172.02,
+   "profit_percent": 565.2,
+   "profit_usd": 169.61,
    "dd_max": -25.8,
-   "balance_usd": 202.83,
+   "balance_usd": 199.28,
    "subscriber_count": 0,
    "leverage": 2000,
    "is_cent": true,
@@ -90,8 +90,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:30:37.000Z",
-   "deal_count": 1025,
-   "current_dd_pct": 0.51,
+   "deal_count": 1031,
+   "current_dd_pct": 1.7,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -109,8 +109,8 @@
      "count": 1617
     }
    ],
-   "profit_percent": 59.91,
-   "profit_usd": 11.98,
+   "profit_percent": 61.82,
+   "profit_usd": 12.36,
    "dd_max": -29.02,
    "balance_usd": 32.66,
    "subscriber_count": 0,
@@ -123,7 +123,7 @@
    "payout_period_days": null,
    "registration_time": "2026-07-12T04:33:06.000Z",
    "deal_count": 1617,
-   "current_dd_pct": 64.58,
+   "current_dd_pct": 64.16,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -173,8 +173,8 @@
      "count": 65
     }
    ],
-   "profit_percent": 3.46,
-   "profit_usd": 34.64,
+   "profit_percent": 3.4,
+   "profit_usd": 34.0,
    "dd_max": -1.65,
    "balance_usd": 1033.32,
    "subscriber_count": 7,
