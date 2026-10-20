@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T00:08:47Z",
+ "fetched_at": "2026-10-20T01:08:51Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 657
     }
    ],
-   "profit_percent": 751.18,
-   "profit_usd": 751.21,
+   "profit_percent": 756.34,
+   "profit_usd": 756.36,
    "dd_max": -48.57,
    "balance_usd": 837.9,
    "subscriber_count": 0,
@@ -27,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 657,
-   "current_dd_pct": 0.68,
+   "current_dd_pct": 0.08,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -74,13 +74,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1011
+     "count": 1012
     }
    ],
-   "profit_percent": 578.42,
-   "profit_usd": 173.58,
+   "profit_percent": 585.23,
+   "profit_usd": 175.62,
    "dd_max": -25.8,
-   "balance_usd": 203.09,
+   "balance_usd": 205.66,
    "subscriber_count": 0,
    "leverage": 2000,
    "is_cent": true,
@@ -90,7 +90,7 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:30:37.000Z",
-   "deal_count": 1011,
+   "deal_count": 1012,
    "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
@@ -106,11 +106,11 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1615
+     "count": 1616
     }
    ],
-   "profit_percent": 62.56,
-   "profit_usd": 12.51,
+   "profit_percent": 60.55,
+   "profit_usd": 12.11,
    "dd_max": -29.02,
    "balance_usd": 32.66,
    "subscriber_count": 0,
@@ -122,45 +122,13 @@
    "commission_rate": null,
    "payout_period_days": null,
    "registration_time": "2026-07-12T04:33:06.000Z",
-   "deal_count": 1615,
-   "current_dd_pct": 63.99,
+   "deal_count": 1616,
+   "current_dd_pct": 64.44,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
    "listed": true,
    "public_url": "https://roboforex.com/copy-trading/rating/bbba/37373215/"
-  },
-  {
-   "login": 77056845,
-   "name": "XaurusQuant",
-   "strategy": "XAURUS AI PRO100",
-   "strategy_desc": "XAURUS AI PRO100 is an automated trading strategy designed for trading XAUUSD (Gold).\n\nThe target of this account is to achieve a 1,000% return.\nThe minimum required balance to connect to the copy-trading service is $500.\n\nPlease carefully assess the potential risks before connecting and make sure the strategy matches your financial goals and risk tolerance",
-   "symbols": [
-    {
-     "symbol": "BTCUSD",
-     "count": 147
-    }
-   ],
-   "profit_percent": -83.05,
-   "profit_usd": -415.23,
-   "dd_max": -80.89,
-   "balance_usd": 343.45,
-   "subscriber_count": 1,
-   "leverage": 500,
-   "is_cent": false,
-   "account_type": "ECN",
-   "platform": "mt5",
-   "min_equity_usd": 500.0,
-   "commission_rate": 30.0,
-   "payout_period_days": 14,
-   "registration_time": "2026-09-05T17:00:16.000Z",
-   "deal_count": 147,
-   "current_dd_pct": 85.9,
-   "nontrade_ops": [],
-   "withdrawn_usd": 0,
-   "deposited_usd": 0,
-   "listed": true,
-   "public_url": "https://roboforex.com/copy-trading/rating/bbbb/77056845/"
   },
   {
    "login": 77057061,
@@ -205,8 +173,8 @@
      "count": 53
     }
    ],
-   "profit_percent": 3.51,
-   "profit_usd": 35.09,
+   "profit_percent": 3.73,
+   "profit_usd": 37.31,
    "dd_max": -1.65,
    "balance_usd": 1035.77,
    "subscriber_count": 8,
@@ -219,7 +187,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
    "deal_count": 53,
-   "current_dd_pct": 0.07,
+   "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
