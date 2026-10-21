@@ -10,9 +10,9 @@
    "data": {
     "source_id": "bbbc",
     "login": 52021825,
-    "profit_percent": 2.53,
+    "profit_percent": 2.63,
     "profit_money": 18.48,
-    "profit_usd": 25.3,
+    "profit_usd": 26.29,
     "dd_max": -1.65,
     "deal_count": 77,
     "balance_usd": 1018.48,
@@ -184,7 +184,7 @@
      ],
      [
       "2026-10-22",
-      1025.3
+      1026.29
      ]
     ]
    }
@@ -237,7 +237,7 @@
     ],
     [
      "2026-10-22",
-     2.53
+     2.63
     ]
    ]
   },
