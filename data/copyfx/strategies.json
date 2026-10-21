@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T14:08:39Z",
+ "fetched_at": "2026-10-21T14:10:36Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 663
     }
    ],
-   "profit_percent": 692.96,
-   "profit_usd": 692.98,
+   "profit_percent": 691.61,
+   "profit_usd": 691.63,
    "dd_max": -48.57,
    "balance_usd": 806.12,
    "subscriber_count": 0,
@@ -27,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 663,
-   "current_dd_pct": 7.47,
+   "current_dd_pct": 7.63,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -109,8 +109,8 @@
      "count": 1617
     }
    ],
-   "profit_percent": 62.05,
-   "profit_usd": 12.41,
+   "profit_percent": 59.4,
+   "profit_usd": 11.88,
    "dd_max": -29.02,
    "balance_usd": 32.66,
    "subscriber_count": 0,
@@ -123,12 +123,44 @@
    "payout_period_days": null,
    "registration_time": "2026-07-12T04:33:06.000Z",
    "deal_count": 1617,
-   "current_dd_pct": 64.11,
+   "current_dd_pct": 64.69,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
    "listed": true,
    "public_url": "https://roboforex.com/copy-trading/rating/bbba/37373215/"
+  },
+  {
+   "login": 37367875,
+   "name": "XaurusQuant",
+   "strategy": "XAURUS PRO AI",
+   "strategy_desc": "This account was created to achieve a 1,000% return on the initial deposit. https://t.me/XaurusQuant",
+   "symbols": [
+    {
+     "symbol": "XAUUSD",
+     "count": 1021
+    }
+   ],
+   "profit_percent": 126.48,
+   "profit_usd": 632.5,
+   "dd_max": -26.05,
+   "balance_usd": 1131.26,
+   "subscriber_count": 0,
+   "leverage": 2000,
+   "is_cent": true,
+   "account_type": "ProCent",
+   "platform": "mt5",
+   "min_equity_usd": 100.0,
+   "commission_rate": 30.0,
+   "payout_period_days": 14,
+   "registration_time": "2026-06-30T13:48:38.000Z",
+   "deal_count": 1021,
+   "current_dd_pct": 0.0,
+   "nontrade_ops": [],
+   "withdrawn_usd": 0,
+   "deposited_usd": 0,
+   "listed": true,
+   "public_url": "https://roboforex.com/copy-trading/rating/bbba/37367875/"
   },
   {
    "login": 77057061,
@@ -173,8 +205,8 @@
      "count": 73
     }
    ],
-   "profit_percent": 2.38,
-   "profit_usd": 23.8,
+   "profit_percent": 2.39,
+   "profit_usd": 23.92,
    "dd_max": -1.65,
    "balance_usd": 1025.46,
    "subscriber_count": 7,
@@ -187,7 +219,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
    "deal_count": 73,
-   "current_dd_pct": 0.92,
+   "current_dd_pct": 0.91,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
