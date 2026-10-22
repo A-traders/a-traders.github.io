@@ -10,9 +10,9 @@
    "data": {
     "source_id": "bbbc",
     "login": 52021825,
-    "profit_percent": 1.48,
+    "profit_percent": 1.43,
     "profit_money": 8.89,
-    "profit_usd": 14.78,
+    "profit_usd": 14.26,
     "dd_max": -1.65,
     "deal_count": 79,
     "balance_usd": 1008.89,
@@ -87,7 +87,7 @@
      ],
      [
       "2026-10-22",
-      1.48
+      1.43
      ]
     ],
     "platform": "mt5"
@@ -188,7 +188,7 @@
      ],
      [
       "2026-10-22",
-      1014.78
+      1014.26
      ]
     ]
    }
@@ -241,22 +241,11 @@
     ],
     [
      "2026-10-22",
-     1.48
+     1.43
     ]
    ]
   },
-  "account/chart/symbols": {
-   "success": true,
-   "error_code": 0,
-   "errno": 0,
-   "message": "ok",
-   "data": [
-    {
-     "symbol": "XAUUSD",
-     "count": 79
-    }
-   ]
-  },
+  "account/chart/symbols": null,
   "ratingCard/getOfferList": {
    "success": true,
    "error_code": 0,
