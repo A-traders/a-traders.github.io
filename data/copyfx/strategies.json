@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T03:09:15Z",
+ "fetched_at": "2026-10-22T04:08:42Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 665
     }
    ],
-   "profit_percent": 678.11,
-   "profit_usd": 678.13,
+   "profit_percent": 718.04,
+   "profit_usd": 718.06,
    "dd_max": -48.57,
    "balance_usd": 777.91,
    "subscriber_count": 0,
@@ -27,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 665,
-   "current_dd_pct": 9.21,
+   "current_dd_pct": 4.55,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -106,13 +106,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1617
+     "count": 1622
     }
    ],
-   "profit_percent": 50.79,
-   "profit_usd": 10.16,
+   "profit_percent": 35.28,
+   "profit_usd": 7.06,
    "dd_max": -29.02,
-   "balance_usd": 32.66,
+   "balance_usd": 28.26,
    "subscriber_count": 0,
    "leverage": 2000,
    "is_cent": true,
@@ -122,8 +122,8 @@
    "commission_rate": null,
    "payout_period_days": null,
    "registration_time": "2026-07-12T04:33:06.000Z",
-   "deal_count": 1617,
-   "current_dd_pct": 66.6,
+   "deal_count": 1622,
+   "current_dd_pct": 70.04,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -138,13 +138,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1031
+     "count": 1032
     }
    ],
-   "profit_percent": 126.35,
-   "profit_usd": 631.84,
+   "profit_percent": 127.79,
+   "profit_usd": 639.05,
    "dd_max": -26.05,
-   "balance_usd": 1126.71,
+   "balance_usd": 1139.31,
    "subscriber_count": 0,
    "leverage": 2000,
    "is_cent": true,
@@ -154,7 +154,7 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-06-30T13:48:38.000Z",
-   "deal_count": 1031,
+   "deal_count": 1032,
    "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
@@ -199,9 +199,14 @@
    "name": "XaurusQuant",
    "strategy": "XAURUS PRO AI",
    "strategy_desc": "This account was created to achieve a 1,000% return on the initial deposit.\nhttps://t.me/XaurusQuant",
-   "symbols": [],
-   "profit_percent": 1.43,
-   "profit_usd": 14.26,
+   "symbols": [
+    {
+     "symbol": "XAUUSD",
+     "count": 79
+    }
+   ],
+   "profit_percent": 3.53,
+   "profit_usd": 35.35,
    "dd_max": -1.65,
    "balance_usd": 1008.89,
    "subscriber_count": 7,
@@ -214,7 +219,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
    "deal_count": 79,
-   "current_dd_pct": 1.84,
+   "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
