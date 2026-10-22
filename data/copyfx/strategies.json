@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T17:08:48Z",
+ "fetched_at": "2026-10-22T18:08:51Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 665
     }
    ],
-   "profit_percent": 820.77,
-   "profit_usd": 820.8,
+   "profit_percent": 810.15,
+   "profit_usd": 810.18,
    "dd_max": -48.57,
    "balance_usd": 777.91,
    "subscriber_count": 0,
@@ -45,8 +45,8 @@
      "count": 10911
     }
    ],
-   "profit_percent": 196.96,
-   "profit_usd": 137.94,
+   "profit_percent": 197.37,
+   "profit_usd": 138.22,
    "dd_max": -55.31,
    "balance_usd": 209.46,
    "subscriber_count": 0,
@@ -59,7 +59,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:25:11.000Z",
    "deal_count": 10911,
-   "current_dd_pct": 0.63,
+   "current_dd_pct": 0.5,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -77,8 +77,8 @@
      "count": 1053
     }
    ],
-   "profit_percent": 620.54,
-   "profit_usd": 186.22,
+   "profit_percent": 619.61,
+   "profit_usd": 185.94,
    "dd_max": -25.8,
    "balance_usd": 216.11,
    "subscriber_count": 1,
@@ -91,7 +91,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:30:37.000Z",
    "deal_count": 1053,
-   "current_dd_pct": 0.0,
+   "current_dd_pct": 0.06,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -109,8 +109,8 @@
      "count": 1625
     }
    ],
-   "profit_percent": 26.54,
-   "profit_usd": 5.31,
+   "profit_percent": 27.6,
+   "profit_usd": 5.52,
    "dd_max": -29.02,
    "balance_usd": 25.82,
    "subscriber_count": 0,
@@ -123,7 +123,7 @@
    "payout_period_days": null,
    "registration_time": "2026-07-12T04:33:06.000Z",
    "deal_count": 1625,
-   "current_dd_pct": 71.97,
+   "current_dd_pct": 71.74,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -141,8 +141,8 @@
      "count": 1047
     }
    ],
-   "profit_percent": 127.53,
-   "profit_usd": 637.73,
+   "profit_percent": 127.23,
+   "profit_usd": 636.24,
    "dd_max": -26.05,
    "balance_usd": 1127.28,
    "subscriber_count": 0,
@@ -205,8 +205,8 @@
      "count": 89
     }
    ],
-   "profit_percent": 3.8,
-   "profit_usd": 37.96,
+   "profit_percent": 3.67,
+   "profit_usd": 36.71,
    "dd_max": -1.65,
    "balance_usd": 1020.68,
    "subscriber_count": 7,
