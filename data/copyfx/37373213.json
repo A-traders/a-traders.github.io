@@ -2,7 +2,173 @@
  "login": 37373213,
  "source_id": "bbba",
  "raw": {
-  "ratingCard/getAccountStats": null,
+  "ratingCard/getAccountStats": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": {
+    "source_id": "bbba",
+    "login": 37373213,
+    "profit_percent": 615.8,
+    "profit_money": 184.79,
+    "profit_usd": 184.79,
+    "dd_max": -25.8,
+    "deal_count": 1044,
+    "balance_usd": 214.83,
+    "offer_id": 4295007080,
+    "name": "XaurusMK3",
+    "avatar": "/files/avatar-cache/02/55/40/b6acb32be24ae4646f5fb2a6ea/286x233.jpg",
+    "subscriber_count": 1,
+    "portfolio_usd": "$",
+    "registration_time": "2026-07-12T04:30:37.000Z",
+    "strategy": "XAURUS PRO AI",
+    "strategy_desc": "This account was created to achieve a 1,000% return on the initial deposit. https://t.me/XaurusQuant",
+    "min_equity_usd": 100,
+    "group": "real-cent-HPro\\ru-cent-pro-U",
+    "currency": "USD",
+    "subs_mode": 0,
+    "leverage": 2000,
+    "is_cent": true,
+    "offer": {
+     "id": 4295007080,
+     "scheme": 1,
+     "commission": {
+      "type": 1,
+      "rate": 30
+     },
+     "duration": {
+      "from": "2026-10-12T09:40:10.890Z",
+      "to": null
+     },
+     "affiliate_program": false,
+     "period": 1209600
+    },
+    "profit_percent_chart": [
+     [
+      "2026-09-22",
+      301.2
+     ],
+     [
+      "2026-09-23",
+      302.44
+     ],
+     [
+      "2026-09-24",
+      394.12
+     ],
+     [
+      "2026-09-25",
+      405.82
+     ],
+     [
+      "2026-09-26",
+      405.82
+     ],
+     [
+      "2026-09-27",
+      405.82
+     ],
+     [
+      "2026-09-28",
+      423.8
+     ],
+     [
+      "2026-09-29",
+      437.91
+     ],
+     [
+      "2026-09-30",
+      449.29
+     ],
+     [
+      "2026-10-01",
+      447.32
+     ],
+     [
+      "2026-10-02",
+      454.79
+     ],
+     [
+      "2026-10-03",
+      454.79
+     ],
+     [
+      "2026-10-04",
+      454.79
+     ],
+     [
+      "2026-10-05",
+      467.58
+     ],
+     [
+      "2026-10-06",
+      473.83
+     ],
+     [
+      "2026-10-07",
+      484.38
+     ],
+     [
+      "2026-10-08",
+      486.77
+     ],
+     [
+      "2026-10-09",
+      501.87
+     ],
+     [
+      "2026-10-10",
+      501.87
+     ],
+     [
+      "2026-10-12",
+      503.39
+     ],
+     [
+      "2026-10-13",
+      507.42
+     ],
+     [
+      "2026-10-14",
+      517.51
+     ],
+     [
+      "2026-10-15",
+      519.27
+     ],
+     [
+      "2026-10-16",
+      515.06
+     ],
+     [
+      "2026-10-17",
+      515.06
+     ],
+     [
+      "2026-10-18",
+      515.06
+     ],
+     [
+      "2026-10-19",
+      577.15
+     ],
+     [
+      "2026-10-20",
+      565.2
+     ],
+     [
+      "2026-10-21",
+      613.98
+     ],
+     [
+      "2026-10-22",
+      615.8
+     ]
+    ],
+    "platform": "mt5"
+   }
+  },
   "account/chart/balance_equity": {
    "success": true,
    "error_code": 0,
