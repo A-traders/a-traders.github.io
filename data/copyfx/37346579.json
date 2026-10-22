@@ -2,177 +2,7 @@
  "login": 37346579,
  "source_id": "bbba",
  "raw": {
-  "ratingCard/getAccountStats": {
-   "success": true,
-   "error_code": 0,
-   "errno": 0,
-   "message": "ok",
-   "data": {
-    "source_id": "bbba",
-    "login": 37346579,
-    "profit_percent": 726.82,
-    "profit_money": 677.87,
-    "profit_usd": 726.84,
-    "dd_max": -48.57,
-    "deal_count": 665,
-    "balance_usd": 777.91,
-    "offer_id": 4294998079,
-    "name": "XaurusQuant",
-    "avatar": "/files/avatar-cache/c0/1e/e6/c6e1bb76eb4eceb6e40ee0f5f1/286x233.jpg",
-    "subscriber_count": 0,
-    "portfolio_usd": "$",
-    "registration_time": "2026-05-17T08:09:09.000Z",
-    "strategy": "AGGRESSIVE SETTINGS",
-    "strategy_desc": "🛡 Xaurus: Консерватор\n\n• Настройки: Консервативные.\n• Риск: Max DD до 20%.\n• Цель: ~10% прибыли в месяц.\n• Идеально для стабильного роста и крупных депозитов.\n\n👇 Подключить CopyFX и следить за отчетами:\nhttps://t.me/+YC8sLPokRbdlY2Zi",
-    "min_equity_usd": 100,
-    "group": "real-cent-HPro\\ru-cent-pro-U",
-    "currency": "USD",
-    "subs_mode": 0,
-    "leverage": 2000,
-    "is_cent": true,
-    "offer": {
-     "id": 4294998079,
-     "scheme": 1,
-     "commission": {
-      "type": 1,
-      "rate": 30
-     },
-     "duration": {
-      "from": "2026-07-06T05:46:21.469Z",
-      "to": null
-     },
-     "affiliate_program": false,
-     "period": 1209600,
-     "partner_program_template_id": 80250,
-     "partner_program_template_status": 1,
-     "company_client_status": 2,
-     "company_client_id": 10865
-    },
-    "profit_percent_chart": [
-     [
-      "2026-09-20",
-      422.86
-     ],
-     [
-      "2026-09-21",
-      395.61
-     ],
-     [
-      "2026-09-22",
-      355.39
-     ],
-     [
-      "2026-09-23",
-      457.71
-     ],
-     [
-      "2026-09-24",
-      544.86
-     ],
-     [
-      "2026-09-25",
-      541.01
-     ],
-     [
-      "2026-09-26",
-      541.01
-     ],
-     [
-      "2026-09-27",
-      541.01
-     ],
-     [
-      "2026-09-28",
-      547.53
-     ],
-     [
-      "2026-09-29",
-      548.12
-     ],
-     [
-      "2026-09-30",
-      547.86
-     ],
-     [
-      "2026-10-01",
-      549.95
-     ],
-     [
-      "2026-10-02",
-      513.7
-     ],
-     [
-      "2026-10-03",
-      513.7
-     ],
-     [
-      "2026-10-04",
-      513.7
-     ],
-     [
-      "2026-10-05",
-      359.85
-     ],
-     [
-      "2026-10-06",
-      418.13
-     ],
-     [
-      "2026-10-07",
-      737.48
-     ],
-     [
-      "2026-10-09",
-      728.45
-     ],
-     [
-      "2026-10-10",
-      728.45
-     ],
-     [
-      "2026-10-12",
-      727.81
-     ],
-     [
-      "2026-10-13",
-      731.58
-     ],
-     [
-      "2026-10-14",
-      757.01
-     ],
-     [
-      "2026-10-15",
-      753.81
-     ],
-     [
-      "2026-10-16",
-      751.02
-     ],
-     [
-      "2026-10-17",
-      751.02
-     ],
-     [
-      "2026-10-19",
-      749.92
-     ],
-     [
-      "2026-10-20",
-      740.79
-     ],
-     [
-      "2026-10-21",
-      627.24
-     ],
-     [
-      "2026-10-22",
-      726.82
-     ]
-    ],
-    "platform": "mt5"
-   }
-  },
+  "ratingCard/getAccountStats": null,
   "account/chart/balance_equity": {
    "success": true,
    "error_code": 0,
@@ -1324,7 +1154,7 @@
      ],
      [
       "2026-10-22",
-      826.88
+      836.04
      ]
     ]
    }
@@ -1905,7 +1735,7 @@
     ],
     [
      "2026-10-22",
-     726.82
+     735.97
     ]
    ]
   },
