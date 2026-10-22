@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T01:08:52Z",
+ "fetched_at": "2026-10-22T02:08:53Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 665
     }
    ],
-   "profit_percent": 672.83,
-   "profit_usd": 672.85,
+   "profit_percent": 681.04,
+   "profit_usd": 681.06,
    "dd_max": -48.57,
    "balance_usd": 777.91,
    "subscriber_count": 0,
@@ -27,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 665,
-   "current_dd_pct": 9.82,
+   "current_dd_pct": 8.86,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -71,7 +71,12 @@
    "name": "XaurusMK3",
    "strategy": "XAURUS PRO AI",
    "strategy_desc": "This account was created to achieve a 1,000% return on the initial deposit. https://t.me/XaurusQuant",
-   "symbols": [],
+   "symbols": [
+    {
+     "symbol": "XAUUSD",
+     "count": 1044
+    }
+   ],
    "profit_percent": 615.8,
    "profit_usd": 184.79,
    "dd_max": -25.8,
@@ -104,8 +109,8 @@
      "count": 1617
     }
    ],
-   "profit_percent": 53.34,
-   "profit_usd": 10.67,
+   "profit_percent": 49.42,
+   "profit_usd": 9.88,
    "dd_max": -29.02,
    "balance_usd": 32.66,
    "subscriber_count": 0,
@@ -118,7 +123,7 @@
    "payout_period_days": null,
    "registration_time": "2026-07-12T04:33:06.000Z",
    "deal_count": 1617,
-   "current_dd_pct": 66.03,
+   "current_dd_pct": 66.9,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -136,8 +141,8 @@
      "count": 1031
     }
    ],
-   "profit_percent": 126.04,
-   "profit_usd": 630.3,
+   "profit_percent": 126.47,
+   "profit_usd": 632.46,
    "dd_max": -26.05,
    "balance_usd": 1126.71,
    "subscriber_count": 0,
@@ -150,7 +155,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-06-30T13:48:38.000Z",
    "deal_count": 1031,
-   "current_dd_pct": 0.07,
+   "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -200,8 +205,8 @@
      "count": 79
     }
    ],
-   "profit_percent": 1.05,
-   "profit_usd": 10.46,
+   "profit_percent": 1.48,
+   "profit_usd": 14.78,
    "dd_max": -1.65,
    "balance_usd": 1008.89,
    "subscriber_count": 7,
@@ -214,7 +219,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
    "deal_count": 79,
-   "current_dd_pct": 2.21,
+   "current_dd_pct": 1.79,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,

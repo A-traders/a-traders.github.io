@@ -1329,7 +1329,18 @@
     ]
    ]
   },
-  "account/chart/symbols": null,
+  "account/chart/symbols": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    {
+     "symbol": "XAUUSD",
+     "count": 1044
+    }
+   ]
+  },
   "ratingCard/getOfferList": {
    "success": true,
    "error_code": 0,
