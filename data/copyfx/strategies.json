@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T14:08:54Z",
+ "fetched_at": "2026-10-23T15:09:08Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -10,11 +10,11 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 666
+     "count": 667
     }
    ],
-   "profit_percent": 842.8,
-   "profit_usd": 842.84,
+   "profit_percent": 840.98,
+   "profit_usd": 841.01,
    "dd_max": -48.57,
    "balance_usd": 942.88,
    "subscriber_count": 0,
@@ -26,8 +26,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
-   "deal_count": 666,
-   "current_dd_pct": 0.0,
+   "deal_count": 667,
+   "current_dd_pct": 0.19,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -42,11 +42,11 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 10922
+     "count": 10923
     }
    ],
-   "profit_percent": 199.7,
-   "profit_usd": 139.86,
+   "profit_percent": 199.46,
+   "profit_usd": 139.68,
    "dd_max": -55.31,
    "balance_usd": 210.05,
    "subscriber_count": 0,
@@ -58,12 +58,12 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:25:11.000Z",
-   "deal_count": 10922,
-   "current_dd_pct": 0.0,
+   "deal_count": 10923,
+   "current_dd_pct": null,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
-   "listed": true,
+   "listed": false,
    "public_url": "https://roboforex.com/copy-trading/rating/bbba/37373209/"
   },
   {
@@ -74,13 +74,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1068
+     "count": 1076
     }
    ],
-   "profit_percent": 634.56,
-   "profit_usd": 190.43,
+   "profit_percent": 638.32,
+   "profit_usd": 191.55,
    "dd_max": -25.8,
-   "balance_usd": 220.46,
+   "balance_usd": 221.59,
    "subscriber_count": 1,
    "leverage": 2000,
    "is_cent": true,
@@ -90,7 +90,7 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:30:37.000Z",
-   "deal_count": 1068,
+   "deal_count": 1076,
    "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
@@ -106,13 +106,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1633
+     "count": 1636
     }
    ],
-   "profit_percent": 11.11,
-   "profit_usd": 2.22,
+   "profit_percent": -16.25,
+   "profit_usd": -3.25,
    "dd_max": -29.02,
-   "balance_usd": 21.44,
+   "balance_usd": 16.75,
    "subscriber_count": 0,
    "leverage": 2000,
    "is_cent": true,
@@ -122,8 +122,8 @@
    "commission_rate": null,
    "payout_period_days": null,
    "registration_time": "2026-07-12T04:33:06.000Z",
-   "deal_count": 1633,
-   "current_dd_pct": 75.39,
+   "deal_count": 1636,
+   "current_dd_pct": 81.45,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -138,13 +138,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1057
+     "count": 1059
     }
    ],
-   "profit_percent": 129.28,
-   "profit_usd": 646.48,
+   "profit_percent": 129.47,
+   "profit_usd": 647.46,
    "dd_max": -26.05,
-   "balance_usd": 1145.47,
+   "balance_usd": 1147.1,
    "subscriber_count": 0,
    "leverage": 2000,
    "is_cent": true,
@@ -154,7 +154,7 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-06-30T13:48:38.000Z",
-   "deal_count": 1057,
+   "deal_count": 1059,
    "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
@@ -202,13 +202,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 99
+     "count": 101
     }
    ],
-   "profit_percent": 4.73,
-   "profit_usd": 47.27,
+   "profit_percent": 6.38,
+   "profit_usd": 63.76,
    "dd_max": -1.65,
-   "balance_usd": 1047.27,
+   "balance_usd": 1068.61,
    "subscriber_count": 7,
    "leverage": 2000,
    "is_cent": true,
@@ -218,8 +218,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
-   "deal_count": 99,
-   "current_dd_pct": 0.0,
+   "deal_count": 101,
+   "current_dd_pct": 0.45,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
