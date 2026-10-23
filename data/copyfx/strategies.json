@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T19:08:47Z",
+ "fetched_at": "2026-10-23T20:08:44Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,12 +13,12 @@
      "count": 667
     }
    ],
-   "profit_percent": 841.96,
-   "profit_usd": 841.99,
+   "profit_percent": 841.69,
+   "profit_usd": 841.72,
    "dd_max": -48.57,
    "balance_usd": 942.88,
    "subscriber_count": 0,
-   "leverage": 2000,
+   "leverage": 1000,
    "is_cent": true,
    "account_type": "ProCent",
    "platform": "mt5",
@@ -27,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 667,
-   "current_dd_pct": 0.09,
+   "current_dd_pct": 0.12,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -50,7 +50,7 @@
    "dd_max": -55.31,
    "balance_usd": 210.05,
    "subscriber_count": 0,
-   "leverage": 2000,
+   "leverage": 1000,
    "is_cent": true,
    "account_type": "ProCent",
    "platform": "mt5",
@@ -82,7 +82,7 @@
    "dd_max": -25.8,
    "balance_usd": 221.59,
    "subscriber_count": 1,
-   "leverage": 2000,
+   "leverage": 1000,
    "is_cent": true,
    "account_type": "ProCent",
    "platform": "mt5",
@@ -109,12 +109,12 @@
      "count": 1637
     }
    ],
-   "profit_percent": -17.86,
-   "profit_usd": -3.57,
+   "profit_percent": -17.21,
+   "profit_usd": -3.44,
    "dd_max": -29.02,
    "balance_usd": 16.75,
    "subscriber_count": 0,
-   "leverage": 2000,
+   "leverage": 1000,
    "is_cent": true,
    "account_type": "ProCent",
    "platform": "mt5",
@@ -123,7 +123,7 @@
    "payout_period_days": null,
    "registration_time": "2026-07-12T04:33:06.000Z",
    "deal_count": 1637,
-   "current_dd_pct": 81.81,
+   "current_dd_pct": 81.66,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -141,12 +141,12 @@
      "count": 1059
     }
    ],
-   "profit_percent": 129.76,
-   "profit_usd": 648.92,
+   "profit_percent": 129.7,
+   "profit_usd": 648.62,
    "dd_max": -26.05,
    "balance_usd": 1147.1,
    "subscriber_count": 0,
-   "leverage": 2000,
+   "leverage": 1000,
    "is_cent": true,
    "account_type": "ProCent",
    "platform": "mt5",
@@ -202,15 +202,15 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 101
+     "count": 103
     }
    ],
-   "profit_percent": 6.37,
-   "profit_usd": 63.69,
+   "profit_percent": 6.13,
+   "profit_usd": 61.32,
    "dd_max": -1.65,
-   "balance_usd": 1068.61,
+   "balance_usd": 1062.59,
    "subscriber_count": 7,
-   "leverage": 2000,
+   "leverage": 1000,
    "is_cent": true,
    "account_type": "ProCent",
    "platform": "mt5",
@@ -218,8 +218,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
-   "deal_count": 101,
-   "current_dd_pct": 0.46,
+   "deal_count": 103,
+   "current_dd_pct": 0.12,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,

@@ -10,9 +10,9 @@
    "data": {
     "source_id": "bbba",
     "login": 37367875,
-    "profit_percent": 129.76,
+    "profit_percent": 129.7,
     "profit_money": 646.84,
-    "profit_usd": 648.92,
+    "profit_usd": 648.62,
     "dd_max": -26.05,
     "deal_count": 1059,
     "balance_usd": 1147.1,
@@ -28,7 +28,7 @@
     "group": "real-cent-HPro\\ru-cent-pro-U",
     "currency": "USD",
     "subs_mode": 0,
-    "leverage": 2000,
+    "leverage": 1000,
     "is_cent": true,
     "offer": {
      "id": 4295007897,
@@ -163,7 +163,7 @@
      ],
      [
       "2026-10-23",
-      129.76
+      129.7
      ]
     ],
     "platform": "mt5"
@@ -936,7 +936,7 @@
      ],
      [
       "2026-10-23",
-      1149.18
+      1148.89
      ]
     ]
    }
@@ -1325,7 +1325,7 @@
     ],
     [
      "2026-10-23",
-     129.76
+     129.7
     ]
    ]
   },
