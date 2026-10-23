@@ -325,8 +325,115 @@
     ]
    ]
   },
-  "account/chart/symbols": null,
-  "ratingCard/getOfferList": null,
-  "ratingCard/getDdMax": null
+  "account/chart/symbols": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    {
+     "symbol": "BTCUSD",
+     "count": 44
+    }
+   ]
+  },
+  "ratingCard/getOfferList": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    {
+     "id": 4295004489,
+     "scheme": 1,
+     "commission": {
+      "type": 1,
+      "rate": 30
+     },
+     "affiliate_program": false,
+     "affiliate_commission": 0,
+     "modified": "2026-09-12T05:40:36.158Z",
+     "status": 1,
+     "period": 1209600,
+     "duration": {
+      "from": "2026-09-12T05:40:36.158Z"
+     },
+     "is_tech": false,
+     "activated": "2026-09-12T05:40:36.158Z"
+    }
+   ]
+  },
+  "ratingCard/getDdMax": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    [
+     "2026-09-08",
+     0
+    ],
+    [
+     "2026-09-11",
+     -0.04
+    ],
+    [
+     "2026-09-14",
+     -0.2
+    ],
+    [
+     "2026-09-18",
+     -0.73
+    ],
+    [
+     "2026-09-21",
+     -0.77
+    ],
+    [
+     "2026-09-30",
+     -0.2
+    ],
+    [
+     "2026-10-01",
+     -0.12
+    ],
+    [
+     "2026-10-02",
+     -0.01
+    ],
+    [
+     "2026-10-07",
+     -0.02
+    ],
+    [
+     "2026-10-09",
+     -2.4
+    ],
+    [
+     "2026-10-10",
+     -2.16
+    ],
+    [
+     "2026-10-11",
+     -1.47
+    ],
+    [
+     "2026-10-15",
+     -2.54
+    ],
+    [
+     "2026-10-16",
+     -1.69
+    ],
+    [
+     "2026-10-20",
+     -0.04
+    ],
+    [
+     "2026-10-21",
+     -0.15
+    ]
+   ]
+  }
  }
 }

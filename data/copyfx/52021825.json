@@ -2,7 +2,101 @@
  "login": 52021825,
  "source_id": "bbbc",
  "raw": {
-  "ratingCard/getAccountStats": null,
+  "ratingCard/getAccountStats": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": {
+    "source_id": "bbbc",
+    "login": 52021825,
+    "profit_percent": 4.83,
+    "profit_money": 47.49,
+    "profit_usd": 48.32,
+    "dd_max": -1.65,
+    "deal_count": 97,
+    "balance_usd": 1047.49,
+    "offer_id": 4295006962,
+    "name": "XaurusQuant",
+    "avatar": "/files/avatar-cache/c0/1e/e6/c6e1bb76eb4eceb6e40ee0f5f1/286x233.jpg",
+    "subscriber_count": 7,
+    "portfolio_usd": "$",
+    "registration_time": "2026-10-10T14:47:38.000Z",
+    "strategy": "XAURUS PRO AI",
+    "strategy_desc": "This account was created to achieve a 1,000% return on the initial deposit.\nhttps://t.me/XaurusQuant",
+    "min_equity_usd": 100,
+    "group": "real-cent-HPro-2\\ru-cent-pro-U",
+    "currency": "USD",
+    "subs_mode": 0,
+    "leverage": 2000,
+    "is_cent": true,
+    "offer": {
+     "id": 4295006962,
+     "scheme": 1,
+     "commission": {
+      "type": 1,
+      "rate": 30
+     },
+     "duration": {
+      "from": "2026-10-10T15:02:00.711Z",
+      "to": null
+     },
+     "affiliate_program": false,
+     "period": 1209600
+    },
+    "profit_percent_chart": [
+     [
+      "2026-10-10",
+      0
+     ],
+     [
+      "2026-10-12",
+      0
+     ],
+     [
+      "2026-10-13",
+      0.67
+     ],
+     [
+      "2026-10-14",
+      0.54
+     ],
+     [
+      "2026-10-15",
+      -0.33
+     ],
+     [
+      "2026-10-16",
+      -3.24
+     ],
+     [
+      "2026-10-17",
+      -3.24
+     ],
+     [
+      "2026-10-19",
+      3.14
+     ],
+     [
+      "2026-10-20",
+      3.4
+     ],
+     [
+      "2026-10-21",
+      2.53
+     ],
+     [
+      "2026-10-22",
+      4.68
+     ],
+     [
+      "2026-10-23",
+      4.83
+     ]
+    ],
+    "platform": "mt5"
+   }
+  },
   "account/chart/balance_equity": {
    "success": true,
    "error_code": 0,
@@ -56,7 +150,7 @@
      ],
      [
       "2026-10-23",
-      1052.51
+      1047.49
      ]
     ],
     "equity": [
@@ -106,12 +200,67 @@
      ],
      [
       "2026-10-23",
-      1049.16
+      1048.32
      ]
     ]
    }
   },
-  "account/chart/profit_percent": null,
+  "account/chart/profit_percent": {
+   "success": true,
+   "error_code": 0,
+   "errno": 0,
+   "message": "ok",
+   "data": [
+    [
+     "2026-10-10",
+     0
+    ],
+    [
+     "2026-10-12",
+     0
+    ],
+    [
+     "2026-10-13",
+     0.67
+    ],
+    [
+     "2026-10-14",
+     0.54
+    ],
+    [
+     "2026-10-15",
+     -0.33
+    ],
+    [
+     "2026-10-16",
+     -3.24
+    ],
+    [
+     "2026-10-17",
+     -3.24
+    ],
+    [
+     "2026-10-19",
+     3.14
+    ],
+    [
+     "2026-10-20",
+     3.4
+    ],
+    [
+     "2026-10-21",
+     2.53
+    ],
+    [
+     "2026-10-22",
+     4.68
+    ],
+    [
+     "2026-10-23",
+     4.83
+    ]
+   ]
+  },
   "account/chart/symbols": {
    "success": true,
    "error_code": 0,
@@ -120,7 +269,7 @@
    "data": [
     {
      "symbol": "XAUUSD",
-     "count": 95
+     "count": 97
     }
    ]
   },
