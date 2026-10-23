@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T15:09:08Z",
+ "fetched_at": "2026-10-23T16:08:54Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 667
     }
    ],
-   "profit_percent": 840.98,
-   "profit_usd": 841.01,
+   "profit_percent": 841.06,
+   "profit_usd": 841.09,
    "dd_max": -48.57,
    "balance_usd": 942.88,
    "subscriber_count": 0,
@@ -27,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 667,
-   "current_dd_pct": 0.19,
+   "current_dd_pct": 0.18,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -45,8 +45,8 @@
      "count": 10923
     }
    ],
-   "profit_percent": 199.46,
-   "profit_usd": 139.68,
+   "profit_percent": 200.03,
+   "profit_usd": 140.08,
    "dd_max": -55.31,
    "balance_usd": 210.05,
    "subscriber_count": 0,
@@ -59,11 +59,11 @@
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:25:11.000Z",
    "deal_count": 10923,
-   "current_dd_pct": null,
+   "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
-   "listed": false,
+   "listed": true,
    "public_url": "https://roboforex.com/copy-trading/rating/bbba/37373209/"
   },
   {
@@ -141,8 +141,8 @@
      "count": 1059
     }
    ],
-   "profit_percent": 129.47,
-   "profit_usd": 647.46,
+   "profit_percent": 129.52,
+   "profit_usd": 647.72,
    "dd_max": -26.05,
    "balance_usd": 1147.1,
    "subscriber_count": 0,
@@ -205,8 +205,8 @@
      "count": 101
     }
    ],
-   "profit_percent": 6.38,
-   "profit_usd": 63.76,
+   "profit_percent": 6.18,
+   "profit_usd": 61.8,
    "dd_max": -1.65,
    "balance_usd": 1068.61,
    "subscriber_count": 7,
@@ -219,7 +219,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
    "deal_count": 101,
-   "current_dd_pct": 0.45,
+   "current_dd_pct": 0.64,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
