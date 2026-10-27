@@ -1,7 +1,7 @@
 {
  "source": "https://www.mql5.com/ru/blogs/post/775371",
  "date": "5 сентября 2026, 06:24",
- "checked_at": "2026-10-21T00:08:48Z",
+ "checked_at": "2026-10-27T00:08:54Z",
  "robots": [
   {
    "robot": "Xaurus AI Pro100",
@@ -11,9 +11,9 @@
      "t": "XAUUSD 2026.01.01 — 2026.09.25",
      "c": "депозит 10 000, плечо 1:1000 · Xaurus, RoboForex Pro",
      "codes": [
-      "xu66CSdHT4wUk4UtYh3ovv",
-      "xu61iStNTnqt2Umqaw1nWOxx",
-      "xu6ZNPgnHmdaYC2OxSYqsHH"
+      "xu6ZNPgnHmdaYC2OxSYqsHH",
+      "xu61OZ0MizyZIxaC2QsXgrQRR",
+      "xu6ZNPczvW3fzpUAvngsnLL"
      ]
     },
     {
@@ -46,16 +46,15 @@
      "codes": [
       "sw61FIzZgCNiQtAJSCbCFwqqK4bVV",
       "sw61EnSTcNyExBWjupQb7lIYaeENN",
-      "sw6Pw4mZKOylD2vhwpWuKPu3VyTT"
+      "sw61WS81qcTcJ05Eg9SIwkLwsDVV"
      ]
     },
     {
      "t": "XAUUSD 2024.01.01 — 2026.09.25",
      "c": "депозит 10 000, плечо 1:1000 · Swinger, RoboForex Pro",
      "codes": [
-      "sw6VNvxrNKtU0WwOZB9WeWwjgbb",
-      "sw6VNw6CmZHTROCrmzmpfiFfsLL",
-      "sw6VNvyYmxKW6uWfm36pEvYhUff"
+      "sw6VNvyYmxKW6uWfm36pEvYhUff",
+      "sw610v26s3hCsLrD0MPWjzKQGqVV"
      ]
     },
     {
@@ -71,9 +70,9 @@
   }
  ],
  "images": {
-  "xu66CSdHT4wUk4UtYh3ovv": "https://c.mql5.com/6/1027/xu66CSdHT4wUk4UtYh3ovv.jpg",
-  "xu61iStNTnqt2Umqaw1nWOxx": "https://c.mql5.com/6/1028/xu61iStNTnqt2Umqaw1nWOxx.jpg",
   "xu6ZNPgnHmdaYC2OxSYqsHH": "https://c.mql5.com/6/1038/xu6ZNPgnHmdaYC2OxSYqsHH.jpg",
+  "xu61OZ0MizyZIxaC2QsXgrQRR": "https://c.mql5.com/6/1042/xu61OZ0MizyZIxaC2QsXgrQRR.jpg",
+  "xu6ZNPczvW3fzpUAvngsnLL": "https://c.mql5.com/6/1042/xu6ZNPczvW3fzpUAvngsnLL.jpg",
   "xu62KSy4h2ELWmFILqxpj7ddd": "https://c.mql5.com/6/1030/xu62KSy4h2ELWmFILqxpj7ddd.jpg",
   "xu64AYGGsXz43eq1q3EX2CE77": "https://c.mql5.com/6/1031/xu64AYGGsXz43eq1q3EX2CE77.jpg",
   "xu63FDqIsuFxjf5P42iL6M0RR": "https://c.mql5.com/6/1039/xu63FDqIsuFxjf5P42iL6M0RR.jpg",
@@ -82,51 +81,48 @@
   "xu6x2swZqiY0hP3eWvbiGC77": "https://c.mql5.com/6/1027/xu6x2swZqiY0hP3eWvbiGC77.jpg",
   "sw61FIzZgCNiQtAJSCbCFwqqK4bVV": "https://c.mql5.com/6/1027/sw61FIzZgCNiQtAJSCbCFwqqK4bVV.jpg",
   "sw61EnSTcNyExBWjupQb7lIYaeENN": "https://c.mql5.com/6/1028/sw61EnSTcNyExBWjupQb7lIYaeENN.jpg",
-  "sw6Pw4mZKOylD2vhwpWuKPu3VyTT": "https://c.mql5.com/6/1028/sw6Pw4mZKOylD2vhwpWuKPu3VyTT.jpg",
-  "sw6VNvxrNKtU0WwOZB9WeWwjgbb": "https://c.mql5.com/6/1031/sw6VNvxrNKtU0WwOZB9WeWwjgbb.jpg",
-  "sw6VNw6CmZHTROCrmzmpfiFfsLL": "https://c.mql5.com/6/1032/sw6VNw6CmZHTROCrmzmpfiFfsLL.jpg",
+  "sw61WS81qcTcJ05Eg9SIwkLwsDVV": "https://c.mql5.com/6/1042/sw61WS81qcTcJ05Eg9SIwkLwsDVV.jpg",
   "sw6VNvyYmxKW6uWfm36pEvYhUff": "https://c.mql5.com/6/1038/sw6VNvyYmxKW6uWfm36pEvYhUff.jpg",
+  "sw610v26s3hCsLrD0MPWjzKQGqVV": "https://c.mql5.com/6/1042/sw610v26s3hCsLrD0MPWjzKQGqVV.jpg",
   "sw6VO0b96WHzSEWjTao2XVkQhLL": "https://c.mql5.com/6/1027/sw6VO0b96WHzSEWjTao2XVkQhLL.jpg",
   "sw6QRbx9K5yW4qULmwc8mnlABgff": "https://c.mql5.com/6/1029/sw6QRbx9K5yW4qULmwc8mnlABgff.jpg",
   "sw6VO0e4UY6SACkqcikKCco0bXX": "https://c.mql5.com/6/1038/sw6VO0e4UY6SACkqcikKCco0bXX.jpg"
  },
  "local": [
+  "sw610v26s3hCsLrD0MPWjzKQGqVV",
   "sw61EnSTcNyExBWjupQb7lIYaeENN",
   "sw61FIzZgCNiQtAJSCbCFwqqK4bVV",
-  "sw6Pw4mZKOylD2vhwpWuKPu3VyTT",
+  "sw61WS81qcTcJ05Eg9SIwkLwsDVV",
   "sw6QRbx9K5yW4qULmwc8mnlABgff",
-  "sw6VNvxrNKtU0WwOZB9WeWwjgbb",
   "sw6VNvyYmxKW6uWfm36pEvYhUff",
-  "sw6VNw6CmZHTROCrmzmpfiFfsLL",
   "sw6VO0b96WHzSEWjTao2XVkQhLL",
   "sw6VO0e4UY6SACkqcikKCco0bXX",
-  "xu61iStNTnqt2Umqaw1nWOxx",
+  "xu61OZ0MizyZIxaC2QsXgrQRR",
   "xu61rEDQzNyNLMOTB8CS2i6tt",
   "xu62KSy4h2ELWmFILqxpj7ddd",
   "xu63FDqIsuFxjf5P42iL6M0RR",
   "xu64AYGGsXz43eq1q3EX2CE77",
-  "xu66CSdHT4wUk4UtYh3ovv",
+  "xu6ZNPczvW3fzpUAvngsnLL",
   "xu6ZNPgnHmdaYC2OxSYqsHH",
   "xu6wTLCn182ruAlBkCn50O33",
   "xu6x2swZqiY0hP3eWvbiGC77"
  ],
  "failed": [],
  "files": [
+  "sw610v26s3hCsLrD0MPWjzKQGqVV",
   "sw61EnSTcNyExBWjupQb7lIYaeENN",
   "sw61FIzZgCNiQtAJSCbCFwqqK4bVV",
-  "sw6Pw4mZKOylD2vhwpWuKPu3VyTT",
+  "sw61WS81qcTcJ05Eg9SIwkLwsDVV",
   "sw6QRbx9K5yW4qULmwc8mnlABgff",
-  "sw6VNvxrNKtU0WwOZB9WeWwjgbb",
   "sw6VNvyYmxKW6uWfm36pEvYhUff",
-  "sw6VNw6CmZHTROCrmzmpfiFfsLL",
   "sw6VO0b96WHzSEWjTao2XVkQhLL",
   "sw6VO0e4UY6SACkqcikKCco0bXX",
-  "xu61iStNTnqt2Umqaw1nWOxx",
+  "xu61OZ0MizyZIxaC2QsXgrQRR",
   "xu61rEDQzNyNLMOTB8CS2i6tt",
   "xu62KSy4h2ELWmFILqxpj7ddd",
   "xu63FDqIsuFxjf5P42iL6M0RR",
   "xu64AYGGsXz43eq1q3EX2CE77",
-  "xu66CSdHT4wUk4UtYh3ovv",
+  "xu6ZNPczvW3fzpUAvngsnLL",
   "xu6ZNPgnHmdaYC2OxSYqsHH",
   "xu6wTLCn182ruAlBkCn50O33",
   "xu6x2swZqiY0hP3eWvbiGC77"
