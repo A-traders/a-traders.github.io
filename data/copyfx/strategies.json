@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T17:08:56Z",
+ "fetched_at": "2026-10-29T18:08:54Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 683
     }
    ],
-   "profit_percent": 834.56,
-   "profit_usd": 834.59,
+   "profit_percent": 838.95,
+   "profit_usd": 838.99,
    "dd_max": -48.57,
    "balance_usd": 931.13,
    "subscriber_count": 0,
@@ -27,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 683,
-   "current_dd_pct": 0.87,
+   "current_dd_pct": 0.41,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -74,13 +74,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1111
+     "count": 1113
     }
    ],
-   "profit_percent": 654.99,
-   "profit_usd": 196.56,
+   "profit_percent": 658.01,
+   "profit_usd": 197.46,
    "dd_max": -25.8,
-   "balance_usd": 227.28,
+   "balance_usd": 227.62,
    "subscriber_count": 2,
    "leverage": 2000,
    "is_cent": true,
@@ -90,45 +90,13 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:30:37.000Z",
-   "deal_count": 1111,
-   "current_dd_pct": 0.3,
+   "deal_count": 1113,
+   "current_dd_pct": 0.05,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
    "listed": true,
    "public_url": "https://roboforex.com/copy-trading/rating/bbba/37373213/"
-  },
-  {
-   "login": 37373215,
-   "name": "XaurusMK3",
-   "strategy": null,
-   "strategy_desc": "",
-   "symbols": [
-    {
-     "symbol": "XAUUSD",
-     "count": 1642
-    }
-   ],
-   "profit_percent": -31.46,
-   "profit_usd": -6.29,
-   "dd_max": -39.18,
-   "balance_usd": 16.75,
-   "subscriber_count": 0,
-   "leverage": 2000,
-   "is_cent": true,
-   "account_type": "ProCent",
-   "platform": "mt5",
-   "min_equity_usd": 100.0,
-   "commission_rate": null,
-   "payout_period_days": null,
-   "registration_time": "2026-07-12T04:33:06.000Z",
-   "deal_count": 1642,
-   "current_dd_pct": 84.82,
-   "nontrade_ops": [],
-   "withdrawn_usd": 0,
-   "deposited_usd": 0,
-   "listed": true,
-   "public_url": "https://roboforex.com/copy-trading/rating/bbba/37373215/"
   },
   {
    "login": 37367875,
@@ -141,8 +109,8 @@
      "count": 1143
     }
    ],
-   "profit_percent": 113.87,
-   "profit_usd": 569.41,
+   "profit_percent": 125.46,
+   "profit_usd": 627.39,
    "dd_max": -26.05,
    "balance_usd": 1071.23,
    "subscriber_count": 1,
@@ -155,7 +123,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-06-30T13:48:38.000Z",
    "deal_count": 1143,
-   "current_dd_pct": 8.56,
+   "current_dd_pct": 3.61,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -205,8 +173,8 @@
      "count": 163
     }
    ],
-   "profit_percent": -9.98,
-   "profit_usd": -99.76,
+   "profit_percent": -4.83,
+   "profit_usd": -48.31,
    "dd_max": -5.31,
    "balance_usd": 906.26,
    "subscriber_count": 8,
@@ -219,7 +187,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
    "deal_count": 163,
-   "current_dd_pct": 17.11,
+   "current_dd_pct": 12.37,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
