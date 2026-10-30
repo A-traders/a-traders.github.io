@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T20:08:33Z",
+ "fetched_at": "2026-10-30T21:08:32Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,12 +13,12 @@
      "count": 685
     }
    ],
-   "profit_percent": 864.97,
-   "profit_usd": 865.0,
+   "profit_percent": 866.06,
+   "profit_usd": 866.1,
    "dd_max": -48.57,
    "balance_usd": 957.84,
    "subscriber_count": 0,
-   "leverage": 2000,
+   "leverage": 1000,
    "is_cent": true,
    "account_type": "ProCent",
    "platform": "mt5",
@@ -45,12 +45,12 @@
      "count": 10937
     }
    ],
-   "profit_percent": 198.68,
-   "profit_usd": 139.14,
+   "profit_percent": 195.23,
+   "profit_usd": 136.72,
    "dd_max": -55.31,
    "balance_usd": 211.72,
    "subscriber_count": 0,
-   "leverage": 2000,
+   "leverage": 1000,
    "is_cent": true,
    "account_type": "ProCent",
    "platform": "mt5",
@@ -59,7 +59,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:25:11.000Z",
    "deal_count": 10937,
-   "current_dd_pct": 1.13,
+   "current_dd_pct": 2.27,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -77,12 +77,12 @@
      "count": 1127
     }
    ],
-   "profit_percent": 663.92,
-   "profit_usd": 199.24,
+   "profit_percent": 666.36,
+   "profit_usd": 199.97,
    "dd_max": -25.8,
    "balance_usd": 230.49,
    "subscriber_count": 2,
-   "leverage": 2000,
+   "leverage": 1000,
    "is_cent": true,
    "account_type": "ProCent",
    "platform": "mt5",
@@ -91,7 +91,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:30:37.000Z",
    "deal_count": 1127,
-   "current_dd_pct": 0.52,
+   "current_dd_pct": 0.21,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -109,12 +109,12 @@
      "count": 1159
     }
    ],
-   "profit_percent": 151.44,
-   "profit_usd": 757.35,
+   "profit_percent": 151.77,
+   "profit_usd": 759.0,
    "dd_max": -26.05,
    "balance_usd": 1255.39,
    "subscriber_count": 1,
-   "leverage": 2000,
+   "leverage": 1000,
    "is_cent": true,
    "account_type": "ProCent",
    "platform": "mt5",
@@ -178,7 +178,7 @@
    "dd_max": -15.84,
    "balance_usd": 1169.66,
    "subscriber_count": 8,
-   "leverage": 2000,
+   "leverage": 1000,
    "is_cent": true,
    "account_type": "ProCent",
    "platform": "mt5",
