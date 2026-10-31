@@ -28,7 +28,7 @@
     "group": "real-cent-HPro\\ru-cent-pro-U",
     "currency": "USD",
     "subs_mode": 0,
-    "leverage": 1000,
+    "leverage": 2000,
     "is_cent": true,
     "offer": {
      "id": 4294998079,
@@ -49,10 +49,6 @@
      "company_client_id": 10865
     },
     "profit_percent_chart": [
-     [
-      "2026-09-27",
-      541.01
-     ],
      [
       "2026-09-28",
       547.53
@@ -167,6 +163,10 @@
      ],
      [
       "2026-10-30",
+      866.06
+     ],
+     [
+      "2026-10-31",
       866.06
      ]
     ],
