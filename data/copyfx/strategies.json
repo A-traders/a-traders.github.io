@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T18:11:58Z",
+ "fetched_at": "2026-11-03T19:12:45Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 689
     }
    ],
-   "profit_percent": 865.55,
-   "profit_usd": 865.58,
+   "profit_percent": 864.5,
+   "profit_usd": 864.54,
    "dd_max": -48.57,
    "balance_usd": 964.09,
    "subscriber_count": 0,
