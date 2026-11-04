@@ -10,9 +10,9 @@
    "data": {
     "source_id": "bbbb",
     "login": 77057061,
-    "profit_percent": 4.51,
+    "profit_percent": 4.82,
     "profit_money": 29.77,
-    "profit_usd": 22.54,
+    "profit_usd": 24.11,
     "dd_max": -2.54,
     "deal_count": 57,
     "balance_usd": 529.77,
@@ -304,7 +304,7 @@
      ],
      [
       "2026-11-05",
-      522.54
+      524.11
      ]
     ]
    }
@@ -397,7 +397,7 @@
     ],
     [
      "2026-11-05",
-     4.51
+     4.82
     ]
    ]
   },
