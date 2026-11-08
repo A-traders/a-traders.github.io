@@ -1,7 +1,7 @@
 {
  "source": "https://www.mql5.com/ru/blogs/post/775371",
  "date": "5 сентября 2026, 06:24",
- "checked_at": "2026-11-06T17:08:52Z",
+ "checked_at": "2026-11-08T23:08:41Z",
  "robots": [
   {
    "robot": "Xaurus AI Pro100",
@@ -29,7 +29,6 @@
      "t": "BTCUSD 2026.02.01 — 2026.09.25",
      "c": "депозит 10 000, плечо 1:500 · Xaurus, RoboForex Pro",
      "codes": [
-      "xu6wTLCn182ruAlBkCn50O33",
       "xu6x2swZqiY0hP3eWvbiGC77",
       "xu62JtQPuceNQYAiTkU131D55"
      ]
@@ -77,7 +76,6 @@
   "xu62KSy4h2ELWmFILqxpj7ddd": "https://c.mql5.com/6/1030/xu62KSy4h2ELWmFILqxpj7ddd.jpg",
   "xu64AYGGsXz43eq1q3EX2CE77": "https://c.mql5.com/6/1031/xu64AYGGsXz43eq1q3EX2CE77.jpg",
   "xu63FDqIsuFxjf5P42iL6M0RR": "https://c.mql5.com/6/1039/xu63FDqIsuFxjf5P42iL6M0RR.jpg",
-  "xu6wTLCn182ruAlBkCn50O33": "https://c.mql5.com/6/1027/xu6wTLCn182ruAlBkCn50O33.jpg",
   "xu6x2swZqiY0hP3eWvbiGC77": "https://c.mql5.com/6/1027/xu6x2swZqiY0hP3eWvbiGC77.jpg",
   "xu62JtQPuceNQYAiTkU131D55": "https://c.mql5.com/6/1047/xu62JtQPuceNQYAiTkU131D55.jpg",
   "sw61FIzZgCNiQtAJSCbCFwqqK4bVV": "https://c.mql5.com/6/1027/sw61FIzZgCNiQtAJSCbCFwqqK4bVV.jpg",
@@ -107,7 +105,6 @@
   "xu64AYGGsXz43eq1q3EX2CE77",
   "xu6ZNPczvW3fzpUAvngsnLL",
   "xu6ZNPgnHmdaYC2OxSYqsHH",
-  "xu6wTLCn182ruAlBkCn50O33",
   "xu6x2swZqiY0hP3eWvbiGC77"
  ],
  "failed": [],
@@ -128,7 +125,6 @@
   "xu64AYGGsXz43eq1q3EX2CE77",
   "xu6ZNPczvW3fzpUAvngsnLL",
   "xu6ZNPgnHmdaYC2OxSYqsHH",
-  "xu6wTLCn182ruAlBkCn50O33",
   "xu6x2swZqiY0hP3eWvbiGC77"
  ]
 }
