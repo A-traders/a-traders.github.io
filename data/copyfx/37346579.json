@@ -10,9 +10,9 @@
    "data": {
     "source_id": "bbba",
     "login": 37346579,
-    "profit_percent": 884.04,
+    "profit_percent": 882,
     "profit_money": 876.99,
-    "profit_usd": 884.08,
+    "profit_usd": 882.04,
     "dd_max": -48.57,
     "deal_count": 703,
     "balance_usd": 977.06,
@@ -1460,7 +1460,7 @@
      ],
      [
       "2026-11-10",
-      984.16
+      982.11
      ]
     ]
    }
@@ -2109,7 +2109,7 @@
     ],
     [
      "2026-11-10",
-     884.04
+     882
     ]
    ]
   },
