@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T23:08:43Z",
+ "fetched_at": "2026-11-10T00:08:36Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 703
     }
    ],
-   "profit_percent": 882.0,
-   "profit_usd": 882.04,
+   "profit_percent": 881.88,
+   "profit_usd": 881.92,
    "dd_max": -48.57,
    "balance_usd": 977.06,
    "subscriber_count": 0,
@@ -27,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 703,
-   "current_dd_pct": 0.3,
+   "current_dd_pct": 0.32,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -45,8 +45,8 @@
      "count": 10989
     }
    ],
-   "profit_percent": 224.33,
-   "profit_usd": 157.11,
+   "profit_percent": 224.34,
+   "profit_usd": 157.13,
    "dd_max": -55.31,
    "balance_usd": 227.72,
    "subscriber_count": 0,
@@ -74,13 +74,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1195
+     "count": 1197
     }
    ],
-   "profit_percent": 762.16,
-   "profit_usd": 228.73,
+   "profit_percent": 763.17,
+   "profit_usd": 229.03,
    "dd_max": -25.8,
-   "balance_usd": 259.61,
+   "balance_usd": 258.92,
    "subscriber_count": 1,
    "leverage": 2000,
    "is_cent": true,
@@ -90,8 +90,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:30:37.000Z",
-   "deal_count": 1195,
-   "current_dd_pct": 0.31,
+   "deal_count": 1197,
+   "current_dd_pct": 0.2,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -173,8 +173,8 @@
      "count": 179
     }
    ],
-   "profit_percent": 17.03,
-   "profit_usd": 170.29,
+   "profit_percent": 16.96,
+   "profit_usd": 169.64,
    "dd_max": -15.84,
    "balance_usd": 1178.27,
    "subscriber_count": 6,
@@ -187,7 +187,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
    "deal_count": 179,
-   "current_dd_pct": 0.67,
+   "current_dd_pct": 0.73,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
