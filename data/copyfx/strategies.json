@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T23:08:37Z",
+ "fetched_at": "2026-11-13T00:08:42Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -45,8 +45,8 @@
      "count": 11003
     }
    ],
-   "profit_percent": 227.24,
-   "profit_usd": 159.15,
+   "profit_percent": 227.77,
+   "profit_usd": 159.53,
    "dd_max": -55.31,
    "balance_usd": 229.56,
    "subscriber_count": 0,
@@ -59,7 +59,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:25:11.000Z",
    "deal_count": 11003,
-   "current_dd_pct": 0.1,
+   "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -74,13 +74,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1255
+     "count": 1257
     }
    ],
-   "profit_percent": 831.3,
-   "profit_usd": 249.48,
+   "profit_percent": 825.88,
+   "profit_usd": 247.85,
    "dd_max": -25.8,
-   "balance_usd": 279.62,
+   "balance_usd": 277.92,
    "subscriber_count": 2,
    "leverage": 2000,
    "is_cent": true,
@@ -90,8 +90,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:30:37.000Z",
-   "deal_count": 1255,
-   "current_dd_pct": 0.23,
+   "deal_count": 1257,
+   "current_dd_pct": 0.81,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -141,8 +141,8 @@
      "count": 67
     }
    ],
-   "profit_percent": 13.51,
-   "profit_usd": 67.56,
+   "profit_percent": 13.73,
+   "profit_usd": 68.63,
    "dd_max": -3.16,
    "balance_usd": 544.77,
    "subscriber_count": 0,
@@ -173,8 +173,8 @@
      "count": 187
     }
    ],
-   "profit_percent": 37.42,
-   "profit_usd": 374.24,
+   "profit_percent": 36.39,
+   "profit_usd": 363.96,
    "dd_max": -15.84,
    "balance_usd": 1384.61,
    "subscriber_count": 6,
@@ -187,7 +187,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
    "deal_count": 187,
-   "current_dd_pct": 0.74,
+   "current_dd_pct": 1.49,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
