@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T06:08:36Z",
+ "fetched_at": "2026-11-16T07:08:48Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -13,8 +13,8 @@
      "count": 717
     }
    ],
-   "profit_percent": 917.58,
-   "profit_usd": 917.62,
+   "profit_percent": 916.56,
+   "profit_usd": 916.61,
    "dd_max": -48.57,
    "balance_usd": 1012.2,
    "subscriber_count": 0,
@@ -27,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-05-17T08:09:09.000Z",
    "deal_count": 717,
-   "current_dd_pct": 0.33,
+   "current_dd_pct": 0.43,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -42,13 +42,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 11015
+     "count": 11016
     }
    ],
-   "profit_percent": 230.19,
-   "profit_usd": 161.22,
+   "profit_percent": 230.86,
+   "profit_usd": 161.7,
    "dd_max": -55.31,
-   "balance_usd": 231.6,
+   "balance_usd": 231.89,
    "subscriber_count": 0,
    "leverage": 2000,
    "is_cent": true,
@@ -58,8 +58,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:25:11.000Z",
-   "deal_count": 11015,
-   "current_dd_pct": 0.08,
+   "deal_count": 11016,
+   "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -109,8 +109,8 @@
      "count": 1165
     }
    ],
-   "profit_percent": 149.57,
-   "profit_usd": 747.88,
+   "profit_percent": 149.38,
+   "profit_usd": 746.95,
    "dd_max": -26.05,
    "balance_usd": 1280.06,
    "subscriber_count": 0,
@@ -123,7 +123,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-06-30T13:48:38.000Z",
    "deal_count": 1165,
-   "current_dd_pct": 1.71,
+   "current_dd_pct": 1.79,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -173,8 +173,8 @@
      "count": 191
     }
    ],
-   "profit_percent": 41.69,
-   "profit_usd": 416.91,
+   "profit_percent": 41.68,
+   "profit_usd": 416.81,
    "dd_max": -15.84,
    "balance_usd": 1396.24,
    "subscriber_count": 6,
