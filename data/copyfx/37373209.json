@@ -12,9 +12,9 @@
     "login": 37373209,
     "profit_percent": 230.86,
     "profit_money": 161.7,
-    "profit_usd": 161.7,
+    "profit_usd": 161.69,
     "dd_max": -55.31,
-    "deal_count": 11016,
+    "deal_count": 11017,
     "balance_usd": 231.89,
     "offer_id": 4295004487,
     "name": "XaurusQuant",
@@ -1008,7 +1008,7 @@
      ],
      [
       "2026-11-16",
-      231.89
+      231.88
      ]
     ]
    }
@@ -1445,7 +1445,7 @@
    "data": [
     {
      "symbol": "XAUUSD",
-     "count": 11016
+     "count": 11017
     }
    ]
   },
