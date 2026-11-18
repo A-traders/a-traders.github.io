@@ -1,39 +1,7 @@
 {
- "fetched_at": "2026-11-18T13:08:32Z",
+ "fetched_at": "2026-11-18T14:03:08Z",
  "source_id": "bbba",
  "strategies": [
-  {
-   "login": 37346579,
-   "name": "XaurusQuant",
-   "strategy": "AGGRESSIVE SETTINGS",
-   "strategy_desc": "🛡 Xaurus: Консерватор\n\n• Настройки: Консервативные.\n• Риск: Max DD до 20%.\n• Цель: ~10% прибыли в месяц.\n• Идеально для стабильного роста и крупных депозитов.\n\n👇 Подключить CopyFX и следить за отчетами:\nhttps://t.me/+YC8sLPokRbdlY2Zi",
-   "symbols": [
-    {
-     "symbol": "XAUUSD",
-     "count": 730
-    }
-   ],
-   "profit_percent": 1016.06,
-   "profit_usd": 1016.11,
-   "dd_max": -48.57,
-   "balance_usd": 1116.18,
-   "subscriber_count": 0,
-   "leverage": 2000,
-   "is_cent": true,
-   "account_type": "ProCent",
-   "platform": "mt5",
-   "min_equity_usd": 100.0,
-   "commission_rate": 30.0,
-   "payout_period_days": 14,
-   "registration_time": "2026-05-17T08:09:09.000Z",
-   "deal_count": 730,
-   "current_dd_pct": 0.0,
-   "nontrade_ops": [],
-   "withdrawn_usd": 0,
-   "deposited_usd": 0,
-   "listed": true,
-   "public_url": "https://roboforex.com/copy-trading/rating/bbba/37346579/"
-  },
   {
    "login": 37373209,
    "name": "XaurusQuant",
@@ -42,11 +10,11 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 11032
+     "count": 11033
     }
    ],
-   "profit_percent": 235.14,
-   "profit_usd": 164.69,
+   "profit_percent": 233.78,
+   "profit_usd": 163.74,
    "dd_max": -55.31,
    "balance_usd": 234.88,
    "subscriber_count": 0,
@@ -58,8 +26,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:25:11.000Z",
-   "deal_count": 11032,
-   "current_dd_pct": 0.0,
+   "deal_count": 11033,
+   "current_dd_pct": 0.4,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -109,8 +77,8 @@
      "count": 1183
     }
    ],
-   "profit_percent": 146.38,
-   "profit_usd": 731.83,
+   "profit_percent": 139.67,
+   "profit_usd": 697.99,
    "dd_max": -47.86,
    "balance_usd": 1257.26,
    "subscriber_count": 0,
@@ -123,7 +91,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-06-30T13:48:38.000Z",
    "deal_count": 1183,
-   "current_dd_pct": 1.87,
+   "current_dd_pct": 4.54,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -170,13 +138,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 199
+     "count": 201
     }
    ],
-   "profit_percent": 47.32,
-   "profit_usd": 473.28,
+   "profit_percent": 45.4,
+   "profit_usd": 454.0,
    "dd_max": -15.84,
-   "balance_usd": 1407.67,
+   "balance_usd": 1451.38,
    "subscriber_count": 8,
    "leverage": 2000,
    "is_cent": true,
@@ -186,7 +154,7 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
-   "deal_count": 199,
+   "deal_count": 201,
    "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
