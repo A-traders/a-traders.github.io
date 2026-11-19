@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-19T02:08:26Z",
+ "fetched_at": "2026-11-19T03:08:29Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -10,11 +10,11 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 11034
+     "count": 11035
     }
    ],
-   "profit_percent": 235.49,
-   "profit_usd": 164.94,
+   "profit_percent": 234.18,
+   "profit_usd": 164.02,
    "dd_max": -55.31,
    "balance_usd": 235.13,
    "subscriber_count": 0,
@@ -26,8 +26,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:25:11.000Z",
-   "deal_count": 11034,
-   "current_dd_pct": 0.0,
+   "deal_count": 11035,
+   "current_dd_pct": 0.39,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -74,13 +74,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1184
+     "count": 1191
     }
    ],
-   "profit_percent": 150.07,
-   "profit_usd": 750.44,
+   "profit_percent": 153.6,
+   "profit_usd": 768.21,
    "dd_max": -47.86,
-   "balance_usd": 1260.69,
+   "balance_usd": 1276.28,
    "subscriber_count": 0,
    "leverage": 2000,
    "is_cent": true,
@@ -90,8 +90,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-06-30T13:48:38.000Z",
-   "deal_count": 1184,
-   "current_dd_pct": 0.4,
+   "deal_count": 1191,
+   "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -138,13 +138,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 205
+     "count": 207
     }
    ],
-   "profit_percent": 39.42,
-   "profit_usd": 394.17,
+   "profit_percent": 41.0,
+   "profit_usd": 410.02,
    "dd_max": -15.84,
-   "balance_usd": 1398.68,
+   "balance_usd": 1350.01,
    "subscriber_count": 8,
    "leverage": 2000,
    "is_cent": true,
@@ -154,8 +154,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
-   "deal_count": 205,
-   "current_dd_pct": 0.45,
+   "deal_count": 207,
+   "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
