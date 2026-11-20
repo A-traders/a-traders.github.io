@@ -1,39 +1,7 @@
 {
- "fetched_at": "2026-11-20T20:08:35Z",
+ "fetched_at": "2026-11-20T21:08:26Z",
  "source_id": "bbba",
  "strategies": [
-  {
-   "login": 37373209,
-   "name": "XaurusQuant",
-   "strategy": "SWINGER AI PRO100",
-   "strategy_desc": "A counter-trend trading advisor designed for automated trading on XAUUSD (Gold).\n\nThe strategy focuses on identifying opportunities to trade against short-term market movements, aiming to benefit from potential price corrections and reversals.\n\nTrading is performed automatically according to predefined algorithms and risk-management parameters. Results may vary depending on market conditions, volatility, and account settings.",
-   "symbols": [
-    {
-     "symbol": "XAUUSD",
-     "count": 11150
-    }
-   ],
-   "profit_percent": -31.16,
-   "profit_usd": -21.94,
-   "dd_max": -66.57,
-   "balance_usd": 41.23,
-   "subscriber_count": 0,
-   "leverage": 2000,
-   "is_cent": true,
-   "account_type": "ProCent",
-   "platform": "mt5",
-   "min_equity_usd": 100.0,
-   "commission_rate": 30.0,
-   "payout_period_days": 14,
-   "registration_time": "2026-07-12T04:25:11.000Z",
-   "deal_count": 11150,
-   "current_dd_pct": 79.58,
-   "nontrade_ops": [],
-   "withdrawn_usd": 0,
-   "deposited_usd": 0,
-   "listed": true,
-   "public_url": "https://roboforex.com/copy-trading/rating/bbba/37373209/"
-  },
   {
    "login": 37373213,
    "name": "XaurusMK3",
@@ -45,12 +13,12 @@
      "count": 1351
     }
    ],
-   "profit_percent": 928.4,
-   "profit_usd": 278.63,
+   "profit_percent": 925.57,
+   "profit_usd": 277.78,
    "dd_max": -25.8,
    "balance_usd": 309.87,
    "subscriber_count": 5,
-   "leverage": 2000,
+   "leverage": 1000,
    "is_cent": true,
    "account_type": "ProCent",
    "platform": "mt5",
@@ -59,7 +27,7 @@
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:30:37.000Z",
    "deal_count": 1351,
-   "current_dd_pct": 0.38,
+   "current_dd_pct": 0.65,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -82,7 +50,7 @@
    "dd_max": -47.86,
    "balance_usd": 1349.46,
    "subscriber_count": 0,
-   "leverage": 2000,
+   "leverage": 1000,
    "is_cent": true,
    "account_type": "ProCent",
    "platform": "mt5",
@@ -141,12 +109,12 @@
      "count": 217
     }
    ],
-   "profit_percent": 71.56,
-   "profit_usd": 715.63,
+   "profit_percent": 70.51,
+   "profit_usd": 705.14,
    "dd_max": -15.84,
    "balance_usd": 1661.76,
    "subscriber_count": 8,
-   "leverage": 2000,
+   "leverage": 1000,
    "is_cent": true,
    "account_type": "ProCent",
    "platform": "mt5",
