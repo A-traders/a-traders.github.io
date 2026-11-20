@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T05:08:24Z",
+ "fetched_at": "2026-11-20T06:08:32Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -10,11 +10,11 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 11135
+     "count": 11136
     }
    ],
-   "profit_percent": 62.48,
-   "profit_usd": 43.68,
+   "profit_percent": 83.35,
+   "profit_usd": 58.31,
    "dd_max": -55.31,
    "balance_usd": 118.0,
    "subscriber_count": 0,
@@ -26,8 +26,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:25:11.000Z",
-   "deal_count": 11135,
-   "current_dd_pct": 51.81,
+   "deal_count": 11136,
+   "current_dd_pct": 45.62,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -74,13 +74,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1223
+     "count": 1239
     }
    ],
-   "profit_percent": 161.53,
-   "profit_usd": 808.17,
+   "profit_percent": 156.13,
+   "profit_usd": 780.98,
    "dd_max": -47.86,
-   "balance_usd": 1325.48,
+   "balance_usd": 1341.38,
    "subscriber_count": 0,
    "leverage": 2000,
    "is_cent": true,
@@ -90,8 +90,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-06-30T13:48:38.000Z",
-   "deal_count": 1223,
-   "current_dd_pct": 0.53,
+   "deal_count": 1239,
+   "current_dd_pct": 3.74,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -138,13 +138,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 213
+     "count": 215
     }
    ],
-   "profit_percent": 69.36,
-   "profit_usd": 693.66,
+   "profit_percent": 65.16,
+   "profit_usd": 651.63,
    "dd_max": -15.84,
-   "balance_usd": 1539.67,
+   "balance_usd": 1649.47,
    "subscriber_count": 8,
    "leverage": 2000,
    "is_cent": true,
@@ -154,7 +154,7 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
-   "deal_count": 213,
+   "deal_count": 215,
    "current_dd_pct": 0.0,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
