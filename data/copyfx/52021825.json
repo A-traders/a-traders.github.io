@@ -12,15 +12,15 @@
     "avatar": "/files/avatar-cache/c0/1e/e6/c6e1bb76eb4eceb6e40ee0f5f1/286x233.jpg",
     "strategy": "XAURUS PRO AI",
     "strategy_desc": "This account was created to achieve a 1,000% return on the initial deposit.\nhttps://t.me/XaurusQuant",
-    "profit_percent": 93.45,
-    "profit_usd": 934.58,
+    "profit_percent": 90.28,
+    "profit_usd": 902.86,
     "dd_max": -15.84,
-    "balance_usd": 1911.55,
+    "balance_usd": 1902.96,
     "portfolio_usd": "$",
     "subscriber_count": 8,
     "min_equity_usd": 100,
     "registration_time": "2026-10-10T14:47:38.000Z",
-    "deal_count": 255,
+    "deal_count": 258,
     "leverage": 2000,
     "offer": {
      "scheme": 1,
@@ -191,7 +191,7 @@
      ],
      [
       "2026-11-27",
-      1911.55
+      1902.96
      ]
     ],
     "equity": [
@@ -349,7 +349,7 @@
      ],
      [
       "2026-11-27",
-      1934.68
+      1902.96
      ]
     ]
    }
@@ -512,7 +512,7 @@
     ],
     [
      "2026-11-27",
-     93.45
+     90.28
     ]
    ]
   },
@@ -522,7 +522,7 @@
    "data": [
     {
      "symbol": "XAUUSD",
-     "count": 255
+     "count": 258
     }
    ]
   },
