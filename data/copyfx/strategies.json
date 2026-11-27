@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T00:08:24Z",
+ "fetched_at": "2026-11-27T01:08:14Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -10,13 +10,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 1413
+     "count": 1421
     }
    ],
-   "profit_percent": 988.05,
-   "profit_usd": 296.53,
+   "profit_percent": 806.25,
+   "profit_usd": 241.96,
    "dd_max": -25.8,
-   "balance_usd": 325.5,
+   "balance_usd": 278.11,
    "subscriber_count": 7,
    "leverage": 2000,
    "is_cent": true,
@@ -26,8 +26,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-07-12T04:30:37.000Z",
-   "deal_count": 1413,
-   "current_dd_pct": 1.0,
+   "deal_count": 1421,
+   "current_dd_pct": 17.54,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
@@ -106,13 +106,13 @@
    "symbols": [
     {
      "symbol": "XAUUSD",
-     "count": 249
+     "count": 251
     }
    ],
-   "profit_percent": 73.58,
-   "profit_usd": 735.89,
+   "profit_percent": 66.84,
+   "profit_usd": 668.42,
    "dd_max": -15.84,
-   "balance_usd": 1781.26,
+   "balance_usd": 1706.25,
    "subscriber_count": 9,
    "leverage": 2000,
    "is_cent": true,
@@ -122,8 +122,8 @@
    "commission_rate": 30.0,
    "payout_period_days": 14,
    "registration_time": "2026-10-10T14:47:38.000Z",
-   "deal_count": 249,
-   "current_dd_pct": 2.54,
+   "deal_count": 251,
+   "current_dd_pct": 6.33,
    "nontrade_ops": [],
    "withdrawn_usd": 0,
    "deposited_usd": 0,
