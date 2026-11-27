@@ -5,175 +5,36 @@
   "ratingCard/getAccountStats": {
    "success": true,
    "error_code": 0,
-   "errno": 0,
-   "message": "ok",
    "data": {
-    "source_id": "bbbb",
     "login": 77057061,
-    "profit_percent": 26.27,
-    "profit_money": 131.35,
-    "profit_usd": 131.35,
-    "dd_max": -3.16,
-    "deal_count": 104,
-    "balance_usd": 631.35,
-    "offer_id": 4295004489,
+    "platform": "mt5",
     "name": "XaurusQuant",
     "avatar": "/files/avatar-cache/c0/1e/e6/c6e1bb76eb4eceb6e40ee0f5f1/286x233.jpg",
-    "subscriber_count": 0,
-    "portfolio_usd": "$",
-    "registration_time": "2026-09-08T08:06:44.000Z",
     "strategy": "Goal 100 percent",
     "strategy_desc": "The goal of this account is to achieve a 100% return. Once the target is reached, the account will be stopped.",
+    "profit_percent": 26.27,
+    "profit_usd": 131.35,
+    "dd_max": -3.16,
+    "balance_usd": 631.35,
+    "portfolio_usd": "$",
+    "subscriber_count": 0,
     "min_equity_usd": 500,
-    "group": "real-stan-HEcn\\ru-stan-ecn-U",
-    "currency": "USD",
-    "subs_mode": 0,
+    "registration_time": "2026-09-08T08:06:44.000Z",
+    "deal_count": 104,
     "leverage": 500,
-    "is_cent": false,
     "offer": {
-     "id": 4295004489,
      "scheme": 1,
      "commission": {
       "type": 1,
       "rate": 30
      },
-     "duration": {
-      "from": "2026-09-12T05:40:36.158Z",
-      "to": null
-     },
-     "affiliate_program": false,
      "period": 1209600
-    },
-    "profit_percent_chart": [
-     [
-      "2026-10-07",
-      3.68
-     ],
-     [
-      "2026-10-09",
-      1.63
-     ],
-     [
-      "2026-10-10",
-      2.61
-     ],
-     [
-      "2026-10-11",
-      4.07
-     ],
-     [
-      "2026-10-15",
-      3.12
-     ],
-     [
-      "2026-10-16",
-      4.23
-     ],
-     [
-      "2026-10-20",
-      4.47
-     ],
-     [
-      "2026-10-21",
-      4.73
-     ],
-     [
-      "2026-10-27",
-      4.83
-     ],
-     [
-      "2026-10-29",
-      5.09
-     ],
-     [
-      "2026-10-30",
-      5.22
-     ],
-     [
-      "2026-11-04",
-      4.41
-     ],
-     [
-      "2026-11-05",
-      11.73
-     ],
-     [
-      "2026-11-06",
-      10.74
-     ],
-     [
-      "2026-11-08",
-      10.29
-     ],
-     [
-      "2026-11-09",
-      10.85
-     ],
-     [
-      "2026-11-11",
-      10.16
-     ],
-     [
-      "2026-11-12",
-      13.44
-     ],
-     [
-      "2026-11-13",
-      17.86
-     ],
-     [
-      "2026-11-14",
-      18
-     ],
-     [
-      "2026-11-15",
-      18.56
-     ],
-     [
-      "2026-11-17",
-      18.62
-     ],
-     [
-      "2026-11-20",
-      19.16
-     ],
-     [
-      "2026-11-21",
-      19.03
-     ],
-     [
-      "2026-11-22",
-      20.48
-     ],
-     [
-      "2026-11-23",
-      18.94
-     ],
-     [
-      "2026-11-24",
-      21.82
-     ],
-     [
-      "2026-11-25",
-      26.1
-     ],
-     [
-      "2026-11-26",
-      26.17
-     ],
-     [
-      "2026-11-27",
-      26.27
-     ]
-    ],
-    "platform": "mt5"
+    }
    }
   },
   "account/chart/balance_equity": {
    "success": true,
    "error_code": 0,
-   "errno": 0,
-   "message": "ok",
    "data": {
     "balance": [
      [
@@ -488,8 +349,6 @@
   "account/chart/profit_percent": {
    "success": true,
    "error_code": 0,
-   "errno": 0,
-   "message": "ok",
    "data": [
     [
      "2026-09-08",
@@ -648,8 +507,6 @@
   "account/chart/symbols": {
    "success": true,
    "error_code": 0,
-   "errno": 0,
-   "message": "ok",
    "data": [
     {
      "symbol": "BTCUSD",
@@ -686,8 +543,6 @@
   "ratingCard/getDdMax": {
    "success": true,
    "error_code": 0,
-   "errno": 0,
-   "message": "ok",
    "data": [
     [
      "2026-09-08",

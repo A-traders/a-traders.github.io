@@ -5,175 +5,36 @@
   "ratingCard/getAccountStats": {
    "success": true,
    "error_code": 0,
-   "errno": 0,
-   "message": "ok",
    "data": {
-    "source_id": "bbba",
     "login": 37373213,
-    "profit_percent": 1113.36,
-    "profit_money": 334.15,
-    "profit_usd": 334.15,
-    "dd_max": -25.8,
-    "deal_count": 1422,
-    "balance_usd": 364.22,
-    "offer_id": 4295007080,
+    "platform": "mt5",
     "name": "XaurusMK3",
     "avatar": "/files/avatar-cache/02/55/40/b6acb32be24ae4646f5fb2a6ea/286x233.jpg",
-    "subscriber_count": 7,
-    "portfolio_usd": "$",
-    "registration_time": "2026-07-12T04:30:37.000Z",
     "strategy": "XAURUS PRO AI",
     "strategy_desc": "This account was created to achieve a 1,000% return on the initial deposit. https://t.me/XaurusQuant",
+    "profit_percent": 1113.36,
+    "profit_usd": 334.15,
+    "dd_max": -25.8,
+    "balance_usd": 364.22,
+    "portfolio_usd": "$",
+    "subscriber_count": 7,
     "min_equity_usd": 100,
-    "group": "real-cent-HPro\\ru-cent-pro-U",
-    "currency": "USD",
-    "subs_mode": 0,
+    "registration_time": "2026-07-12T04:30:37.000Z",
+    "deal_count": 1422,
     "leverage": 2000,
-    "is_cent": true,
     "offer": {
-     "id": 4295007080,
      "scheme": 1,
      "commission": {
       "type": 1,
       "rate": 30
      },
-     "duration": {
-      "from": "2026-10-12T09:40:10.890Z",
-      "to": null
-     },
-     "affiliate_program": false,
      "period": 1209600
-    },
-    "profit_percent_chart": [
-     [
-      "2026-10-27",
-      637.38
-     ],
-     [
-      "2026-10-28",
-      656.17
-     ],
-     [
-      "2026-10-29",
-      653.18
-     ],
-     [
-      "2026-10-30",
-      666.36
-     ],
-     [
-      "2026-10-31",
-      666.36
-     ],
-     [
-      "2026-11-01",
-      666.36
-     ],
-     [
-      "2026-11-02",
-      707.39
-     ],
-     [
-      "2026-11-03",
-      705.72
-     ],
-     [
-      "2026-11-04",
-      691.12
-     ],
-     [
-      "2026-11-05",
-      726.93
-     ],
-     [
-      "2026-11-06",
-      716.55
-     ],
-     [
-      "2026-11-07",
-      716.55
-     ],
-     [
-      "2026-11-09",
-      763.68
-     ],
-     [
-      "2026-11-10",
-      764.08
-     ],
-     [
-      "2026-11-11",
-      832.37
-     ],
-     [
-      "2026-11-12",
-      832.48
-     ],
-     [
-      "2026-11-13",
-      856.87
-     ],
-     [
-      "2026-11-14",
-      856.87
-     ],
-     [
-      "2026-11-15",
-      856.87
-     ],
-     [
-      "2026-11-16",
-      865.11
-     ],
-     [
-      "2026-11-17",
-      872.77
-     ],
-     [
-      "2026-11-18",
-      890.58
-     ],
-     [
-      "2026-11-19",
-      916.84
-     ],
-     [
-      "2026-11-20",
-      923.67
-     ],
-     [
-      "2026-11-21",
-      923.67
-     ],
-     [
-      "2026-11-23",
-      945.68
-     ],
-     [
-      "2026-11-24",
-      963.45
-     ],
-     [
-      "2026-11-25",
-      999.05
-     ],
-     [
-      "2026-11-26",
-      994.65
-     ],
-     [
-      "2026-11-27",
-      1113.36
-     ]
-    ],
-    "platform": "mt5"
+    }
    }
   },
   "account/chart/balance_equity": {
    "success": true,
    "error_code": 0,
-   "errno": 0,
-   "message": "ok",
    "data": {
     "balance": [
      [
@@ -1208,8 +1069,6 @@
   "account/chart/profit_percent": {
    "success": true,
    "error_code": 0,
-   "errno": 0,
-   "message": "ok",
    "data": [
     [
      "2026-07-12",
@@ -1728,8 +1587,6 @@
   "account/chart/symbols": {
    "success": true,
    "error_code": 0,
-   "errno": 0,
-   "message": "ok",
    "data": [
     {
      "symbol": "XAUUSD",
@@ -1766,8 +1623,6 @@
   "ratingCard/getDdMax": {
    "success": true,
    "error_code": 0,
-   "errno": 0,
-   "message": "ok",
    "data": [
     [
      "2026-07-12",
