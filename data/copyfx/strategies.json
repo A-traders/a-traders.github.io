@@ -1,39 +1,7 @@
 {
- "fetched_at": "2026-11-28T10:08:18Z",
+ "fetched_at": "2026-11-28T10:26:38Z",
  "source_id": "bbba",
  "strategies": [
-  {
-   "login": 37373213,
-   "name": "XaurusMK3",
-   "strategy": "XAURUS PRO AI",
-   "strategy_desc": "This account was created to achieve a 1,000% return on the initial deposit. https://t.me/XaurusQuant",
-   "symbols": [
-    {
-     "symbol": "XAUUSD",
-     "count": 1422
-    }
-   ],
-   "profit_percent": 1113.36,
-   "profit_usd": 334.15,
-   "dd_max": -25.8,
-   "balance_usd": 364.22,
-   "subscriber_count": 7,
-   "leverage": 2000,
-   "is_cent": null,
-   "account_type": null,
-   "platform": "mt5",
-   "min_equity_usd": 100.0,
-   "commission_rate": 30.0,
-   "payout_period_days": 14,
-   "registration_time": "2026-07-12T04:30:37.000Z",
-   "deal_count": 1422,
-   "current_dd_pct": 0.0,
-   "nontrade_ops": [],
-   "withdrawn_usd": 0,
-   "deposited_usd": 0,
-   "listed": true,
-   "public_url": "https://roboforex.com/copy-trading/rating/bbba/37373213/"
-  },
   {
    "login": 37367875,
    "name": "XaurusQuant",
