@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T23:08:16Z",
+ "fetched_at": "2026-11-28T00:08:18Z",
  "source_id": "bbba",
  "strategies": [
   {
@@ -18,7 +18,7 @@
    "dd_max": -25.8,
    "balance_usd": 364.22,
    "subscriber_count": 8,
-   "leverage": 1000,
+   "leverage": 2000,
    "is_cent": null,
    "account_type": null,
    "platform": "mt5",
@@ -50,7 +50,7 @@
    "dd_max": -47.86,
    "balance_usd": 1391.15,
    "subscriber_count": 0,
-   "leverage": 1000,
+   "leverage": 2000,
    "is_cent": null,
    "account_type": null,
    "platform": "mt5",
@@ -114,7 +114,7 @@
    "dd_max": -15.84,
    "balance_usd": 1902.96,
    "subscriber_count": 8,
-   "leverage": 1000,
+   "leverage": 2000,
    "is_cent": null,
    "account_type": null,
    "platform": "mt5",

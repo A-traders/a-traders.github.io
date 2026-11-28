@@ -21,7 +21,7 @@
     "min_equity_usd": 100,
     "registration_time": "2026-06-30T13:48:38.000Z",
     "deal_count": 1313,
-    "leverage": 1000,
+    "leverage": 2000,
     "offer": {
      "scheme": 1,
      "commission": {
